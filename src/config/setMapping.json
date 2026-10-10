@@ -1,0 +1,583 @@
+{
+  "setCodes": {
+    "SVI": {
+      "tcgdexEn": "sv01",
+      "name": "Scarlet & Violet",
+      "targetIdSets": [
+        "SV1S",
+        "SV1V"
+      ]
+    },
+    "PAL": {
+      "tcgdexEn": "sv02",
+      "name": "Paldea Evolved",
+      "targetIdSets": [
+        "SV2D",
+        "SV2P",
+        "SV1a"
+      ]
+    },
+    "OBF": {
+      "tcgdexEn": "sv03",
+      "name": "Obsidian Flames",
+      "targetIdSets": [
+        "SV3s"
+      ]
+    },
+    "MEW": {
+      "tcgdexEn": "sv03.5",
+      "name": "151",
+      "targetIdSets": [
+        "SV2a"
+      ]
+    },
+    "PAR": {
+      "tcgdexEn": "sv04",
+      "name": "Paradox Rift",
+      "targetIdSets": [
+        "SV4s"
+      ]
+    },
+    "PAF": {
+      "tcgdexEn": "sv04.5",
+      "name": "Paldean Fates",
+      "targetIdSets": [
+        "SV4a"
+      ]
+    },
+    "TEF": {
+      "tcgdexEn": "sv05",
+      "name": "Temporal Forces",
+      "targetIdSets": [
+        "SV5s"
+      ]
+    },
+    "TWM": {
+      "tcgdexEn": "sv06",
+      "name": "Twilight Masquerade",
+      "targetIdSets": [
+        "SV6s"
+      ]
+    },
+    "SFA": {
+      "tcgdexEn": "sv06.5",
+      "name": "Shrouded Fable",
+      "targetIdSets": [
+        "SV6s",
+        "SV7s",
+        "SV8a"
+      ]
+    },
+    "SCR": {
+      "tcgdexEn": "sv07",
+      "name": "Stellar Crown",
+      "targetIdSets": [
+        "SV7s"
+      ]
+    },
+    "SSP": {
+      "tcgdexEn": "sv08",
+      "name": "Surging Sparks",
+      "targetIdSets": [
+        "SV8s"
+      ]
+    },
+    "PRE": {
+      "tcgdexEn": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "targetIdSets": [
+        "SV8a"
+      ]
+    },
+    "JTM": {
+      "tcgdexEn": "sv09",
+      "name": "Journey Together",
+      "targetIdSets": [
+        "SV9s"
+      ]
+    },
+    "SVE": {
+      "tcgdexEn": "sve",
+      "name": "Scarlet & Violet Energy",
+      "targetIdSets": [
+        "SV1S",
+        "SV1V",
+        "SV3s"
+      ]
+    },
+    "BRS": {
+      "tcgdexEn": "swsh9",
+      "name": "Brilliant Stars",
+      "targetIdSets": [
+        "S9",
+        "SC3a"
+      ]
+    },
+    "ASR": {
+      "tcgdexEn": "swsh10",
+      "name": "Astral Radiance",
+      "targetIdSets": [
+        "S10D",
+        "S10P"
+      ]
+    },
+    "PGO": {
+      "tcgdexEn": "swsh10.5",
+      "name": "Pokémon GO",
+      "targetIdSets": [
+        "S10b"
+      ]
+    },
+    "LOR": {
+      "tcgdexEn": "swsh11",
+      "name": "Lost Origin",
+      "targetIdSets": [
+        "S11",
+        "S11a"
+      ]
+    },
+    "SIT": {
+      "tcgdexEn": "swsh12",
+      "name": "Silver Tempest",
+      "targetIdSets": [
+        "S12"
+      ]
+    },
+    "CRZ": {
+      "tcgdexEn": "swsh12.5",
+      "name": "Crown Zenith",
+      "targetIdSets": [
+        "S12a"
+      ]
+    },
+    "FST": {
+      "tcgdexEn": "swsh8",
+      "name": "Fusion Strike",
+      "targetIdSets": [
+        "S8"
+      ]
+    },
+    "EVS": {
+      "tcgdexEn": "swsh7",
+      "name": "Evolving Skies",
+      "targetIdSets": [
+        "S7R",
+        "S7D"
+      ]
+    },
+    "CRE": {
+      "tcgdexEn": "swsh6",
+      "name": "Chilling Reign",
+      "targetIdSets": [
+        "S6K",
+        "S6H"
+      ]
+    },
+    "BST": {
+      "tcgdexEn": "swsh5",
+      "name": "Battle Styles",
+      "targetIdSets": [
+        "S5I",
+        "S5R"
+      ]
+    },
+    "SHF": {
+      "tcgdexEn": "swsh4.5",
+      "name": "Shining Fates",
+      "targetIdSets": [
+        "SC3a",
+        "SC3b"
+      ]
+    },
+    "VIV": {
+      "tcgdexEn": "swsh4",
+      "name": "Vivid Voltage",
+      "targetIdSets": [
+        "SCC",
+        "SCD"
+      ]
+    },
+    "DAA": {
+      "tcgdexEn": "swsh3",
+      "name": "Darkness Ablaze",
+      "targetIdSets": [
+        "SCA",
+        "SCB"
+      ]
+    },
+    "RCL": {
+      "tcgdexEn": "swsh2",
+      "name": "Rebel Clash",
+      "targetIdSets": [
+        "SC1a",
+        "SC1b"
+      ]
+    },
+    "SSH": {
+      "tcgdexEn": "swsh1",
+      "name": "Sword & Shield",
+      "targetIdSets": [
+        "SC1a",
+        "SC1b",
+        "SC1D"
+      ]
+    }
+  },
+  "trainerTranslations": {
+    "Arven": "Arvin",
+    "Boss's Orders": "Perintah Bos",
+    "Professor's Research": "Penelitian Profesor",
+    "Iono": "Mistika",
+    "Penny": "Pania",
+    "Professor Sada's Vitality": "Keintensan Profesor Olim",
+    "Sada's Vitality": "Keintensan Profesor Olim",
+    "Professor Turo's Scenario": "Skenario Profesor Futu",
+    "Turo's Scenario": "Skenario Profesor Futu",
+    "Eri": "Eria",
+    "Morty's Conviction": "Kepastian Morty",
+    "Bianca's Devotion": "Kemurnian Hati Bianca",
+    "Salvatore": "Salvio",
+    "Explorer's Guidance": "Bimbingan Penjelajah",
+    "Ciphermaniac's Codebreaking": "Penelaahan Maniak Sandi",
+    "Ultra Ball": "Bola Ultra",
+    "Nest Ball": "Bola Sarang",
+    "Buddy-Poffin": "Poffin Bersahabat",
+    "Buddy Poffin": "Poffin Bersahabat",
+    "Rare Candy": "Permen Langka",
+    "Switch": "Tukar Pokémon",
+    "Switch Cart": "Gerobak Penukar",
+    "Super Rod": "Tongkat Pancing Super",
+    "Counter Catcher": "Counter Catcher",
+    "Prime Catcher": "Prime Catcher",
+    "Lost Vacuum": "Vakum Hilang",
+    "Rescue Board": "Emergency Board",
+    "Earthen Vessel": "Wadah Daratan",
+    "Night Stretcher": "Tandu Malam",
+    "Bug Catching Set": "Set Penangkap Serangga",
+    "Technical Machine: Evolution": "MJ Evolution",
+    "Technical Machine: Devolution": "MJ Devolution",
+    "Technical Machine: Turbo Energize": "MJ Energy Turbo",
+    "Technical Machine: Crisis Punch": "MJ Serangan Mendadak",
+    "Defiance Band": "Pita Pembangkang",
+    "Defiance Vest": "Rompi Tidak Mau Kalah",
+    "Bravery Charm": "Jimat Keberanian",
+    "Hero's Cape": "Hero Mantle",
+    "Maximum Belt": "Sabuk Maksimum",
+    "Heavy Baton": "Baton Berat",
+    "Forest Seal Stone": "Batu Segel Hutan",
+    "Artazon": "Artazon",
+    "Town Store": "Pusat Perbelanjaan Kota",
+    "PokéStop": "PokéStop",
+    "Temple of Sinnoh": "Kuil Sinnoh",
+    "Collapsed Stadium": "Stadion Roboh",
+    "Path to the Peak": "Jalan Menuju Puncak Salju",
+    "Hisuian Heavy Ball": "Bola Berat Hisui",
+    "Pal Pad": "Buku Catatan Teman",
+    "Energy Retrieval": "Pengambilan Energi",
+    "Superior Energy Retrieval": "Pengambilan Energi Super",
+    "Energy Switch": "Pengalihan Energi",
+    "Crispin": "Akamatsu",
+    "Briar": "Briar",
+    "Kieran": "Suguri",
+    "Carmine": "Seile",
+    "Roxanne": "Tsutsuji",
+    "Colress's Experiment": "Eksperimen Colress",
+    "Grand Tree": "Pohon Besar Agung",
+    "Secret Box": "Kotak Rahasia",
+    "Unfair Stamp": "Unfair Stamp",
+    "Hyper Aroma": "Aroma Hipnotis",
+    "Sparkling Spell": "Mantra Berkilau",
+    "Powerglass": "Jam Pasir Kekuatan",
+    "Neutral Center": "Neutral Center",
+    "Buddy-Buddy Poffin": "Poffin Bersahabat",
+    "Crushing Hammer": "Crush Hammer",
+    "Lillie's Determination": "Ketetapan Hati Lillie",
+    "Rosa's Encouragement": "Semangat Rosa",
+    "Poké Pad": "Poké Pad",
+    "Poke Pad": "Poké Pad",
+    "Special Red Card": "Kartu Merah Spesial",
+    "Risky Ruins": "Reruntuhan Berbahaya"
+  },
+  "energyTranslations": {
+    "Basic {R} Energy": "Energi Dasar Api",
+    "Basic Fire Energy": "Energi Dasar Api",
+    "Fire Energy": "Energi Dasar Api",
+    "Basic {W} Energy": "Energi Dasar Air",
+    "Basic Water Energy": "Energi Dasar Air",
+    "Water Energy": "Energi Dasar Air",
+    "Basic {G} Energy": "Energi Dasar Daun",
+    "Basic Grass Energy": "Energi Dasar Daun",
+    "Grass Energy": "Energi Dasar Daun",
+    "Basic {L} Energy": "Energi Dasar Listrik",
+    "Basic Lightning Energy": "Energi Dasar Listrik",
+    "Lightning Energy": "Energi Dasar Listrik",
+    "Basic {P} Energy": "Energi Dasar Psychic",
+    "Basic Psychic Energy": "Energi Dasar Psychic",
+    "Psychic Energy": "Energi Dasar Psychic",
+    "Basic {F} Energy": "Energi Dasar Petarung",
+    "Basic Fighting Energy": "Energi Dasar Petarung",
+    "Fighting Energy": "Energi Dasar Petarung",
+    "Basic {D} Energy": "Energi Dasar Kegelapan",
+    "Basic Darkness Energy": "Energi Dasar Kegelapan",
+    "Darkness Energy": "Energi Dasar Kegelapan",
+    "Basic {M} Energy": "Energi Dasar Logam",
+    "Basic Metal Energy": "Energi Dasar Logam",
+    "Metal Energy": "Energi Dasar Logam",
+    "Jet Energy": "Energi Jet",
+    "Double Turbo Energy": "Energi Turbo Ganda",
+    "Mist Energy": "Energi Kabut",
+    "Neo Upper Energy": "Energi Teratas Neo",
+    "Luminous Energy": "Energi Luminans",
+    "Reversal Energy": "Energi Reversal",
+    "Legacy Energy": "Energi Legasi",
+    "Boomerang Energy": "Energi Bumerang"
+  },
+  "quickOverrides": [
+    {
+      "enKey": "OBF-125",
+      "idSet": "SV3s",
+      "idLocalId": "098",
+      "nameId": "Charizard ex",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/098"
+    },
+    {
+      "enKey": "MEW-4",
+      "idSet": "SV3s",
+      "idLocalId": "013",
+      "nameId": "Charmander",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/013"
+    },
+    {
+      "enKey": "OBF-26",
+      "idSet": "SV3s",
+      "idLocalId": "013",
+      "nameId": "Charmander",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/013"
+    },
+    {
+      "enKey": "MEW-5",
+      "idSet": "SV3s",
+      "idLocalId": "014",
+      "nameId": "Charmeleon",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/014"
+    },
+    {
+      "enKey": "OBF-27",
+      "idSet": "SV3s",
+      "idLocalId": "014",
+      "nameId": "Charmeleon",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/014"
+    },
+    {
+      "enKey": "MEW-16",
+      "idSet": "SV3s",
+      "idLocalId": "137",
+      "nameId": "Pidgey",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/137"
+    },
+    {
+      "enKey": "OBF-164",
+      "idSet": "SV3s",
+      "idLocalId": "139",
+      "nameId": "Pidgeot ex",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/139"
+    },
+    {
+      "enKey": "OBF-186",
+      "idSet": "SV3s",
+      "idLocalId": "160",
+      "nameId": "Arvin",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/160"
+    },
+    {
+      "enKey": "SVI-166",
+      "idSet": "SV3s",
+      "idLocalId": "160",
+      "nameId": "Arvin",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/160"
+    },
+    {
+      "enKey": "PAL-172",
+      "idSet": "SV2D",
+      "idLocalId": "068",
+      "nameId": "Perintah Bos",
+      "setName": "Letusan Tanah",
+      "regMark": "G"
+    },
+    {
+      "enKey": "SVI-196",
+      "idSet": "SV1S",
+      "idLocalId": "073",
+      "nameId": "Bola Ultra",
+      "setName": "Scarlet ex",
+      "regMark": "G"
+    },
+    {
+      "enKey": "SVI-181",
+      "idSet": "SV1V",
+      "idLocalId": "074",
+      "nameId": "Bola Sarang",
+      "setName": "Violet ex",
+      "regMark": "G"
+    },
+    {
+      "enKey": "SVI-191",
+      "idSet": "SV3s",
+      "idLocalId": "153",
+      "nameId": "Permen Langka",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/153"
+    },
+    {
+      "enKey": "TEF-144",
+      "idSet": "SV5s",
+      "idLocalId": "123",
+      "nameId": "Poffin Bersahabat",
+      "setName": "Paradoks Andalan",
+      "regMark": "H",
+      "image": "https://assets.tcgdex.net/id/SV/SV5s/123"
+    },
+    {
+      "enKey": "PAL-188",
+      "idSet": "SV2P",
+      "idLocalId": "069",
+      "nameId": "Tongkat Pancing Super",
+      "setName": "Mara Bahaya Salju",
+      "regMark": "G"
+    },
+    {
+      "enKey": "PAR-160",
+      "idSet": "SV4s",
+      "idLocalId": "117",
+      "nameId": "Counter Catcher",
+      "setName": "Pertemuan Paradoks",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV4s/117"
+    },
+    {
+      "enKey": "TEF-157",
+      "idSet": "SV5s",
+      "idLocalId": "125",
+      "nameId": "Prime Catcher",
+      "setName": "Paradoks Andalan",
+      "regMark": "H",
+      "image": "https://assets.tcgdex.net/id/SV/SV5s/125"
+    },
+    {
+      "enKey": "PAR-163",
+      "idSet": "SV4s",
+      "idLocalId": "119",
+      "nameId": "Wadah Daratan",
+      "setName": "Pertemuan Paradoks",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV4s/119"
+    },
+    {
+      "enKey": "PAR-170",
+      "idSet": "SV4s",
+      "idLocalId": "127",
+      "nameId": "Keintensan Profesor Olim",
+      "setName": "Pertemuan Paradoks",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV4s/127"
+    },
+    {
+      "enKey": "PAR-171",
+      "idSet": "SV4s",
+      "idLocalId": "130",
+      "nameId": "Skenario Profesor Futu",
+      "setName": "Pertemuan Paradoks",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV4s/130"
+    },
+    {
+      "enKey": "TEF-159",
+      "idSet": "SV5s",
+      "idLocalId": "127",
+      "nameId": "Emergency Board",
+      "setName": "Paradoks Andalan",
+      "regMark": "H",
+      "image": "https://assets.tcgdex.net/id/SV/SV5s/127"
+    },
+    {
+      "enKey": "PAR-178",
+      "idSet": "SV4s",
+      "idLocalId": "125",
+      "nameId": "MJ Evolution",
+      "setName": "Pertemuan Paradoks",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV4s/125"
+    },
+    {
+      "enKey": "PAR-177",
+      "idSet": "SV4s",
+      "idLocalId": "126",
+      "nameId": "MJ Devolution",
+      "setName": "Pertemuan Paradoks",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV4s/126"
+    },
+    {
+      "enKey": "SFA-61",
+      "idSet": "SV7s",
+      "idLocalId": "147",
+      "nameId": "Tandu Malam‌",
+      "setName": "Bimbingan Rasi",
+      "regMark": "H",
+      "image": "https://assets.tcgdex.net/id/SV/SV7s/147"
+    },
+    {
+      "enKey": "TWM-130",
+      "idSet": "SV6s",
+      "idLocalId": "130",
+      "nameId": "Dragapult ex",
+      "setName": "Topeng Transfigurasi",
+      "regMark": "H",
+      "image": "https://assets.tcgdex.net/id/SV/SV6s/130"
+    },
+    {
+      "enKey": "SVI-194",
+      "idSet": "SV3s",
+      "idLocalId": "154",
+      "nameId": "Tukar Pokémon",
+      "setName": "Kilau Hitam",
+      "regMark": "G",
+      "image": "https://assets.tcgdex.net/id/SV/SV3s/154"
+    },
+    {
+      "enKey": "PAL-185",
+      "idSet": "SV2D",
+      "idLocalId": "069",
+      "nameId": "Mistika",
+      "setName": "Letusan Tanah",
+      "regMark": "G"
+    },
+    {
+      "enKey": "SVE-2",
+      "idSet": "SV1S",
+      "idLocalId": "078",
+      "nameId": "Energi Api Dasar",
+      "setName": "Scarlet ex",
+      "regMark": "G"
+    }
+  ]
+}

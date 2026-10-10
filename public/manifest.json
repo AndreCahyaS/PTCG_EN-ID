@@ -1,0 +1,15 @@
+{
+  "short_name": "PTCG Indo",
+  "name": "Pokémon TCG EN-to-ID Deck Converter",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090d16",
+  "theme_color": "#dc2626",
+  "display": "standalone"
+}
