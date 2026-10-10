@@ -49,10 +49,6 @@ export interface DecklistSummary {
 }
 
 export interface PlayerTournamentInfo {
-  playerName: string;
-  playerID: string;
-  birthYear: string;
-  division: 'Junior' | 'Senior' | 'Master';
-  deckName: string;
-  date: string;
+  playerName: string; // Nama Panggilan
+  playerID: string;   // ID Pemain
 }

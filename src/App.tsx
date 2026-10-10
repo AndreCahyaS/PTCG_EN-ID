@@ -19,10 +19,6 @@ export function App() {
   const [playerInfo, setPlayerInfo] = useState<PlayerTournamentInfo>({
     playerName: '',
     playerID: '',
-    birthYear: '',
-    division: 'Master',
-    deckName: 'Dragapult ex Dudunsparce',
-    date: new Date().toLocaleDateString('id-ID'),
   });
 
   // Calculate summary metrics
