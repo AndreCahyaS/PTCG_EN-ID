@@ -29,12 +29,19 @@ export interface IndonesianCardCandidate {
 
 export type MappingStatus = 'mapped' | 'ambiguous' | 'unmapped';
 
+export interface SelectedCandidateItem {
+  candidate: IndonesianCardCandidate;
+  quantity: number;
+}
+
 export interface MappedCard {
   parsed: ParsedCard;
   status: MappingStatus;
   selectedCandidate?: IndonesianCardCandidate;
+  selectedCandidates?: SelectedCandidateItem[];
   candidates: IndonesianCardCandidate[];
   manualOverride?: boolean;
+  isConfirmed?: boolean;
 }
 
 export interface DecklistSummary {
@@ -46,6 +53,8 @@ export interface DecklistSummary {
   ambiguousCount: number;
   unmappedCount: number;
   isValidCount: boolean; // standard 60
+  confirmedPokemonCount: number;
+  totalPokemonTypes: number;
 }
 
 export interface PlayerTournamentInfo {

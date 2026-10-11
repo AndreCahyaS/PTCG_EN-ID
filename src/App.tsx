@@ -7,8 +7,8 @@ import { CandidateDrawer } from './components/CandidateDrawer';
 import { PDFDeckSheet } from './components/PDFDeckSheet';
 import { parsePTCGLDecklist } from './lib/parser';
 import { convertDecklist } from './lib/converter';
-import { MappedCard, IndonesianCardCandidate, PlayerTournamentInfo, DecklistSummary } from './types';
-import { Sparkles, CheckCircle2, ShieldAlert } from 'lucide-react';
+import { MappedCard, IndonesianCardCandidate, PlayerTournamentInfo, DecklistSummary, SelectedCandidateItem } from './types';
+import { Sparkles } from 'lucide-react';
 
 export function App() {
   const [mappedCards, setMappedCards] = useState<MappedCard[]>([]);
@@ -30,14 +30,24 @@ export function App() {
     let mappedCount = 0;
     let ambiguousCount = 0;
     let unmappedCount = 0;
+    let confirmedPokemonCount = 0;
+    let totalPokemonTypes = 0;
 
     for (const card of mappedCards) {
       const q = card.parsed.quantity;
       totalCards += q;
 
-      if (card.parsed.category === 'Pokemon') pokemonCount += q;
-      else if (card.parsed.category === 'Trainer') trainerCount += q;
-      else if (card.parsed.category === 'Energy') energyCount += q;
+      if (card.parsed.category === 'Pokemon') {
+        pokemonCount += q;
+        totalPokemonTypes++;
+        if (card.isConfirmed) {
+          confirmedPokemonCount++;
+        }
+      } else if (card.parsed.category === 'Trainer') {
+        trainerCount += q;
+      } else if (card.parsed.category === 'Energy') {
+        energyCount += q;
+      }
 
       if (card.status === 'mapped') mappedCount++;
       else if (card.status === 'ambiguous') ambiguousCount++;
@@ -53,6 +63,8 @@ export function App() {
       ambiguousCount,
       unmappedCount,
       isValidCount: totalCards === 60,
+      confirmedPokemonCount,
+      totalPokemonTypes,
     };
   }, [mappedCards]);
 
@@ -105,17 +117,23 @@ Energy: 8
     handleConvert(defaultDeck);
   }, []);
 
-  const handleSelectCandidate = (candidate: IndonesianCardCandidate) => {
-    if (!activeDrawerCard) return;
-
+  const handleConfirmCard = (
+    cardId: string,
+    selections: SelectedCandidateItem[],
+    updatedCandidates: IndonesianCardCandidate[]
+  ) => {
     setMappedCards(prev =>
       prev.map(c => {
-        if (c.parsed.id === activeDrawerCard.parsed.id) {
+        if (c.parsed.id === cardId) {
+          const primaryCandidate = selections[0]?.candidate || c.selectedCandidate;
           return {
             ...c,
             status: 'mapped',
-            selectedCandidate: candidate,
+            selectedCandidate: primaryCandidate,
+            selectedCandidates: selections,
+            candidates: updatedCandidates,
             manualOverride: true,
+            isConfirmed: true,
           };
         }
         return c;
@@ -123,29 +141,19 @@ Energy: 8
     );
   };
 
-  const handleManualOverride = (setId: string, localId: string, name: string) => {
-    if (!activeDrawerCard) return;
-
-    const customCandidate: IndonesianCardCandidate = {
-      id: `${setId}-${localId}`,
-      localId,
-      setId,
-      setName: setId,
-      name,
-      category: activeDrawerCard.parsed.category,
-      matchScore: 100,
-      matchReason: 'Kustomisasi Manual Pengguna',
-    };
-
+  const handleConfirmAllDefault = () => {
     setMappedCards(prev =>
       prev.map(c => {
-        if (c.parsed.id === activeDrawerCard.parsed.id) {
+        if (c.parsed.category === 'Pokemon' && !c.isConfirmed) {
+          const primary = c.selectedCandidate || c.candidates[0];
           return {
             ...c,
             status: 'mapped',
-            selectedCandidate: customCandidate,
-            candidates: [customCandidate, ...c.candidates],
-            manualOverride: true,
+            selectedCandidate: primary,
+            selectedCandidates: primary
+              ? [{ candidate: primary, quantity: c.parsed.quantity }]
+              : [],
+            isConfirmed: true,
           };
         }
         return c;
@@ -197,7 +205,9 @@ Energy: 8
           <section className="space-y-8">
             <DeckPreview
               mappedCards={mappedCards}
+              summary={summary}
               onOpenCandidateDrawer={openDrawer}
+              onConfirmAllDefault={handleConfirmAllDefault}
             />
 
             {/* Official PDF Tournament Sheet Generator */}
@@ -216,7 +226,7 @@ Energy: 8
         card={activeDrawerCard}
         isOpen={isDrawerOpen}
         onClose={() => setIsDrawerOpen(false)}
-        onSelectCandidate={handleSelectCandidate}
+        onConfirm={handleConfirmCard}
       />
 
       {/* Footer */}

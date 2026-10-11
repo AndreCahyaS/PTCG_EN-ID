@@ -1,15 +1,19 @@
 import React, { useState } from 'react';
-import { MappedCard, CardCategory, IndonesianCardCandidate } from '../types';
-import { Layers, Copy, Check, Filter, Search, Edit3, AlertCircle, Sparkles } from 'lucide-react';
+import { MappedCard, CardCategory, DecklistSummary } from '../types';
+import { Layers, Copy, Check, Filter, Search, Edit3, AlertCircle, Sparkles, CheckCircle2, AlertTriangle } from 'lucide-react';
 
 interface DeckPreviewProps {
   mappedCards: MappedCard[];
+  summary: DecklistSummary;
   onOpenCandidateDrawer: (card: MappedCard) => void;
+  onConfirmAllDefault?: () => void;
 }
 
 export const DeckPreview: React.FC<DeckPreviewProps> = ({
   mappedCards,
+  summary,
   onOpenCandidateDrawer,
+  onConfirmAllDefault,
 }) => {
   const [selectedCategory, setSelectedCategory] = useState<'All' | CardCategory>('All');
   const [searchQuery, setSearchQuery] = useState('');
@@ -24,7 +28,7 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
     return matchesCategory && nameMatch;
   });
 
-  // Export clean Indonesian text decklist
+  // Export clean Indonesian text decklist respecting multi-print splits
   const handleCopyTextList = () => {
     const grouped: Record<string, string[]> = {
       Pokémon: [],
@@ -34,14 +38,24 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
 
     mappedCards.forEach(c => {
       const cat = c.parsed.category === 'Pokemon' ? 'Pokémon' : c.parsed.category;
-      const idName = c.selectedCandidate?.name || c.parsed.name;
       const isPokemon = c.parsed.category === 'Pokemon';
+      const idName = c.selectedCandidate?.name || c.parsed.name;
 
       if (isPokemon) {
-        const idSet = c.selectedCandidate?.setId && c.selectedCandidate?.localId
-          ? `${c.selectedCandidate.setId} ${c.selectedCandidate.localId}`
-          : `${c.parsed.setCode} ${c.parsed.cardNumber}`;
-        grouped[cat].push(`${c.parsed.quantity} ${idName} ${idSet}`);
+        if (c.selectedCandidates && c.selectedCandidates.length > 0) {
+          c.selectedCandidates.forEach(sc => {
+            const printName = sc.candidate.name || idName;
+            const printSet = sc.candidate.setId && sc.candidate.localId
+              ? `${sc.candidate.setId} ${sc.candidate.localId}`
+              : `${c.parsed.setCode} ${c.parsed.cardNumber}`;
+            grouped[cat].push(`${sc.quantity} ${printName} ${printSet}`);
+          });
+        } else {
+          const idSet = c.selectedCandidate?.setId && c.selectedCandidate?.localId
+            ? `${c.selectedCandidate.setId} ${c.selectedCandidate.localId}`
+            : `${c.parsed.setCode} ${c.parsed.cardNumber}`;
+          grouped[cat].push(`${c.parsed.quantity} ${idName} ${idSet}`);
+        }
       } else {
         // RULE: Trainer and Energy do NOT need series code and collection number
         grouped[cat].push(`${c.parsed.quantity} ${idName}`);
@@ -61,6 +75,10 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
     setTimeout(() => setCopied(false), 2000);
   };
 
+  const allPokemonConfirmed =
+    summary.totalPokemonTypes > 0 &&
+    summary.confirmedPokemonCount === summary.totalPokemonTypes;
+
   return (
     <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl space-y-5">
       {/* Top Controls */}
@@ -71,13 +89,13 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
             2. Verifikasi Hasil Konversi Kartu Indonesia
           </h2>
           <p className="text-xs text-slate-400 mt-0.5">
-            Format resmi: Kode set dan nomor hanya untuk Pokémon. Trainer & Energy hanya nama kartu.
+            Pilih seri kartu Pokémon fisik Anda, lalu klik Konfirmasi agar garis kartu menjadi hijau.
           </p>
         </div>
 
         <button
           onClick={handleCopyTextList}
-          className="flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-slate-100 font-semibold px-4 py-2 rounded-xl border border-slate-700 text-xs shadow-sm transition-all active:scale-95"
+          className="flex items-center justify-center gap-2 bg-slate-800 hover:bg-slate-700 text-slate-100 font-semibold px-4 py-2 rounded-xl border border-slate-700 text-xs shadow-sm transition-all active:scale-95 cursor-pointer"
         >
           {copied ? (
             <>
@@ -93,6 +111,54 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
         </button>
       </div>
 
+      {/* Confirmation Status Banner */}
+      <div className={`p-4 rounded-xl border flex flex-col sm:flex-row sm:items-center justify-between gap-3 transition-colors ${
+        allPokemonConfirmed
+          ? 'bg-emerald-950/30 border-emerald-800/80 text-emerald-200'
+          : 'bg-amber-950/30 border-amber-800/80 text-amber-200'
+      }`}>
+        <div className="flex items-center gap-3">
+          <div className={`p-2 rounded-lg ${
+            allPokemonConfirmed
+              ? 'bg-emerald-900/50 text-emerald-300 border border-emerald-700/60'
+              : 'bg-amber-900/50 text-amber-300 border border-amber-700/60'
+          }`}>
+            {allPokemonConfirmed ? (
+              <CheckCircle2 className="w-5 h-5 text-emerald-400" />
+            ) : (
+              <AlertTriangle className="w-5 h-5 text-amber-400" />
+            )}
+          </div>
+          <div>
+            <div className="flex items-center gap-2">
+              <span className="text-sm font-bold text-white">Status Konfirmasi Pokémon:</span>
+              <span className={`text-xs font-black px-2.5 py-0.5 rounded-full border ${
+                allPokemonConfirmed
+                  ? 'bg-emerald-500/20 text-emerald-300 border-emerald-500/40'
+                  : 'bg-amber-500/20 text-amber-300 border-amber-500/40'
+              }`}>
+                {summary.confirmedPokemonCount} / {summary.totalPokemonTypes} Kartu Dikonfirmasi
+              </span>
+            </div>
+            <p className="text-xs text-slate-400 mt-0.5">
+              {allPokemonConfirmed
+                ? 'Semua kartu Pokémon telah dikonfirmasi (garis hijau) dan siap dicetak ke lembar PDF turnamen.'
+                : `Masih ada ${summary.totalPokemonTypes - summary.confirmedPokemonCount} kartu Pokémon dengan garis kuning yang belum dikonfirmasi.`}
+            </p>
+          </div>
+        </div>
+
+        {!allPokemonConfirmed && onConfirmAllDefault && (
+          <button
+            onClick={onConfirmAllDefault}
+            className="flex items-center justify-center gap-1.5 text-xs font-semibold px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700 rounded-lg transition-colors cursor-pointer"
+          >
+            <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" />
+            Konfirmasi Cepat Semua
+          </button>
+        )}
+      </div>
+
       {/* Filter and Search Bar */}
       <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
         {/* Category Tabs */}
@@ -101,7 +167,7 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
             <button
               key={cat}
               onClick={() => setSelectedCategory(cat)}
-              className={`flex-1 sm:flex-initial px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
+              className={`flex-1 sm:flex-initial px-3 py-1.5 rounded-lg text-xs font-semibold transition-all cursor-pointer ${
                 selectedCategory === cat
                   ? 'bg-rose-600 text-white shadow-sm'
                   : 'text-slate-400 hover:text-slate-200'
@@ -129,15 +195,21 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
         {filteredCards.map(card => {
           const isPokemon = card.parsed.category === 'Pokemon';
-          const isAmbiguous = card.status === 'ambiguous';
+          const isConfirmed = isPokemon ? !!card.isConfirmed : true;
           const candidate = card.selectedCandidate;
+          const hasMultipleSelections =
+            isPokemon &&
+            card.selectedCandidates &&
+            card.selectedCandidates.length > 1;
 
           return (
             <div
               key={card.parsed.id}
               className={`p-3 rounded-xl border flex items-center justify-between gap-3 transition-all ${
-                isAmbiguous && isPokemon
-                  ? 'bg-slate-950/80 border-amber-900/60 hover:border-amber-700/80 ring-1 ring-amber-500/20'
+                isPokemon
+                  ? isConfirmed
+                    ? 'bg-slate-950/70 border-emerald-500/80 ring-1 ring-emerald-500/30 hover:border-emerald-400 shadow-sm shadow-emerald-950/20'
+                    : 'bg-slate-950/80 border-amber-500/80 ring-1 ring-amber-500/30 hover:border-amber-400 shadow-sm shadow-amber-950/20'
                   : 'bg-slate-950/60 border-slate-800/80 hover:border-slate-700'
               }`}
             >
@@ -163,24 +235,59 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
 
               {/* Card Meta */}
               <div className="flex-1 min-w-0">
-                <div className="flex items-center gap-1.5">
-                  <h4 className="text-sm font-bold text-white truncate">
+                <div className="flex items-center gap-1.5 flex-wrap">
+                  <h4 className="text-sm font-bold text-white truncate max-w-[150px]">
                     {candidate?.name || card.parsed.name}
                   </h4>
+                  {isPokemon && (
+                    <span className={`inline-flex items-center gap-0.5 text-[9px] font-bold px-1.5 py-0.2 rounded-full border ${
+                      isConfirmed
+                        ? 'bg-emerald-500/20 text-emerald-300 border-emerald-500/30'
+                        : 'bg-amber-500/20 text-amber-300 border-amber-500/30'
+                    }`}>
+                      {isConfirmed ? (
+                        <>
+                          <CheckCircle2 className="w-2.5 h-2.5 text-emerald-400" />
+                          Terkonfirmasi
+                        </>
+                      ) : (
+                        <>
+                          <AlertTriangle className="w-2.5 h-2.5 text-amber-400" />
+                          Belum Dikonfirmasi
+                        </>
+                      )}
+                    </span>
+                  )}
                 </div>
 
-                <div className="flex items-center gap-1.5 mt-0.5">
+                {/* Set ID & Series Display */}
+                <div className="mt-1">
                   {isPokemon ? (
-                    <>
-                      <span className="text-xs font-mono font-bold text-rose-400">
-                        {candidate?.setId && candidate?.localId ? `${candidate.setId} #${candidate.localId}` : 'Pilih Seri'}
-                      </span>
-                      {candidate?.setName && (
-                        <span className="text-[10px] text-slate-400 truncate max-w-[120px]">
-                          • {candidate.setName}
+                    hasMultipleSelections && card.selectedCandidates ? (
+                      <div className="flex flex-wrap gap-1">
+                        {card.selectedCandidates.map((sc, idx) => (
+                          <span
+                            key={idx}
+                            className="text-[11px] font-mono font-bold text-rose-300 bg-rose-950/50 px-1.5 py-0.5 rounded border border-rose-900/60"
+                          >
+                            {sc.quantity}x {sc.candidate.setId} #{sc.candidate.localId}
+                          </span>
+                        ))}
+                      </div>
+                    ) : (
+                      <div className="flex items-center gap-1.5 flex-wrap">
+                        <span className="text-xs font-mono font-bold text-rose-400">
+                          {candidate?.setId && candidate?.localId
+                            ? `${candidate.setId} #${candidate.localId}`
+                            : 'Pilih Seri'}
                         </span>
-                      )}
-                    </>
+                        {candidate?.setName && (
+                          <span className="text-[10px] text-slate-400 truncate max-w-[120px]">
+                            • {candidate.setName}
+                          </span>
+                        )}
+                      </div>
+                    )
                   ) : (
                     <span className="text-[11px] text-slate-400 font-medium">
                       {card.parsed.category} (Standar ID)
@@ -190,30 +297,21 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
 
                 <div className="flex items-center gap-2 mt-1">
                   <span className="text-[10px] text-slate-500 font-mono">
-                    EN: {card.parsed.name}
+                    PTCGL: {card.parsed.setCode} #{card.parsed.cardNumber}
                   </span>
-                  {isAmbiguous && isPokemon && (
-                    <span
-                      onClick={() => onOpenCandidateDrawer(card)}
-                      className="inline-flex items-center gap-1 text-[9px] bg-amber-500/20 text-amber-300 hover:bg-amber-500/30 font-semibold px-1.5 py-0.5 rounded cursor-pointer transition-colors"
-                      title="Klik untuk memilih cetakan seri kartu fisik"
-                    >
-                      <AlertCircle className="w-2.5 h-2.5" /> {card.candidates.length} Seri Tersedia
-                    </span>
-                  )}
                 </div>
               </div>
 
-              {/* Edit / Select Button */}
+              {/* Action Button */}
               {isPokemon && (
                 <button
                   onClick={() => onOpenCandidateDrawer(card)}
-                  className={`p-2 rounded-lg border text-xs font-medium transition-colors flex-shrink-0 ${
-                    isAmbiguous
-                      ? 'bg-amber-950/40 border-amber-800 text-amber-300 hover:bg-amber-900/50'
-                      : 'bg-slate-900 border-slate-800 text-slate-400 hover:text-white hover:bg-slate-800'
+                  className={`p-2 rounded-lg border text-xs font-medium transition-colors flex-shrink-0 cursor-pointer ${
+                    isConfirmed
+                      ? 'bg-slate-900 border-emerald-900/60 text-emerald-300 hover:text-white hover:bg-emerald-950/60'
+                      : 'bg-amber-950/50 border-amber-700/80 text-amber-300 hover:bg-amber-900/70 hover:text-white shadow-sm'
                   }`}
-                  title="Pilih cetakan seri fisik kartu Pokémon"
+                  title={isConfirmed ? 'Ubah cetakan fisik kartu' : 'Klik untuk memilih dan konfirmasi cetakan seri'}
                 >
                   <Edit3 className="w-3.5 h-3.5" />
                 </button>

@@ -2,7 +2,7 @@ import React from 'react';
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable';
 import { MappedCard, PlayerTournamentInfo, DecklistSummary } from '../types';
-import { Download, Printer, FileText, CheckCircle2 } from 'lucide-react';
+import { Download, Printer, FileText, CheckCircle2, AlertTriangle } from 'lucide-react';
 
 interface PDFDeckSheetProps {
   mappedCards: MappedCard[];
@@ -72,12 +72,27 @@ export const PDFDeckSheet: React.FC<PDFDeckSheetProps> = ({
 
       // Helper to format table rows according to official Indonesian tournament rules
       const formatPokemonRows = (cards: MappedCard[]) => {
-        return cards.map(c => [
-          c.parsed.quantity.toString(),
-          c.selectedCandidate?.name || c.parsed.name,
-          c.selectedCandidate?.setId && c.selectedCandidate?.localId ? `${c.selectedCandidate.setId} ${c.selectedCandidate.localId}` : '-',
-          c.parsed.name,
-        ]);
+        const rows: any[] = [];
+        cards.forEach(c => {
+          if (c.selectedCandidates && c.selectedCandidates.length > 0) {
+            c.selectedCandidates.forEach(sc => {
+              rows.push([
+                sc.quantity.toString(),
+                sc.candidate.name || c.parsed.name,
+                sc.candidate.setId && sc.candidate.localId ? `${sc.candidate.setId} ${sc.candidate.localId}` : '-',
+                c.parsed.name,
+              ]);
+            });
+          } else {
+            rows.push([
+              c.parsed.quantity.toString(),
+              c.selectedCandidate?.name || c.parsed.name,
+              c.selectedCandidate?.setId && c.selectedCandidate?.localId ? `${c.selectedCandidate.setId} ${c.selectedCandidate.localId}` : '-',
+              c.parsed.name,
+            ]);
+          }
+        });
+        return rows;
       };
 
       const formatTrainerEnergyRows = (cards: MappedCard[]) => {
@@ -185,6 +200,15 @@ export const PDFDeckSheet: React.FC<PDFDeckSheetProps> = ({
           Download Printable PDF (A4)
         </button>
       </div>
+
+      {summary.confirmedPokemonCount < summary.totalPokemonTypes && (
+        <div className="bg-amber-950/40 border border-amber-800/80 rounded-xl p-3 text-xs text-amber-300 flex items-center gap-2.5">
+          <AlertTriangle className="w-4 h-4 text-amber-400 flex-shrink-0" />
+          <span>
+            <strong>Perhatian:</strong> Masih ada {summary.totalPokemonTypes - summary.confirmedPokemonCount} kartu Pokémon dengan garis kuning yang belum dikonfirmasi serinya. Disarankan untuk memverifikasi cetakan fisik agar sesuai dengan lembar registrasi turnamen.
+          </span>
+        </div>
+      )}
 
       {/* Tournament Info Inputs: Only ID Pemain & Nama Panggilan */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 bg-slate-950/50 p-4 rounded-xl border border-slate-800/80">

@@ -258,7 +258,9 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
       parsed: card,
       status: 'mapped',
       selectedCandidate: energyCandidate,
+      selectedCandidates: [{ candidate: energyCandidate, quantity: card.quantity }],
       candidates: [energyCandidate],
+      isConfirmed: true,
     };
   }
 
@@ -282,7 +284,9 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
       parsed: card,
       status: 'mapped',
       selectedCandidate: trainerCandidate,
+      selectedCandidates: [{ candidate: trainerCandidate, quantity: card.quantity }],
       candidates: [trainerCandidate],
+      isConfirmed: true,
     };
   }
 
@@ -299,7 +303,9 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
         parsed: card,
         status: legalCached.length === 1 ? 'mapped' : 'ambiguous',
         selectedCandidate: legalCached[0],
+        selectedCandidates: [{ candidate: legalCached[0], quantity: card.quantity }],
         candidates: legalCached,
+        isConfirmed: false,
       };
     }
   }
@@ -397,7 +403,9 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
     parsed: card,
     status,
     selectedCandidate: candidates[0],
+    selectedCandidates: candidates[0] ? [{ candidate: candidates[0], quantity: card.quantity }] : [],
     candidates,
+    isConfirmed: false,
   };
 }
 
