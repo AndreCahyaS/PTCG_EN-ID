@@ -296,21 +296,10 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
   // - MUST match exact name (or inverted owner name)
   // - MUST be limited to Regulation H, I, J (G is finished!) OR custom MA sets
 
-  // 3a. CUSTOM LOOKUP: check local MA-series data before hitting the API.
-  // EN set codes are always EN-specific (e.g. POR, TWM) — never MA1/MA4/etc.
-  // We match purely by Pokémon name across all MA series.
+  // 3a. CUSTOM LOOKUP: collect local MA-series candidates (do NOT return early).
+  // These are merged with TCGdex API results below so cards like Munkidori show
+  // all prints: sv7s-103, sv8a-075, AND ma3-081 together.
   const customCandidates = lookupCustomByEnName(card.name);
-  if (customCandidates.length > 0) {
-    customCandidates.sort((a, b) => b.matchScore - a.matchScore);
-    return {
-      parsed: card,
-      status: customCandidates.length === 1 ? 'mapped' : 'ambiguous',
-      selectedCandidate: customCandidates[0],
-      selectedCandidates: [{ candidate: customCandidates[0], quantity: card.quantity }],
-      candidates: customCandidates,
-      isConfirmed: false,
-    };
-  }
 
   const cached = await getCachedCandidates(cardKey);
   if (cached && cached.length > 0) {
@@ -320,12 +309,18 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
       (c.regulationMark && (LEGAL_REGULATION_MARKS.has(c.regulationMark) || c.regulationMark === 'MA'))
     );
     if (legalCached.length > 0) {
+      // Merge with custom candidates (dedup by id)
+      const merged = [...legalCached];
+      for (const cc of customCandidates) {
+        if (!merged.some(c => c.id === cc.id)) merged.push(cc);
+      }
+      merged.sort((a, b) => b.matchScore - a.matchScore);
       return {
         parsed: card,
-        status: legalCached.length === 1 ? 'mapped' : 'ambiguous',
-        selectedCandidate: legalCached[0],
-        selectedCandidates: [{ candidate: legalCached[0], quantity: card.quantity }],
-        candidates: legalCached,
+        status: merged.length === 1 ? 'mapped' : 'ambiguous',
+        selectedCandidate: merged[0],
+        selectedCandidates: [{ candidate: merged[0], quantity: card.quantity }],
+        candidates: merged,
         isConfirmed: false,
       };
     }
@@ -393,7 +388,14 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
     }
   }
 
-  // Fallback if no online API results found for legal sets: provide initial legal set candidate
+  // Merge custom MA candidates into the API results (dedup by id)
+  for (const cc of customCandidates) {
+    if (!candidates.some(c => c.id === cc.id)) {
+      candidates.push(cc);
+    }
+  }
+
+  // Fallback if neither API nor custom data found anything
   if (candidates.length === 0) {
     // Default to newest standard set SV6s or SV8a
     const defaultSet = 'SV6s';
