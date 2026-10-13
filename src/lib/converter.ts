@@ -1,6 +1,7 @@
 import { ParsedCard, MappedCard, IndonesianCardCandidate, MappingStatus, CardCategory } from '../types';
 import setMappingData from '../config/setMapping.json';
 import { getCachedItem, setCachedItem, getCachedCandidates, setCachedCandidates } from './cache';
+import { lookupCustomByEnName } from './customCards';
 
 interface SetMappingConfig {
   setCodes: Record<string, { tcgdexEn: string; name: string; targetIdSets: string[] }>;
@@ -293,11 +294,31 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
   // 3. POKÉMON CARDS:
   // - MUST have Series Code & Card Collection Number
   // - MUST match exact name (or inverted owner name)
-  // - MUST be limited to Regulation H, I, J (G is finished!)
+  // - MUST be limited to Regulation H, I, J (G is finished!) OR custom MA sets
+
+  // 3a. CUSTOM LOOKUP: check local MA-series data before hitting the API.
+  // EN set codes are always EN-specific (e.g. POR, TWM) — never MA1/MA4/etc.
+  // We match purely by Pokémon name across all MA series.
+  const customCandidates = lookupCustomByEnName(card.name);
+  if (customCandidates.length > 0) {
+    customCandidates.sort((a, b) => b.matchScore - a.matchScore);
+    return {
+      parsed: card,
+      status: customCandidates.length === 1 ? 'mapped' : 'ambiguous',
+      selectedCandidate: customCandidates[0],
+      selectedCandidates: [{ candidate: customCandidates[0], quantity: card.quantity }],
+      candidates: customCandidates,
+      isConfirmed: false,
+    };
+  }
+
   const cached = await getCachedCandidates(cardKey);
   if (cached && cached.length > 0) {
-    // Ensure cached candidates respect H/I/J
-    const legalCached = cached.filter(c => LEGAL_H_I_J_SETS.has(c.setId) || (c.regulationMark && LEGAL_REGULATION_MARKS.has(c.regulationMark)));
+    // Ensure cached candidates respect H/I/J (or MA custom sets)
+    const legalCached = cached.filter(c =>
+      LEGAL_H_I_J_SETS.has(c.setId) ||
+      (c.regulationMark && (LEGAL_REGULATION_MARKS.has(c.regulationMark) || c.regulationMark === 'MA'))
+    );
     if (legalCached.length > 0) {
       return {
         parsed: card,
