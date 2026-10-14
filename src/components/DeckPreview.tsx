@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { MappedCard, CardCategory, DecklistSummary } from '../types';
 import { Layers, Copy, Check, Filter, Search, Edit3, AlertCircle, Sparkles, CheckCircle2, AlertTriangle } from 'lucide-react';
+import { formatCollectionNumber } from '../lib/setInfo';
 
 interface DeckPreviewProps {
   mappedCards: MappedCard[];
@@ -45,15 +46,21 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
         if (c.selectedCandidates && c.selectedCandidates.length > 0) {
           c.selectedCandidates.forEach(sc => {
             const printName = sc.candidate.name || idName;
-            const printSet = sc.candidate.setId && sc.candidate.localId
-              ? `${sc.candidate.setId} ${sc.candidate.localId}`
-              : `${c.parsed.setCode} ${c.parsed.cardNumber}`;
+            const collNum = sc.candidate.setId && sc.candidate.localId
+              ? formatCollectionNumber(sc.candidate.localId, sc.candidate.setId)
+              : c.parsed.cardNumber;
+            const printSet = sc.candidate.setId
+              ? `${sc.candidate.setId} ${collNum}`
+              : `${c.parsed.setCode} ${collNum}`;
             grouped[cat].push(`${sc.quantity} ${printName} ${printSet}`);
           });
         } else {
-          const idSet = c.selectedCandidate?.setId && c.selectedCandidate?.localId
-            ? `${c.selectedCandidate.setId} ${c.selectedCandidate.localId}`
-            : `${c.parsed.setCode} ${c.parsed.cardNumber}`;
+          const collNum = c.selectedCandidate?.setId && c.selectedCandidate?.localId
+            ? formatCollectionNumber(c.selectedCandidate.localId, c.selectedCandidate.setId)
+            : c.parsed.cardNumber;
+          const idSet = c.selectedCandidate?.setId
+            ? `${c.selectedCandidate.setId} ${collNum}`
+            : `${c.parsed.setCode} ${collNum}`;
           grouped[cat].push(`${c.parsed.quantity} ${idName} ${idSet}`);
         }
       } else {
@@ -270,7 +277,7 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
                             key={idx}
                             className="text-[11px] font-mono font-bold text-rose-300 bg-rose-950/50 px-1.5 py-0.5 rounded border border-rose-900/60"
                           >
-                            {sc.quantity}x {sc.candidate.setId} #{sc.candidate.localId}
+                            {sc.quantity}x {sc.candidate.setId} {formatCollectionNumber(sc.candidate.localId, sc.candidate.setId)}
                           </span>
                         ))}
                       </div>
@@ -278,7 +285,7 @@ export const DeckPreview: React.FC<DeckPreviewProps> = ({
                       <div className="flex items-center gap-1.5 flex-wrap">
                         <span className="text-xs font-mono font-bold text-rose-400">
                           {candidate?.setId && candidate?.localId
-                            ? `${candidate.setId} #${candidate.localId}`
+                            ? `${candidate.setId} ${formatCollectionNumber(candidate.localId, candidate.setId)}`
                             : 'Pilih Seri'}
                         </span>
                         {candidate?.setName && (

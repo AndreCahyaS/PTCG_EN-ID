@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { MappedCard, IndonesianCardCandidate, SelectedCandidateItem } from '../types';
 import { X, Check, AlertTriangle, Sparkles, Layers, Plus, Minus, RotateCcw, PlusCircle, CheckCircle2 } from 'lucide-react';
+import { formatCollectionNumber } from '../lib/setInfo';
 
 interface CandidateDrawerProps {
   card: MappedCard | null;
@@ -158,7 +159,7 @@ export const CandidateDrawer: React.FC<CandidateDrawerProps> = ({
 
     setCustomSetId('');
     setCustomLocalId('');
-    setFeedbackMsg(`Kartu kustom ${cleanSet} #${cleanNum} berhasil ditambahkan ke stack!`);
+    setFeedbackMsg(`Kartu kustom ${cleanSet} ${formatCollectionNumber(cleanNum, cleanSet)} berhasil ditambahkan ke stack!`);
   };
 
   // Confirm selection
@@ -375,7 +376,7 @@ export const CandidateDrawer: React.FC<CandidateDrawerProps> = ({
                           {candidate.name}
                         </span>
                         <p className="text-xs text-rose-400 font-mono font-bold mt-0.5">
-                          {candidate.setId} #{candidate.localId}
+                          {candidate.setId} {formatCollectionNumber(candidate.localId, candidate.setId)}
                         </p>
                         <p className="text-[11px] text-slate-400 truncate">
                           {candidate.setName}

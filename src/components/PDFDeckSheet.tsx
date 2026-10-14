@@ -3,6 +3,7 @@ import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable';
 import { MappedCard, PlayerTournamentInfo, DecklistSummary } from '../types';
 import { Download, Printer, FileText, CheckCircle2, AlertTriangle } from 'lucide-react';
+import { formatCollectionNumber } from '../lib/setInfo';
 
 interface PDFDeckSheetProps {
   mappedCards: MappedCard[];
@@ -76,18 +77,24 @@ export const PDFDeckSheet: React.FC<PDFDeckSheetProps> = ({
         cards.forEach(c => {
           if (c.selectedCandidates && c.selectedCandidates.length > 0) {
             c.selectedCandidates.forEach(sc => {
+              const collNum = sc.candidate.setId && sc.candidate.localId
+                ? formatCollectionNumber(sc.candidate.localId, sc.candidate.setId)
+                : '-';
               rows.push([
                 sc.quantity.toString(),
                 sc.candidate.name || c.parsed.name,
-                sc.candidate.setId && sc.candidate.localId ? `${sc.candidate.setId} ${sc.candidate.localId}` : '-',
+                sc.candidate.setId ? `${sc.candidate.setId} ${collNum}` : '-',
                 c.parsed.name,
               ]);
             });
           } else {
+            const collNum = c.selectedCandidate?.setId && c.selectedCandidate?.localId
+              ? formatCollectionNumber(c.selectedCandidate.localId, c.selectedCandidate.setId)
+              : '-';
             rows.push([
               c.parsed.quantity.toString(),
               c.selectedCandidate?.name || c.parsed.name,
-              c.selectedCandidate?.setId && c.selectedCandidate?.localId ? `${c.selectedCandidate.setId} ${c.selectedCandidate.localId}` : '-',
+              c.selectedCandidate?.setId ? `${c.selectedCandidate.setId} ${collNum}` : '-',
               c.parsed.name,
             ]);
           }
