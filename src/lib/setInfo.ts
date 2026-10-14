@@ -1,4 +1,4 @@
-﻿/**
+/**
  * setInfo.ts
  *
  * Provides helpers for Indonesian PTCG set metadata, including the official
@@ -38,14 +38,18 @@ export function getOfficialCount(setId: string): number | null {
 /**
  * Formats a collection number in the official "NNN/TTT" style.
  *
+ * Works for all sets — API-backed (SV*, S*, SC*, etc.) and custom
+ * (MA1–MA5, MATL, MATS, MATH, MATK). The localId is always the plain
+ * numeric prefix (e.g. "090"); the denominator is looked up from
+ * setCardCounts.json via getOfficialCount.
+ *
  * Examples:
  *   formatCollectionNumber("098", "SV7s")  → "098/166"
  *   formatCollectionNumber("1",   "SV7s")  → "001/166"
+ *   formatCollectionNumber("090", "MA1")   → "090/126"
+ *   formatCollectionNumber("005", "MATS")  → "005/23"
  *   formatCollectionNumber("098", "SV10s") → "098"       (count unknown)
  *   formatCollectionNumber("",    "SV7s")  → ""          (no localId)
- *
- * For custom MA-series sets the localId already comes in the form "090/193"
- * (full collectionNumber), so we pass it through as-is.
  */
 export function formatCollectionNumber(
   localId: string,
@@ -53,8 +57,13 @@ export function formatCollectionNumber(
 ): string {
   if (!localId) return "";
 
-  // MA-series custom cards already carry the full "NNN/TTT" string
-  if (/^MA\d/.test(setId)) return localId;
+  // If localId already contains a slash (e.g. "056/102"), preserve it as-is
+  // but still pad the numeric prefix before the slash.
+  if (localId.includes("/")) {
+    const [before, after] = localId.split("/");
+    const padded = before.replace(/\D/g, "").padStart(3, "0") || before;
+    return `${padded}/${after}`;
+  }
 
   // Pad the numeric part to 3 digits
   const numericOnly = localId.replace(/\D/g, "");

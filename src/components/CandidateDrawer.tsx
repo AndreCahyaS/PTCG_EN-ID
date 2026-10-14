@@ -299,9 +299,8 @@ export const CandidateDrawer: React.FC<CandidateDrawerProps> = ({
                     <input
                       type="text"
                       value={customName}
-                      onChange={e => setCustomName(e.target.value)}
-                      placeholder={card.parsed.name}
-                      className="w-full bg-slate-900 border border-slate-700 rounded-lg px-2.5 py-1.5 text-xs text-white placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-rose-500"
+                      readOnly
+                      className="w-full bg-slate-800/60 border border-slate-700 rounded-lg px-2.5 py-1.5 text-xs text-slate-400 cursor-not-allowed"
                     />
                   </div>
                 </div>
@@ -379,7 +378,9 @@ export const CandidateDrawer: React.FC<CandidateDrawerProps> = ({
                           {candidate.setId} {formatCollectionNumber(candidate.localId, candidate.setId)}
                         </p>
                         <p className="text-[11px] text-slate-400 truncate">
-                          {candidate.setName}
+                          {candidate.matchReason === 'Kartu Kustom Manual Pengguna'
+                            ? 'Kartu Kustom'
+                            : candidate.setName}
                         </p>
 
                         {/* Quick pick all button if 0 chosen */}
