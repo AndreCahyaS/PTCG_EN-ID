@@ -19,6 +19,10 @@ import MA2 from '../custom/MA2-cards.json';
 import MA3 from '../custom/MA3-cards.json';
 import MA4 from '../custom/MA4-cards.json';
 import MA5 from '../custom/MA5-cards.json';
+import MATL from '../custom/MATL-cards.json';
+import MATS from '../custom/MATS-cards.json';
+import MATH from '../custom/MATH-cards.json';
+import MATK from '../custom/MATK-cards.json';
 
 export interface CustomCardEntry {
   collectionNumber: string; // e.g. "090/123"
@@ -29,20 +33,28 @@ export interface CustomCardEntry {
 
 // Friendly display names for each MA series
 export const MA_SET_NAMES: Record<string, string> = {
-  MA1: 'Master Battle Set 1 (MA1)',
-  MA2: 'Master Battle Set 2 (MA2)',
-  MA3: 'Master Battle Set 3 (MA3)',
-  MA4: 'Master Battle Set 4 (MA4)',
-  MA5: 'Master Battle Set 5 (MA5)',
+  MA1:  'Mega Evolusi (MA1)',
+  MA2:  'Kobaran Biru (MA2)',
+  MA3:  'Mega Impian (MA3)',
+  MA4:  'Ledakan Peniada (MA4)',
+  MA5:  'Ancaman Bayangan (MA5)',
+  MATL: 'Deck Taktik Mega Charizard ex (MATL)',
+  MATS: 'Deck Taktik Mega Gardevoir ex (MATS)',
+  MATH: 'Deck Taktik Mega Sharpedo ex (MATH)',
+  MATK: 'Deck Taktik Mega Dragonite ex (MATK)',
 };
 
 // All custom cards merged, typed
 const ALL_CUSTOM_CARDS: CustomCardEntry[] = [
-  ...(MA1 as CustomCardEntry[]),
-  ...(MA2 as CustomCardEntry[]),
-  ...(MA3 as CustomCardEntry[]),
-  ...(MA4 as CustomCardEntry[]),
-  ...(MA5 as CustomCardEntry[]),
+  ...(MA1  as CustomCardEntry[]),
+  ...(MA2  as CustomCardEntry[]),
+  ...(MA3  as CustomCardEntry[]),
+  ...(MA4  as CustomCardEntry[]),
+  ...(MA5  as CustomCardEntry[]),
+  ...(MATL as CustomCardEntry[]),
+  ...(MATS as CustomCardEntry[]),
+  ...(MATH as CustomCardEntry[]),
+  ...(MATK as CustomCardEntry[]),
 ];
 
 /**
