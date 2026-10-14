@@ -24,53 +24,6 @@ export const PDFDeckSheet: React.FC<PDFDeckSheetProps> = ({
 
   const generatePDF = () => {
     try {
-      const doc = new jsPDF({
-        orientation: 'portrait',
-        unit: 'mm',
-        format: 'a4',
-      });
-
-      const pageWidth = doc.internal.pageSize.getWidth();
-      let currentY = 14;
-
-      // Header Title
-      doc.setFont('helvetica', 'bold');
-      doc.setFontSize(16);
-      doc.setTextColor(220, 38, 38); // Pokemon Red
-      doc.text('POKÉMON TRADING CARD GAME', pageWidth / 2, currentY, { align: 'center' });
-
-      currentY += 6;
-      doc.setFontSize(11);
-      doc.setTextColor(30, 41, 59);
-      doc.text('LEMBAR REGISTRASI DECK RESMI (INDONESIA)', pageWidth / 2, currentY, { align: 'center' });
-
-      currentY += 8;
-      doc.setDrawColor(203, 213, 225);
-      doc.line(14, currentY, pageWidth - 14, currentY);
-
-      currentY += 6;
-
-      // Player Information Grid (Only ID Pemain and Nama Panggilan)
-      doc.setFontSize(10);
-      const leftCol = 14;
-      const rightCol = 110;
-
-      doc.setFont('helvetica', 'bold');
-      doc.setTextColor(71, 85, 105);
-      doc.text('ID PEMAIN:', leftCol, currentY);
-      doc.setFont('helvetica', 'normal');
-      doc.setTextColor(15, 23, 42);
-      doc.text(playerInfo.playerID || '____________________', leftCol + 25, currentY);
-
-      doc.setFont('helvetica', 'bold');
-      doc.setTextColor(71, 85, 105);
-      doc.text('NAMA PANGGILAN:', rightCol, currentY);
-      doc.setFont('helvetica', 'normal');
-      doc.setTextColor(15, 23, 42);
-      doc.text(playerInfo.playerName || '____________________', rightCol + 38, currentY);
-
-      currentY += 8;
-
       // Helper to format table rows according to official Indonesian tournament rules
       const formatPokemonRows = (cards: MappedCard[]) => {
         const rows: any[] = [];
@@ -83,8 +36,8 @@ export const PDFDeckSheet: React.FC<PDFDeckSheetProps> = ({
               rows.push([
                 sc.quantity.toString(),
                 sc.candidate.name || c.parsed.name,
-                sc.candidate.setId ? `${sc.candidate.setId} ${collNum}` : '-',
-                c.parsed.name,
+                sc.candidate.setId || '-',
+                collNum,
               ]);
             });
           } else {
@@ -94,8 +47,8 @@ export const PDFDeckSheet: React.FC<PDFDeckSheetProps> = ({
             rows.push([
               c.parsed.quantity.toString(),
               c.selectedCandidate?.name || c.parsed.name,
-              c.selectedCandidate?.setId ? `${c.selectedCandidate.setId} ${collNum}` : '-',
-              c.parsed.name,
+              c.selectedCandidate?.setId || '-',
+              collNum,
             ]);
           }
         });
@@ -107,7 +60,7 @@ export const PDFDeckSheet: React.FC<PDFDeckSheetProps> = ({
           c.parsed.quantity.toString(),
           c.selectedCandidate?.name || c.parsed.name,
           '-', // RULE: Trainer and Energy do NOT need series code and collection number
-          c.parsed.name,
+          '-',
         ]);
       };
 
@@ -119,51 +72,156 @@ export const PDFDeckSheet: React.FC<PDFDeckSheetProps> = ({
       const combinedData: any[] = [];
       
       // Add Pokemon Header Row
-      combinedData.push([{ content: `POKÉMON (${summary.pokemonCount} kartu)`, colSpan: 4, styles: { fillColor: [239, 68, 68], textColor: [255, 255, 255], fontStyle: 'bold' } }]);
+      combinedData.push([{
+        content: `POKÉMON (${summary.pokemonCount} kartu)`,
+        colSpan: 4,
+        styles: { fillColor: [239, 68, 68], textColor: [255, 255, 255], fontStyle: 'bold', halign: 'left' }
+      }]);
       pokemonRows.forEach(r => combinedData.push(r));
 
       // Add Trainer Header Row
-      combinedData.push([{ content: `TRAINER (${summary.trainerCount} kartu)`, colSpan: 4, styles: { fillColor: [59, 130, 246], textColor: [255, 255, 255], fontStyle: 'bold' } }]);
+      combinedData.push([{
+        content: `TRAINER (${summary.trainerCount} kartu)`,
+        colSpan: 4,
+        styles: { fillColor: [59, 130, 246], textColor: [255, 255, 255], fontStyle: 'bold', halign: 'left' }
+      }]);
       trainerRows.forEach(r => combinedData.push(r));
 
       // Add Energy Header Row
-      combinedData.push([{ content: `ENERGY (${summary.energyCount} kartu)`, colSpan: 4, styles: { fillColor: [234, 179, 8], textColor: [15, 23, 42], fontStyle: 'bold' } }]);
+      combinedData.push([{
+        content: `ENERGY (${summary.energyCount} kartu)`,
+        colSpan: 4,
+        styles: { fillColor: [234, 179, 8], textColor: [15, 23, 42], fontStyle: 'bold', halign: 'left' }
+      }]);
       energyRows.forEach(r => combinedData.push(r));
 
-      autoTable(doc, {
-        startY: currentY,
-        head: [['JML', 'NAMA KARTU (INDONESIA)', 'KODE & NO. SET ID', 'ASAL KARTU (EN)']],
-        body: combinedData,
-        theme: 'grid',
-        styles: {
-          fontSize: 8,
-          cellPadding: 1.5,
-          textColor: [15, 23, 42],
-          lineColor: [226, 232, 240],
-          lineWidth: 0.2,
-        },
-        headStyles: {
-          fillColor: [15, 23, 42],
-          textColor: [255, 255, 255],
-          fontStyle: 'bold',
-          fontSize: 8,
-        },
-        columnStyles: {
-          0: { cellWidth: 12, halign: 'center' },
-          1: { cellWidth: 70 },
-          2: { cellWidth: 45 },
-          3: { cellWidth: 55 },
-        },
-        margin: { left: 14, right: 14 },
-      });
+      const renderDeckSheet = (targetDoc: jsPDF, fontSize: number, cellPadding: number) => {
+        const pageWidth = targetDoc.internal.pageSize.getWidth();
+        let currentY = 12;
 
-      const finalY = ((doc as any).lastAutoTable?.finalY || currentY + 120) + 8;
+        // Header Title
+        targetDoc.setFont('helvetica', 'bold');
+        targetDoc.setFontSize(15);
+        targetDoc.setTextColor(220, 38, 38); // Pokemon Red
+        targetDoc.text('POKÉMON TRADING CARD GAME', pageWidth / 2, currentY, { align: 'center' });
 
-      // Deck Total Box
-      doc.setFont('helvetica', 'bold');
-      doc.setFontSize(10);
-      doc.setTextColor(summary.totalCards === 60 ? 22 : 220, summary.totalCards === 60 ? 101 : 38, summary.totalCards === 60 ? 52 : 38);
-      doc.text(`TOTAL KARTU: ${summary.totalCards} / 60`, 14, finalY);
+        currentY += 5.5;
+        targetDoc.setFontSize(10);
+        targetDoc.setTextColor(30, 41, 59);
+        targetDoc.text('LEMBAR REGISTRASI DECK RESMI (INDONESIA)', pageWidth / 2, currentY, { align: 'center' });
+
+        currentY += 5;
+        targetDoc.setDrawColor(203, 213, 225);
+        targetDoc.setLineWidth(0.3);
+        targetDoc.line(14, currentY, pageWidth - 14, currentY);
+
+        currentY += 5.5;
+
+        // Player Information Grid (Only ID Pemain and Nama Panggilan)
+        targetDoc.setFontSize(9);
+        const leftCol = 14;
+        const rightCol = 110;
+
+        targetDoc.setFont('helvetica', 'bold');
+        targetDoc.setTextColor(71, 85, 105);
+        targetDoc.text('ID PEMAIN:', leftCol, currentY);
+        targetDoc.setFont('helvetica', 'normal');
+        targetDoc.setTextColor(15, 23, 42);
+        targetDoc.text(playerInfo.playerID || '____________________', leftCol + 22, currentY);
+
+        targetDoc.setFont('helvetica', 'bold');
+        targetDoc.setTextColor(71, 85, 105);
+        targetDoc.text('NAMA PANGGILAN:', rightCol, currentY);
+        targetDoc.setFont('helvetica', 'normal');
+        targetDoc.setTextColor(15, 23, 42);
+        targetDoc.text(playerInfo.playerName || '____________________', rightCol + 35, currentY);
+
+        currentY += 5.5;
+
+        autoTable(targetDoc, {
+          startY: currentY,
+          head: [['JML', 'NAMA KARTU', 'SERI', 'NO. KOLEKSI']],
+          body: combinedData,
+          theme: 'grid',
+          pageBreak: 'avoid',
+          rowPageBreak: 'avoid',
+          margin: { left: 14, right: 14, top: 10, bottom: 12 },
+          styles: {
+            fontSize: fontSize,
+            cellPadding: cellPadding,
+            textColor: [15, 23, 42],
+            lineColor: [226, 232, 240],
+            lineWidth: 0.2,
+          },
+          headStyles: {
+            fillColor: [15, 23, 42],
+            textColor: [255, 255, 255],
+            fontStyle: 'bold',
+            fontSize: fontSize,
+          },
+          columnStyles: {
+            0: { cellWidth: 14, halign: 'center' },
+            1: { cellWidth: 106, halign: 'left' },
+            2: { cellWidth: 28, halign: 'center' },
+            3: { cellWidth: 34, halign: 'center' },
+          },
+        });
+
+        const tableFinalY = (targetDoc as any).lastAutoTable?.finalY || (currentY + 140);
+        const footerY = Math.min(tableFinalY + 5.5, 289);
+
+        // Deck Total Box
+        targetDoc.setFont('helvetica', 'bold');
+        targetDoc.setFontSize(9.5);
+        targetDoc.setTextColor(
+          summary.totalCards === 60 ? 22 : 220,
+          summary.totalCards === 60 ? 101 : 38,
+          summary.totalCards === 60 ? 52 : 38
+        );
+        targetDoc.text(`TOTAL KARTU: ${summary.totalCards} / 60`, 14, footerY);
+      };
+
+      // Base font size and padding calculation depending on deck row count to guarantee 1 page
+      const totalTableRows = combinedData.length + 1;
+      let baseFontSize = 8;
+      let basePadding = 1.35;
+
+      if (totalTableRows > 32) {
+        baseFontSize = 7.5;
+        basePadding = 1.0;
+      }
+      if (totalTableRows > 38) {
+        baseFontSize = 7.0;
+        basePadding = 0.8;
+      }
+      if (totalTableRows > 44) {
+        baseFontSize = 6.4;
+        basePadding = 0.6;
+      }
+
+      // Auto-fit loop: ensure strictly 1 single page on A4 paper
+      let doc = new jsPDF({ orientation: 'portrait', unit: 'mm', format: 'a4' });
+      let currentFontSize = baseFontSize;
+      let currentPadding = basePadding;
+
+      for (let attempt = 0; attempt < 5; attempt++) {
+        const testDoc = new jsPDF({ orientation: 'portrait', unit: 'mm', format: 'a4' });
+        renderDeckSheet(testDoc, currentFontSize, currentPadding);
+
+        if (testDoc.getNumberOfPages() === 1) {
+          doc = testDoc;
+          break;
+        }
+
+        currentFontSize = Math.max(5.5, currentFontSize - 0.4);
+        currentPadding = Math.max(0.4, currentPadding - 0.15);
+        doc = testDoc;
+      }
+
+      // Safety assurance: Ensure strictly 1 page in output
+      while (doc.getNumberOfPages() > 1) {
+        doc.deletePage(doc.getNumberOfPages());
+      }
 
       // Clean sanitized filename
       const cleanId = (playerInfo.playerID || 'Player').replace(/[^a-zA-Z0-9_-]/g, '_');
