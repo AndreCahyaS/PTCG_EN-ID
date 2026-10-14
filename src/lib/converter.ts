@@ -306,14 +306,19 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
     // Ensure cached candidates respect H/I/J (or MA custom sets)
     const legalCached = cached.filter(c =>
       LEGAL_H_I_J_SETS.has(c.setId) ||
+      c.setId.startsWith('MA') ||
       (c.regulationMark && (LEGAL_REGULATION_MARKS.has(c.regulationMark) || c.regulationMark === 'MA'))
     );
     if (legalCached.length > 0) {
-      // Merge with custom candidates (dedup by id)
-      const merged = [...legalCached];
+      // Merge with custom candidates, updating stale cached entries with fresh customCard data
+      const merged = legalCached.map(c => {
+        const fresh = customCandidates.find(cc => cc.id === c.id);
+        return fresh ? { ...c, ...fresh } : c;
+      });
       for (const cc of customCandidates) {
         if (!merged.some(c => c.id === cc.id)) merged.push(cc);
       }
+      setCachedCandidates(cardKey, merged).catch(() => {});
       merged.sort((a, b) => b.matchScore - a.matchScore);
       return {
         parsed: card,

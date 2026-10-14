@@ -28,10 +28,24 @@ export interface CustomCardEntry {
   collectionNumber: string; // e.g. "090/123"
   name: string;             // Indonesian name (same as EN for Pokémon)
   series: string;           // e.g. "MA4"
+  regulation?: string;      // e.g. "I", "J"
   imageUrl: string;
 }
 
-// Friendly display names for each MA series
+// Base series names for MA sets
+export const MA_SERIES_BASE_NAMES: Record<string, string> = {
+  MA1:  'Mega Evolusi',
+  MA2:  'Kobaran Biru',
+  MA3:  'Mega Impian',
+  MA4:  'Ledakan Peniada',
+  MA5:  'Ancaman Bayangan',
+  MATL: 'Deck Taktik Mega Charizard ex',
+  MATS: 'Deck Taktik Mega Gardevoir ex',
+  MATH: 'Deck Taktik Mega Sharpedo ex',
+  MATK: 'Deck Taktik Mega Dragonite ex',
+};
+
+// Friendly display names for each MA series (fallback arrangement when regulation is missing/empty)
 export const MA_SET_NAMES: Record<string, string> = {
   MA1:  'Mega Evolusi (MA1)',
   MA2:  'Kobaran Biru (MA2)',
@@ -43,6 +57,21 @@ export const MA_SET_NAMES: Record<string, string> = {
   MATH: 'Deck Taktik Mega Sharpedo ex (MATH)',
   MATK: 'Deck Taktik Mega Dragonite ex (MATK)',
 };
+
+/**
+ * Returns formatted set name. If regulation attribute exists and is non-empty,
+ * formats like the other available sets: "<Base Name> (Reg <Regulation>)" (e.g. "Ancaman Bayangan (Reg J)").
+ * If regulation does not exist, or is empty/null, falls back to the current arrangement (e.g. "Mega Impian (MA3)").
+ */
+export function getCustomSetName(series: string, regulation?: string | null): string {
+  const baseName = MA_SERIES_BASE_NAMES[series] ?? series;
+  const reg = regulation?.trim();
+  if (reg) {
+    const regLabel = reg.startsWith('Reg ') ? reg : `Reg ${reg}`;
+    return `${baseName} (${regLabel})`;
+  }
+  return MA_SET_NAMES[series] ?? `${baseName} (${series})`;
+}
 
 // All custom cards merged, typed
 const ALL_CUSTOM_CARDS: CustomCardEntry[] = [
@@ -70,22 +99,23 @@ function extractLocalId(collectionNumber: string): string {
  */
 function toCandidate(
   entry: CustomCardEntry,
-  matchScore: number,
-  matchReason: string
+  matchScore: number
 ): IndonesianCardCandidate {
   const localId = extractLocalId(entry.collectionNumber);
+  const setName = getCustomSetName(entry.series, entry.regulation);
+  const regTrimmed = entry.regulation?.trim();
   return {
     id: `${entry.series}-${localId}`,
     localId,
     setId: entry.series,
-    setName: MA_SET_NAMES[entry.series] ?? entry.series,
+    setName,
     name: entry.name,
     category: 'Pokemon',
     image: entry.imageUrl,
-    // MA sets use their own regulation mark to bypass Standard H/I/J filtering
-    regulationMark: 'MA',
+    // Use regulation from entry if present, otherwise fallback to 'MA'
+    regulationMark: regTrimmed || 'MA',
     matchScore,
-    matchReason,
+    matchReason: `${setName} #${localId}`,
   };
 }
 
@@ -99,11 +129,5 @@ export function lookupCustomByEnName(enName: string): IndonesianCardCandidate[] 
   const lower = enName.trim().toLowerCase();
   return ALL_CUSTOM_CARDS
     .filter(e => e.name.trim().toLowerCase() === lower)
-    .map(e =>
-      toCandidate(
-        e,
-        95,
-        `${MA_SET_NAMES[e.series] ?? e.series} #${extractLocalId(e.collectionNumber)}`
-      )
-    );
+    .map(e => toCandidate(e, 95));
 }
