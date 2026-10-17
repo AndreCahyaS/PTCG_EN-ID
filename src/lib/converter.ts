@@ -1,7 +1,7 @@
 import { ParsedCard, MappedCard, IndonesianCardCandidate, MappingStatus, CardCategory } from '../types';
 import setMappingData from '../config/setMapping.json';
 import { getCachedItem, setCachedItem, getCachedCandidates, setCachedCandidates } from './cache';
-import { lookupCustomByEnName } from './customCards';
+import { lookupCustomByEnName, getBasicEnergyImageUrl } from './customCards';
 import { getLatestTrainerImageUrl } from './customTrainers';
 
 interface SetMappingConfig {
@@ -340,6 +340,7 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
   // 1. RULE: ENERGY CARDS DO NOT NEED SERIES CODE OR CARD COLLECTION NUMBER
   if (card.category === 'Energy') {
     const energyName = resolveEnergyName(card.name);
+    const energyImage = getBasicEnergyImageUrl(card.name, energyName);
     const energyCandidate: IndonesianCardCandidate = {
       id: `energy_${card.id}`,
       localId: '', // Blank by rule!
@@ -347,6 +348,7 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
       setName: '',
       name: energyName,
       category: 'Energy',
+      image: energyImage,
       matchScore: 100,
       matchReason: 'Energi Resmi Turnamen (Tanpa Kode & Nomor)',
     };

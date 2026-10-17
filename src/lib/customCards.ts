@@ -76,19 +76,22 @@ export function getCustomSetName(series: string, regulation?: string | null): st
   return MA_SET_NAMES[series] ?? `${baseName} (${series})`;
 }
 
-// All custom cards merged, typed
+// All custom cards merged, typed (excluding energy cards which are handled by customEnergies)
 const ALL_CUSTOM_CARDS: CustomCardEntry[] = [
   ...(MA1  as CustomCardEntry[]),
   ...(MA2  as CustomCardEntry[]),
   ...(MA3  as CustomCardEntry[]),
   ...(MA4  as CustomCardEntry[]),
   ...(MA5  as CustomCardEntry[]),
-  ...(MA6  as CustomCardEntry[]),
+  ...(MA6  as any[]).filter(c => (c.type || '').toLowerCase() !== 'energi dasar' && !c.name?.startsWith('Energi Dasar')),
   ...(MATL as CustomCardEntry[]),
   ...(MATS as CustomCardEntry[]),
   ...(MATH as CustomCardEntry[]),
   ...(MATK as CustomCardEntry[]),
 ];
+
+// Re-export custom energies for convenience and modularity
+export * from './customEnergies';
 
 /**
  * Convert a raw collectionNumber like "090/123" to just the numeric part "090"
