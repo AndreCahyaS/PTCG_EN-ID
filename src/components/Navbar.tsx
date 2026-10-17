@@ -1,6 +1,7 @@
 import React from 'react';
 import { Flame, Shield, Trash2, Smartphone } from 'lucide-react';
 import { clearAllCache } from '../lib/cache';
+import { clearAllTemplateCookies } from '../lib/cookies';
 
 interface NavbarProps {
   onCacheCleared: () => void;
@@ -8,8 +9,9 @@ interface NavbarProps {
 
 export const Navbar: React.FC<NavbarProps> = ({ onCacheCleared }) => {
   const handleClearCache = async () => {
-    if (window.confirm('Bersihkan data cache lokal?')) {
+    if (window.confirm('Bersihkan data cache lokal dan template cookie?')) {
       await clearAllCache();
+      clearAllTemplateCookies();
       onCacheCleared();
     }
   };

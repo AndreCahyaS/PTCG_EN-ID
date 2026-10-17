@@ -7,6 +7,7 @@ import { CandidateDrawer } from './components/CandidateDrawer';
 import { PDFDeckSheet } from './components/PDFDeckSheet';
 import { parsePTCGLDecklist } from './lib/parser';
 import { convertDecklist } from './lib/converter';
+import { getLastPastedTemplateFromCookie, getSavedTemplatesFromCookie } from './lib/cookies';
 import { MappedCard, IndonesianCardCandidate, PlayerTournamentInfo, DecklistSummary, SelectedCandidateItem } from './types';
 import { Sparkles } from 'lucide-react';
 
@@ -81,7 +82,7 @@ export function App() {
     }
   };
 
-  // Convert default sample deck on initial load
+  // Convert default or saved cookie deck on initial load
   useEffect(() => {
     const defaultDeck = `Pokémon: 20
 4 Dreepy TWM 128
@@ -114,7 +115,11 @@ Energy: 8
 3 Fire Energy MEE 10
 2 Darkness Energy MEE 15`;
 
-    handleConvert(defaultDeck);
+    const savedTemplates = getSavedTemplatesFromCookie();
+    const lastPasted = getLastPastedTemplateFromCookie();
+    const initialDeck = lastPasted || (savedTemplates.length > 0 ? savedTemplates[0].content : defaultDeck);
+
+    handleConvert(initialDeck);
   }, []);
 
   const handleConfirmCard = (
