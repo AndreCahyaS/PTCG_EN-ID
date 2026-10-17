@@ -5,6 +5,7 @@ import { lookupCustomByEnName } from './customCards';
 
 interface SetMappingConfig {
   setCodes: Record<string, { tcgdexEn: string; name: string; targetIdSets: string[] }>;
+  pokemonTranslations?: Record<string, string>;
   trainerTranslations: Record<string, string>;
   energyTranslations: Record<string, string>;
   quickOverrides: Array<{
@@ -25,6 +26,44 @@ const config = setMappingData as SetMappingConfig;
  */
 function normalizeApostrophe(s: string): string {
   return s.replace(/[\u2018\u2019\u02BC\uFF07]/g, "'").trim();
+}
+
+/**
+ * Look up a Pokémon translation from config.pokemonTranslations.
+ * Supports exact match, case-insensitive match, and suffix matching (e.g. "ex", "v", "vstar", "vmax").
+ */
+export function lookupPokemon(name: string): string | undefined {
+  if (!config.pokemonTranslations) return undefined;
+  const clean = name.trim();
+  const normalized = normalizeApostrophe(clean);
+
+  // 1. Direct match
+  if (config.pokemonTranslations[normalized]) return config.pokemonTranslations[normalized];
+  if (config.pokemonTranslations[clean]) return config.pokemonTranslations[clean];
+
+  // 2. Case-insensitive match
+  const lowerNorm = normalized.toLowerCase();
+  const found = Object.entries(config.pokemonTranslations).find(
+    ([k]) => normalizeApostrophe(k).toLowerCase() === lowerNorm
+  );
+  if (found) return found[1];
+
+  // 3. Suffix match (ex, v, vstar, vmax)
+  const suffixMatch = clean.match(/\s+(ex|v|vstar|vmax)$/i);
+  if (suffixMatch) {
+    const suffix = suffixMatch[1];
+    const base = clean.replace(/\s+(ex|v|vstar|vmax)$/i, '').trim();
+    const baseTranslated = lookupPokemon(base);
+    if (baseTranslated) {
+      const regexSuffix = new RegExp(`\\s+${suffix}$`, 'i');
+      if (regexSuffix.test(baseTranslated)) {
+        return baseTranslated;
+      }
+      return `${baseTranslated} ${suffix}`;
+    }
+  }
+
+  return undefined;
 }
 
 /**
@@ -170,6 +209,46 @@ export function transformSearchNames(rawName: string, category: CardCategory): {
     };
   }
 
+  // Check for mapped Pokémon translations (e.g. Ogerpon masks)
+  const translatedPokemon = lookupPokemon(cleanName);
+  if (translatedPokemon) {
+    const primaryQueries: string[] = [
+      translatedPokemon,
+      cleanName,
+    ];
+
+    const baseTranslated = translatedPokemon.replace(/\s+(ex|v|vstar|vmax)$/i, '').trim();
+    if (baseTranslated !== translatedPokemon) {
+      primaryQueries.push(baseTranslated);
+    }
+    const baseClean = cleanName.replace(/\s+(ex|v|vstar|vmax)$/i, '').trim();
+    if (baseClean !== cleanName) {
+      primaryQueries.push(baseClean);
+    }
+
+    // Add first word (e.g. "Ogerpon") if multi-word so TCGdex returns all prints
+    const words = baseTranslated.split(/\s+/);
+    if (words.length > 1) {
+      primaryQueries.push(words[0]);
+    }
+
+    const expectedExactNames = [
+      translatedPokemon.toLowerCase(),
+      cleanName.toLowerCase()
+    ];
+
+    // Include base and ex forms if applicable for flexible matching
+    const baseLower = baseTranslated.toLowerCase();
+    if (!expectedExactNames.includes(baseLower)) expectedExactNames.push(baseLower);
+    const withEx = `${baseLower} ex`;
+    if (!expectedExactNames.includes(withEx)) expectedExactNames.push(withEx);
+
+    return {
+      primaryQueries: [...new Set(primaryQueries.filter(Boolean))],
+      expectedExactNames: [...new Set(expectedExactNames)]
+    };
+  }
+
   // Normal Pokémon: MUST BE EXACT SAME NAME
   return {
     primaryQueries: [cleanName, cleanName.replace(/\s+(ex|v|vstar|vmax)$/i, '').trim()],
@@ -207,10 +286,26 @@ export async function searchIndonesianCardsByName(searchTerm: string): Promise<a
 export async function searchCardsDirectly(query: string): Promise<IndonesianCardCandidate[]> {
   if (!query || query.trim().length < 2) return [];
 
-  const rawCards = await searchIndonesianCardsByName(query.trim());
+  const trimmed = query.trim();
+  const translated = lookupPokemon(trimmed);
+  const searchQueries = [trimmed];
+  if (translated && !searchQueries.includes(translated)) {
+    searchQueries.push(translated);
+  }
+
+  const rawCardsMap = new Map<string, any>();
+  for (const q of searchQueries) {
+    const rawCards = await searchIndonesianCardsByName(q);
+    for (const card of rawCards) {
+      if (card.id && !rawCardsMap.has(card.id)) {
+        rawCardsMap.set(card.id, card);
+      }
+    }
+  }
+
   const candidates: IndonesianCardCandidate[] = [];
 
-  for (const card of rawCards) {
+  for (const card of rawCardsMap.values()) {
     const parts = (card.id || '').split('-');
     const rawLocalId = card.localId || '';
     const rawSetId = (rawLocalId && card.id && card.id.endsWith('-' + rawLocalId))
@@ -293,13 +388,15 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
 
   // 3. POKÉMON CARDS:
   // - MUST have Series Code & Card Collection Number
-  // - MUST match exact name (or inverted owner name)
+  // - MUST match exact name (or inverted owner name / translated name)
   // - MUST be limited to Regulation H, I, J (G is finished!) OR custom MA sets
+
+  const { primaryQueries, expectedExactNames } = transformSearchNames(card.name, 'Pokemon');
 
   // 3a. CUSTOM LOOKUP: collect local MA-series candidates (do NOT return early).
   // These are merged with TCGdex API results below so cards like Munkidori show
   // all prints: sv7s-103, sv8a-075, AND ma3-081 together.
-  const customCandidates = lookupCustomByEnName(card.name);
+  const customCandidates = lookupCustomByEnName(card.name, expectedExactNames);
 
   const cached = await getCachedCandidates(cardKey);
   if (cached && cached.length > 0) {
@@ -332,7 +429,6 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
   }
 
   const candidates: IndonesianCardCandidate[] = [];
-  const { primaryQueries, expectedExactNames } = transformSearchNames(card.name, 'Pokemon');
 
   // De-duplicate queries so we don't search the same term twice
   const uniqueQueries = [...new Set(primaryQueries)];
@@ -373,6 +469,13 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
         score = 97; // Same collection number is a strong indicator
       }
 
+      // If card name has 'ex', prefer candidate that also has 'ex' (and vice versa)
+      const inputHasEx = /\bex\b/i.test(card.name);
+      const matchHasEx = /\bex\b/i.test(match.name);
+      if (inputHasEx === matchHasEx) {
+        score += 2;
+      }
+
       // Build image URL: TCGdex uses /id/SV/<setId>/<localId>/high.webp
       const imageUrl = match.image
         ? `${match.image}/high.webp`
@@ -404,12 +507,13 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
   if (candidates.length === 0) {
     // Default to newest standard set SV6s or SV8a
     const defaultSet = 'SV6s';
+    const fallbackName = lookupPokemon(card.name) || card.name;
     candidates.push({
       id: `${defaultSet}-${card.cardNumber || '001'}`,
       localId: card.cardNumber || '001',
       setId: defaultSet,
       setName: SET_NAMES[defaultSet] || defaultSet,
-      name: card.name,
+      name: fallbackName,
       category: 'Pokemon',
       regulationMark: 'H',
       matchScore: 70,

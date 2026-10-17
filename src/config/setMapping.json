@@ -223,6 +223,16 @@
       ]
     }
   },
+  "pokemonTranslations": {
+    "Teal Mask Ogerpon ex": "Ogerpon Topeng Teal ex",
+    "Teal Mask Ogerpon": "Ogerpon Topeng Teal",
+    "Wellspring Mask Ogerpon ex": "Ogerpon Topeng Sumur ex",
+    "Wellspring Mask Ogerpon": "Ogerpon Topeng Sumur",
+    "Cornerstone Mask Ogerpon ex": "Ogerpon Topeng Fondasi ex",
+    "Cornerstone Mask Ogerpon": "Ogerpon Topeng Fondasi",
+    "Hearthflame Mask Ogerpon ex": "Ogerpon Topeng Tungku ex",
+    "Hearthflame Mask Ogerpon": "Ogerpon Topeng Tungku"
+  },
   "trainerTranslations": {
     "Arven": "Arvin",
     "Boss's Orders": "Perintah Bos",

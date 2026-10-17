@@ -120,14 +120,15 @@ function toCandidate(
 }
 
 /**
- * Look up custom cards by EN Pokémon name (case-insensitive exact match).
- * For Pokémon cards, the EN name matches the Indonesian name
- * (e.g. "Meowth ex" EN → "Meowth ex" ID).
+ * Look up custom cards by EN Pokémon name or translated Indonesian names (case-insensitive exact match).
  * Returns candidates from ALL MA series that match.
  */
-export function lookupCustomByEnName(enName: string): IndonesianCardCandidate[] {
-  const lower = enName.trim().toLowerCase();
+export function lookupCustomByEnName(enName: string, additionalNames: string[] = []): IndonesianCardCandidate[] {
+  const names = new Set([
+    enName.trim().toLowerCase(),
+    ...additionalNames.map(n => n.trim().toLowerCase())
+  ]);
   return ALL_CUSTOM_CARDS
-    .filter(e => e.name.trim().toLowerCase() === lower)
+    .filter(e => names.has(e.name.trim().toLowerCase()))
     .map(e => toCandidate(e, 95));
 }
