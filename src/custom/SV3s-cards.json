@@ -1,0 +1,29 @@
+[
+  {
+    "cardId": "8948",
+    "name": "Permen Langka",
+    "series": "SV3s",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "153/170",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00008948.png"
+  },
+  {
+    "cardId": "8949",
+    "name": "Tukar Pokémon",
+    "series": "SV3s",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "154/170",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00008949.png"
+  },
+  {
+    "cardId": "17439",
+    "name": "Energi Dasar Api",
+    "series": "SV3s",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "232/170",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017439.png"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "cardId": "8043",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SV1a",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "069/073",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00008043.png"
+  },
+  {
+    "cardId": "17230",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SV1a",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "095/073",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017230.png"
+  },
+  {
+    "cardId": "17235",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SV1a",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "100/073",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017235.png"
+  }
+]

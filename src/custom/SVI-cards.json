@@ -1,0 +1,677 @@
+[
+  {
+    "cardId": "14423",
+    "name": "Celebi",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "001/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014423.png"
+  },
+  {
+    "cardId": "14424",
+    "name": "Sprigatito ex",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "002/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014424.png"
+  },
+  {
+    "cardId": "14425",
+    "name": "Nymble",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "003/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014425.png"
+  },
+  {
+    "cardId": "14426",
+    "name": "Lokix",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "004/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014426.png"
+  },
+  {
+    "cardId": "14427",
+    "name": "Toedscool",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "005/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014427.png"
+  },
+  {
+    "cardId": "14428",
+    "name": "Toedscool",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "005/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014428.png"
+  },
+  {
+    "cardId": "14429",
+    "name": "Toedscruel",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "006/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014429.png"
+  },
+  {
+    "cardId": "14430",
+    "name": "Toedscruel",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "006/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014430.png"
+  },
+  {
+    "cardId": "14431",
+    "name": "Ponyta",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "007/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014431.png"
+  },
+  {
+    "cardId": "14432",
+    "name": "Ponyta",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "007/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014432.png"
+  },
+  {
+    "cardId": "14433",
+    "name": "Rapidash",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "008/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014433.png"
+  },
+  {
+    "cardId": "14434",
+    "name": "Reshiram",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "009/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014434.png"
+  },
+  {
+    "cardId": "14435",
+    "name": "Charcadet",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "010/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014435.png"
+  },
+  {
+    "cardId": "14436",
+    "name": "Armarouge ex",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "011/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014436.png"
+  },
+  {
+    "cardId": "14437",
+    "name": "Pikachu ex",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "018/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014437.png"
+  },
+  {
+    "cardId": "14438",
+    "name": "Mareep",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "019/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014438.png"
+  },
+  {
+    "cardId": "14439",
+    "name": "Mareep",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "019/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014439.png"
+  },
+  {
+    "cardId": "14440",
+    "name": "Flaaffy",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "020/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014440.png"
+  },
+  {
+    "cardId": "14441",
+    "name": "Ampharos",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "021/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014441.png"
+  },
+  {
+    "cardId": "14442",
+    "name": "Pawmi",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "022/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014442.png"
+  },
+  {
+    "cardId": "14443",
+    "name": "Miraidon",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "023/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014443.png"
+  },
+  {
+    "cardId": "14444",
+    "name": "Mewtwo",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "024/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014444.png"
+  },
+  {
+    "cardId": "14445",
+    "name": "Flittle",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "025/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014445.png"
+  },
+  {
+    "cardId": "14446",
+    "name": "Flittle",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "025/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014446.png"
+  },
+  {
+    "cardId": "14447",
+    "name": "Espathra",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "026/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014447.png"
+  },
+  {
+    "cardId": "14448",
+    "name": "Greavard",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "027/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014448.png"
+  },
+  {
+    "cardId": "14449",
+    "name": "Houndstone ex",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "028/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014449.png"
+  },
+  {
+    "cardId": "14450",
+    "name": "Tauros",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "044/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014450.png"
+  },
+  {
+    "cardId": "14451",
+    "name": "Cyclizar",
+    "series": "SVI",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "048/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014451.png"
+  },
+  {
+    "cardId": "14452",
+    "name": "Pemulihan Energi",
+    "series": "SVI",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "049/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014452.png"
+  },
+  {
+    "cardId": "14453",
+    "name": "Obat Luka",
+    "series": "SVI",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "050/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014453.png"
+  },
+  {
+    "cardId": "14454",
+    "name": "Obat Luka",
+    "series": "SVI",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "050/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014454.png"
+  },
+  {
+    "cardId": "14457",
+    "name": "Tukar Pokémon",
+    "series": "SVI",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "054/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014457.png"
+  },
+  {
+    "cardId": "14458",
+    "name": "Tukar Pokémon",
+    "series": "SVI",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "054/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014458.png"
+  },
+  {
+    "cardId": "14459",
+    "name": "Pokémon Catcher",
+    "series": "SVI",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "055/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014459.png"
+  },
+  {
+    "cardId": "14460",
+    "name": "Pokémon Catcher",
+    "series": "SVI",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "055/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014460.png"
+  },
+  {
+    "cardId": "14461",
+    "name": "Bola Pokémon",
+    "series": "SVI",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "056/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014461.png"
+  },
+  {
+    "cardId": "14462",
+    "name": "Bola Pokémon",
+    "series": "SVI",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "056/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014462.png"
+  },
+  {
+    "cardId": "14463",
+    "name": "Judge",
+    "series": "SVI",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "059/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014463.png"
+  },
+  {
+    "cardId": "14464",
+    "name": "Judge",
+    "series": "SVI",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "059/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014464.png"
+  },
+  {
+    "cardId": "14472",
+    "name": "Perempuan Piknik",
+    "series": "SVI",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "065/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014472.png"
+  },
+  {
+    "cardId": "14473",
+    "name": "Perempuan Piknik",
+    "series": "SVI",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "065/066",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014473.png"
+  },
+  {
+    "cardId": "14515",
+    "name": "Energi Dasar Api",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014515.png"
+  },
+  {
+    "cardId": "14516",
+    "name": "Energi Dasar Api",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014516.png"
+  },
+  {
+    "cardId": "14517",
+    "name": "Energi Dasar Api",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014517.png"
+  },
+  {
+    "cardId": "14518",
+    "name": "Energi Dasar Api",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014518.png"
+  },
+  {
+    "cardId": "14519",
+    "name": "Energi Dasar Api",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014519.png"
+  },
+  {
+    "cardId": "14520",
+    "name": "Energi Dasar Api",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014520.png"
+  },
+  {
+    "cardId": "14521",
+    "name": "Energi Dasar Api",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014521.png"
+  },
+  {
+    "cardId": "14507",
+    "name": "Energi Dasar Daun",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014507.png"
+  },
+  {
+    "cardId": "14508",
+    "name": "Energi Dasar Daun",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014508.png"
+  },
+  {
+    "cardId": "14509",
+    "name": "Energi Dasar Daun",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014509.png"
+  },
+  {
+    "cardId": "14510",
+    "name": "Energi Dasar Daun",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014510.png"
+  },
+  {
+    "cardId": "14511",
+    "name": "Energi Dasar Daun",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014511.png"
+  },
+  {
+    "cardId": "14512",
+    "name": "Energi Dasar Daun",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014512.png"
+  },
+  {
+    "cardId": "14513",
+    "name": "Energi Dasar Daun",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014513.png"
+  },
+  {
+    "cardId": "14514",
+    "name": "Energi Dasar Daun",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014514.png"
+  },
+  {
+    "cardId": "14522",
+    "name": "Energi Dasar Listrik",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014522.png"
+  },
+  {
+    "cardId": "14523",
+    "name": "Energi Dasar Listrik",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014523.png"
+  },
+  {
+    "cardId": "14524",
+    "name": "Energi Dasar Listrik",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014524.png"
+  },
+  {
+    "cardId": "14525",
+    "name": "Energi Dasar Listrik",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014525.png"
+  },
+  {
+    "cardId": "14526",
+    "name": "Energi Dasar Listrik",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014526.png"
+  },
+  {
+    "cardId": "14527",
+    "name": "Energi Dasar Listrik",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014527.png"
+  },
+  {
+    "cardId": "14528",
+    "name": "Energi Dasar Listrik",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014528.png"
+  },
+  {
+    "cardId": "14529",
+    "name": "Energi Dasar Listrik",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014529.png"
+  },
+  {
+    "cardId": "14530",
+    "name": "Energi Dasar Listrik",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014530.png"
+  },
+  {
+    "cardId": "14531",
+    "name": "Energi Dasar Psychic",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014531.png"
+  },
+  {
+    "cardId": "14532",
+    "name": "Energi Dasar Psychic",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014532.png"
+  },
+  {
+    "cardId": "14533",
+    "name": "Energi Dasar Psychic",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014533.png"
+  },
+  {
+    "cardId": "14534",
+    "name": "Energi Dasar Psychic",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014534.png"
+  },
+  {
+    "cardId": "14535",
+    "name": "Energi Dasar Psychic",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014535.png"
+  },
+  {
+    "cardId": "14536",
+    "name": "Energi Dasar Psychic",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014536.png"
+  },
+  {
+    "cardId": "14537",
+    "name": "Energi Dasar Psychic",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014537.png"
+  },
+  {
+    "cardId": "14538",
+    "name": "Energi Dasar Psychic",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014538.png"
+  },
+  {
+    "cardId": "14539",
+    "name": "Energi Dasar Psychic",
+    "series": "SVI",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014539.png"
+  }
+]

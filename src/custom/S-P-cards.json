@@ -1,0 +1,29 @@
+[
+  {
+    "cardId": "5615",
+    "name": "Koki",
+    "series": "S-P",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "284/S-P",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005615.png"
+  },
+  {
+    "cardId": "5616",
+    "name": "Judge",
+    "series": "S-P",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "285/S-P",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005616.png"
+  },
+  {
+    "cardId": "6689",
+    "name": "Fanfare Perayaan",
+    "series": "S-P",
+    "type": "stadium",
+    "regulation": "H",
+    "collectionNumber": "374/S-P",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006689.png"
+  }
+]

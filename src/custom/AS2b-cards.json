@@ -1,0 +1,47 @@
+[
+  {
+    "cardId": "3178",
+    "name": "Pengalih Energi",
+    "series": "AS2b",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "152/171",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003178.png"
+  },
+  {
+    "cardId": "3179",
+    "name": "Energy Recicle",
+    "series": "AS2b",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "153/171",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003179.png"
+  },
+  {
+    "cardId": "3181",
+    "name": "Crush Hammer",
+    "series": "AS2b",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "155/171",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003181.png"
+  },
+  {
+    "cardId": "3183",
+    "name": "Pokémon Catcher",
+    "series": "AS2b",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "157/171",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003183.png"
+  },
+  {
+    "cardId": "3184",
+    "name": "Semprotan Anti Serangga",
+    "series": "AS2b",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "158/171",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003184.png"
+  }
+]

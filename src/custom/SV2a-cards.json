@@ -1,0 +1,20 @@
+[
+  {
+    "cardId": "17433",
+    "name": "Tukar Pokémon",
+    "series": "SV2a",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "209/165",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017433.png"
+  },
+  {
+    "cardId": "17434",
+    "name": "Energi Dasar {Psychic}",
+    "series": "SV2a",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "210/165",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017434.png"
+  }
+]

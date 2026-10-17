@@ -1,0 +1,29 @@
+[
+  {
+    "cardId": "620",
+    "name": "Permen Langka",
+    "series": "SC1b",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "139/153",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000620.png"
+  },
+  {
+    "cardId": "623",
+    "name": "Balon",
+    "series": "SC1b",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "142/153",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000623.png"
+  },
+  {
+    "cardId": "629",
+    "name": "Perintah Bos (Giovanni)",
+    "series": "SC1b",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "148/153",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000629.png"
+  }
+]

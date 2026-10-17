@@ -1,0 +1,137 @@
+[
+  {
+    "cardId": "10495",
+    "name": "Yamper",
+    "series": "SVHM",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "002/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010495.png"
+  },
+  {
+    "cardId": "10496",
+    "name": "Boltund",
+    "series": "SVHM",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "003/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010496.png"
+  },
+  {
+    "cardId": "10497",
+    "name": "Iron Hands",
+    "series": "SVHM",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "004/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010497.png"
+  },
+  {
+    "cardId": "10498",
+    "name": "Latias",
+    "series": "SVHM",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "005/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010498.png"
+  },
+  {
+    "cardId": "10499",
+    "name": "Elgyem",
+    "series": "SVHM",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "006/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010499.png"
+  },
+  {
+    "cardId": "10500",
+    "name": "Beheeyem",
+    "series": "SVHM",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "007/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010500.png"
+  },
+  {
+    "cardId": "10501",
+    "name": "Iron Valiant",
+    "series": "SVHM",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "008/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010501.png"
+  },
+  {
+    "cardId": "10502",
+    "name": "Miraidon ex",
+    "series": "SVHM",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "009/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010502.png"
+  },
+  {
+    "cardId": "10503",
+    "name": "Iron Jugulis",
+    "series": "SVHM",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "010/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010503.png"
+  },
+  {
+    "cardId": "10506",
+    "name": "Bola Ultra",
+    "series": "SVHM",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "013/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010506.png"
+  },
+  {
+    "cardId": "10507",
+    "name": "Tukar Pokémon",
+    "series": "SVHM",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "014/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010507.png"
+  },
+  {
+    "cardId": "10508",
+    "name": "Bola Master",
+    "series": "SVHM",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "015/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010508.png"
+  },
+  {
+    "cardId": "10515",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SVHM",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "022/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010515.png"
+  },
+  {
+    "cardId": "10516",
+    "name": "Energi Dasar Listrik",
+    "series": "SVHM",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010516.png"
+  },
+  {
+    "cardId": "10517",
+    "name": "Energi Dasar Psychic",
+    "series": "SVHM",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010517.png"
+  }
+]

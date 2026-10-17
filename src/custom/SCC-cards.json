@@ -1,0 +1,38 @@
+[
+  {
+    "cardId": "125",
+    "name": "Crush Hammer",
+    "series": "SCC",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "125/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000125.png"
+  },
+  {
+    "cardId": "132",
+    "name": "Pokégear 3.0",
+    "series": "SCC",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "133/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000132.png"
+  },
+  {
+    "cardId": "133",
+    "name": "Tukar Pokémon",
+    "series": "SCC",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "134/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000133.png"
+  },
+  {
+    "cardId": "134",
+    "name": "Pokémon Catcher",
+    "series": "SCC",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "135/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000134.png"
+  }
+]

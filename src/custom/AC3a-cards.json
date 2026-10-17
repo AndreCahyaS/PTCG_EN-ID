@@ -1,0 +1,20 @@
+[
+  {
+    "cardId": "2160",
+    "name": "Pokémon Center Lady",
+    "series": "AC3a",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "176/205",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00002160.png"
+  },
+  {
+    "cardId": "3505",
+    "name": "Pokégear 3.0",
+    "series": "AC3a",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "196/205",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003505.png"
+  }
+]

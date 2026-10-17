@@ -1,0 +1,74 @@
+[
+  {
+    "cardId": "7039",
+    "name": "Transfer Energi ",
+    "series": "SVAL",
+    "type": "",
+    "regulation": "J",
+    "collectionNumber": "011/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007039.png"
+  },
+  {
+    "cardId": "7041",
+    "name": "Bola Ultra",
+    "series": "SVAL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "013/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007041.png"
+  },
+  {
+    "cardId": "7042",
+    "name": "Permen Langka",
+    "series": "SVAL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "014/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007042.png"
+  },
+  {
+    "cardId": "7043",
+    "name": "Pokégear 3.0",
+    "series": "SVAL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "015/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007043.png"
+  },
+  {
+    "cardId": "7044",
+    "name": "Tukar Pokémon",
+    "series": "SVAL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "016/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007044.png"
+  },
+  {
+    "cardId": "7046",
+    "name": "Judge",
+    "series": "SVAL",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "018/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007046.png"
+  },
+  {
+    "cardId": "7050",
+    "name": "Energi Dasar Api",
+    "series": "SVAL",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007050.png"
+  },
+  {
+    "cardId": "7051",
+    "name": "Energi Dasar Listrik",
+    "series": "SVAL",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007051.png"
+  }
+]

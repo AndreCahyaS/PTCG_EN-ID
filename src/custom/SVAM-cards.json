@@ -1,0 +1,92 @@
+[
+  {
+    "cardId": "7063",
+    "name": "Pengalih Energi",
+    "series": "SVAM",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "012/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007063.png"
+  },
+  {
+    "cardId": "7064",
+    "name": "Transfer Energi ",
+    "series": "SVAM",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "013/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007064.png"
+  },
+  {
+    "cardId": "7065",
+    "name": "Obat Luka ",
+    "series": "SVAM",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "014/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007065.png"
+  },
+  {
+    "cardId": "7067",
+    "name": "Bola Ultra",
+    "series": "SVAM",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "016/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007067.png"
+  },
+  {
+    "cardId": "7068",
+    "name": "Pokégear 3.0",
+    "series": "SVAM",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "017/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007068.png"
+  },
+  {
+    "cardId": "7069",
+    "name": "Tukar Pokémon",
+    "series": "SVAM",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "018/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007069.png"
+  },
+  {
+    "cardId": "7070",
+    "name": "Pokémon Catcher",
+    "series": "SVAM",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "019/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007070.png"
+  },
+  {
+    "cardId": "7071",
+    "name": "Judge",
+    "series": "SVAM",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "020/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007071.png"
+  },
+  {
+    "cardId": "7076",
+    "name": "Energi Dasar Petarung",
+    "series": "SVAM",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007076.png"
+  },
+  {
+    "cardId": "7075",
+    "name": "Energi Dasar Daun",
+    "series": "SVAM",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007075.png"
+  }
+]

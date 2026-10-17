@@ -1,0 +1,56 @@
+[
+  {
+    "cardId": "13906",
+    "name": "Bola Ultra",
+    "series": "SVTL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "012/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013906.png"
+  },
+  {
+    "cardId": "13907",
+    "name": "Permen Langka",
+    "series": "SVTL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "013/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013907.png"
+  },
+  {
+    "cardId": "13908",
+    "name": "Pokégear 3.0",
+    "series": "SVTL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "014/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013908.png"
+  },
+  {
+    "cardId": "13909",
+    "name": "Tukar Pokémon",
+    "series": "SVTL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "015/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013909.png"
+  },
+  {
+    "cardId": "13915",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SVTL",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "021/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013915.png"
+  },
+  {
+    "cardId": "13916",
+    "name": "Energi Dasar {Api}",
+    "series": "SVTL",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013916.png"
+  }
+]

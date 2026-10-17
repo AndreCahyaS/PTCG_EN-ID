@@ -1,0 +1,56 @@
+[
+  {
+    "cardId": "13973",
+    "name": "Poffin Bersahabat",
+    "series": "SVTS",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "012/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013973.png"
+  },
+  {
+    "cardId": "13975",
+    "name": "Bola Ultra",
+    "series": "SVTS",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "014/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013975.png"
+  },
+  {
+    "cardId": "13976",
+    "name": "Permen Langka",
+    "series": "SVTS",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "015/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013976.png"
+  },
+  {
+    "cardId": "13977",
+    "name": "Tukar Pokémon",
+    "series": "SVTS",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "016/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013977.png"
+  },
+  {
+    "cardId": "13981",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SVTS",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "020/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013981.png"
+  },
+  {
+    "cardId": "13984",
+    "name": "Energi Dasar {Psychic}",
+    "series": "SVTS",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013984.png"
+  }
+]

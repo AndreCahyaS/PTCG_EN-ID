@@ -1,0 +1,56 @@
+[
+  {
+    "cardId": "3681",
+    "name": "Bola Ultra",
+    "series": "AS3D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "131/146",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003681.png"
+  },
+  {
+    "cardId": "3682",
+    "name": "Permen Langka",
+    "series": "AS3D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "132/146",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003682.png"
+  },
+  {
+    "cardId": "3684",
+    "name": "Tukar Pokémon",
+    "series": "AS3D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "134/146",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003684.png"
+  },
+  {
+    "cardId": "3685",
+    "name": "Pokémon Catcher",
+    "series": "AS3D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "135/146",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003685.png"
+  },
+  {
+    "cardId": "3688",
+    "name": "Counter Gain",
+    "series": "AS3D",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "138/146",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003688.png"
+  },
+  {
+    "cardId": "3692",
+    "name": "Judge",
+    "series": "AS3D",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "142/146",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003692.png"
+  }
+]

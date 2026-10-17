@@ -1,0 +1,101 @@
+[
+  {
+    "cardId": "777",
+    "name": "Pemulihan Energi",
+    "series": "SC1D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "145/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000777.png"
+  },
+  {
+    "cardId": "778",
+    "name": "Pengalih Energi",
+    "series": "SC1D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "146/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000778.png"
+  },
+  {
+    "cardId": "779",
+    "name": "Transfer Energi",
+    "series": "SC1D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "147/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000779.png"
+  },
+  {
+    "cardId": "780",
+    "name": "Obat Luka",
+    "series": "SC1D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "148/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000780.png"
+  },
+  {
+    "cardId": "782",
+    "name": "Crush Hammer",
+    "series": "SC1D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "150/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000782.png"
+  },
+  {
+    "cardId": "785",
+    "name": "Permen Langka",
+    "series": "SC1D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "153/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000785.png"
+  },
+  {
+    "cardId": "787",
+    "name": "Tukar Pokémon",
+    "series": "SC1D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "155/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000787.png"
+  },
+  {
+    "cardId": "788",
+    "name": "Pokémon Catcher",
+    "series": "SC1D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "156/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000788.png"
+  },
+  {
+    "cardId": "789",
+    "name": "Bola Pokémon",
+    "series": "SC1D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "157/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000789.png"
+  },
+  {
+    "cardId": "792",
+    "name": "Pokémon Center Lady",
+    "series": "SC1D",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "160/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000792.png"
+  },
+  {
+    "cardId": "793",
+    "name": "Perintah Bos (Giovanni)",
+    "series": "SC1D",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "161/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000793.png"
+  }
+]

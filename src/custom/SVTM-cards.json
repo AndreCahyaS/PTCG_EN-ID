@@ -1,0 +1,83 @@
+[
+  {
+    "cardId": "13917",
+    "name": "Shaymin",
+    "series": "SVTM",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "001/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013917.png"
+  },
+  {
+    "cardId": "13925",
+    "name": "Pemulihan Energi",
+    "series": "SVTM",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "009/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013925.png"
+  },
+  {
+    "cardId": "13927",
+    "name": "Poffin Bersahabat",
+    "series": "SVTM",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "011/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013927.png"
+  },
+  {
+    "cardId": "13928",
+    "name": "Bola Ultra",
+    "series": "SVTM",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "012/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013928.png"
+  },
+  {
+    "cardId": "13929",
+    "name": "Permen Langka",
+    "series": "SVTM",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "013/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013929.png"
+  },
+  {
+    "cardId": "13930",
+    "name": "Tukar Pokémon",
+    "series": "SVTM",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "014/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013930.png"
+  },
+  {
+    "cardId": "13931",
+    "name": "Set Penangkap Serangga",
+    "series": "SVTM",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "015/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013931.png"
+  },
+  {
+    "cardId": "13936",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SVTM",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "020/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013936.png"
+  },
+  {
+    "cardId": "13939",
+    "name": "Energi Dasar {Daun}",
+    "series": "SVTM",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013939.png"
+  }
+]

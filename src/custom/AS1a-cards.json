@@ -1,0 +1,38 @@
+[
+  {
+    "cardId": "1477",
+    "name": "Pemulihan Energi",
+    "series": "AS1a",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "135/150",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00001477.png"
+  },
+  {
+    "cardId": "1478",
+    "name": "Obat Luka",
+    "series": "AS1a",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "136/150",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00001478.png"
+  },
+  {
+    "cardId": "1479",
+    "name": "Permen Langka",
+    "series": "AS1a",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "137/150",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00001479.png"
+  },
+  {
+    "cardId": "1480",
+    "name": "Bola Pokémon",
+    "series": "AS1a",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "138/150",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00001480.png"
+  }
+]

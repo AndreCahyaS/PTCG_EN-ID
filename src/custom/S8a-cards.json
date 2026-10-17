@@ -1,0 +1,74 @@
+[
+  {
+    "cardId": "4406",
+    "name": "Energi Dasar Kegelapan",
+    "series": "S8a",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "DAR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004406.png"
+  },
+  {
+    "cardId": "4405",
+    "name": "Energi Dasar Petarung",
+    "series": "S8a",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004405.png"
+  },
+  {
+    "cardId": "4401",
+    "name": "Energi Dasar Api",
+    "series": "S8a",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004401.png"
+  },
+  {
+    "cardId": "4400",
+    "name": "Energi Dasar Daun",
+    "series": "S8a",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004400.png"
+  },
+  {
+    "cardId": "4403",
+    "name": "Energi Dasar Listrik",
+    "series": "S8a",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004403.png"
+  },
+  {
+    "cardId": "4407",
+    "name": "Energi Dasar Logam",
+    "series": "S8a",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "MET",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004407.png"
+  },
+  {
+    "cardId": "4404",
+    "name": "Energi Dasar Psychic",
+    "series": "S8a",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004404.png"
+  },
+  {
+    "cardId": "4402",
+    "name": "Energi Dasar Air",
+    "series": "S8a",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "WAT",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004402.png"
+  }
+]

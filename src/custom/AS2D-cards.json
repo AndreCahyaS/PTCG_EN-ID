@@ -1,0 +1,92 @@
+[
+  {
+    "cardId": "3322",
+    "name": "Pemulihan Energi",
+    "series": "AS2D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "132/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003322.png"
+  },
+  {
+    "cardId": "3323",
+    "name": "Pengalih Energi",
+    "series": "AS2D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "133/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003323.png"
+  },
+  {
+    "cardId": "3325",
+    "name": "Obat Luka",
+    "series": "AS2D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "135/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003325.png"
+  },
+  {
+    "cardId": "3326",
+    "name": "Crush Hammer",
+    "series": "AS2D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "136/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003326.png"
+  },
+  {
+    "cardId": "3330",
+    "name": "Bola Ultra",
+    "series": "AS2D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "140/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003330.png"
+  },
+  {
+    "cardId": "3331",
+    "name": "Permen Langka",
+    "series": "AS2D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "141/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003331.png"
+  },
+  {
+    "cardId": "3332",
+    "name": "Tukar Pokémon",
+    "series": "AS2D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "142/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003332.png"
+  },
+  {
+    "cardId": "3333",
+    "name": "Pokémon Catcher",
+    "series": "AS2D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "143/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003333.png"
+  },
+  {
+    "cardId": "3334",
+    "name": "Semprotan Anti Serangga",
+    "series": "AS2D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "144/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003334.png"
+  },
+  {
+    "cardId": "3335",
+    "name": "Bola Pokémon",
+    "series": "AS2D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "145/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003335.png"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "cardId": "1627",
+    "name": "Palu Luar Biasa",
+    "series": "AS1b",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "135/150",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00001627.png"
+  },
+  {
+    "cardId": "1630",
+    "name": "Bola Ultra",
+    "series": "AS1b",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "138/150",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00001630.png"
+  },
+  {
+    "cardId": "1632",
+    "name": "Tukar Pokémon",
+    "series": "AS1b",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "140/150",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00001632.png"
+  }
+]

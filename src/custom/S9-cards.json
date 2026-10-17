@@ -1,0 +1,20 @@
+[
+  {
+    "cardId": "5346",
+    "name": "Bola Ultra",
+    "series": "S9",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "089/100",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005346.png"
+  },
+  {
+    "cardId": "5354",
+    "name": "Perintah Bos (Cyrus)",
+    "series": "S9",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "097/100",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005354.png"
+  }
+]

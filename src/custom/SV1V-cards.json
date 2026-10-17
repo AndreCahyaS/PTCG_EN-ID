@@ -1,0 +1,38 @@
+[
+  {
+    "cardId": "7020",
+    "name": "Bola Ultra",
+    "series": "SV1V",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "070/078",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007020.png"
+  },
+  {
+    "cardId": "7022",
+    "name": "Permen Langka",
+    "series": "SV1V",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "072/078",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007022.png"
+  },
+  {
+    "cardId": "17207",
+    "name": "Permen Langka",
+    "series": "SV1V",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "107/078",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017207.png"
+  },
+  {
+    "cardId": "17208",
+    "name": "Energi Dasar {Listrik}",
+    "series": "SV1V",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "108/078",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017208.png"
+  }
+]

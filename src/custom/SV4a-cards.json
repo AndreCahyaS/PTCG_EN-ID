@@ -1,0 +1,38 @@
+[
+  {
+    "cardId": "10061",
+    "name": "Bola Ultra",
+    "series": "SV4a",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "161/190",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010061.png"
+  },
+  {
+    "cardId": "10063",
+    "name": "Permen Langka",
+    "series": "SV4a",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "163/190",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010063.png"
+  },
+  {
+    "cardId": "10081",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SV4a",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "181/190",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010081.png"
+  },
+  {
+    "cardId": "10271",
+    "name": "Judge",
+    "series": "SV4a",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "342/190",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010271.png"
+  }
+]

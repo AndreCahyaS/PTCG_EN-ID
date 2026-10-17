@@ -1,0 +1,92 @@
+[
+  {
+    "cardId": "7110",
+    "name": "Pemulihan Energi",
+    "series": "SVAW",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "011/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007110.png"
+  },
+  {
+    "cardId": "7111",
+    "name": "Transfer Energi ",
+    "series": "SVAW",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "012/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007111.png"
+  },
+  {
+    "cardId": "7112",
+    "name": "Crush Hammer ",
+    "series": "SVAW",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "013/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007112.png"
+  },
+  {
+    "cardId": "7114",
+    "name": "Bola Ultra",
+    "series": "SVAW",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "015/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007114.png"
+  },
+  {
+    "cardId": "7115",
+    "name": "Pokégear 3.0",
+    "series": "SVAW",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "016/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007115.png"
+  },
+  {
+    "cardId": "7116",
+    "name": "Tukar Pokémon",
+    "series": "SVAW",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "017/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007116.png"
+  },
+  {
+    "cardId": "7117",
+    "name": "Pokémon Catcher",
+    "series": "SVAW",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "018/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007117.png"
+  },
+  {
+    "cardId": "7119",
+    "name": "Judge",
+    "series": "SVAW",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "020/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007119.png"
+  },
+  {
+    "cardId": "7124",
+    "name": "Energi Dasar Psychic",
+    "series": "SVAW",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007124.png"
+  },
+  {
+    "cardId": "7123",
+    "name": "Energi Dasar Air",
+    "series": "SVAW",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "WAT",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007123.png"
+  }
+]

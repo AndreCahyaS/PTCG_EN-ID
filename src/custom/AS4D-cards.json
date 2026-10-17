@@ -1,0 +1,92 @@
+[
+  {
+    "cardId": "4337",
+    "name": "Pengalih Energi",
+    "series": "AS4D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "145/182",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004337.jpg"
+  },
+  {
+    "cardId": "4338",
+    "name": "Pemulihan Energi",
+    "series": "AS4D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "146/182",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004338.jpg"
+  },
+  {
+    "cardId": "4340",
+    "name": "Obat Luka",
+    "series": "AS4D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "148/182",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004340.jpg"
+  },
+  {
+    "cardId": "4341",
+    "name": "Crush Hammer",
+    "series": "AS4D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "149/182",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004341.jpg"
+  },
+  {
+    "cardId": "4346",
+    "name": "Bola Ultra",
+    "series": "AS4D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "154/182",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004346.jpg"
+  },
+  {
+    "cardId": "4348",
+    "name": "Permen Langka",
+    "series": "AS4D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "156/182",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004348.jpg"
+  },
+  {
+    "cardId": "4349",
+    "name": "Tukar Pokémon",
+    "series": "AS4D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "157/182",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004349.jpg"
+  },
+  {
+    "cardId": "4350",
+    "name": "Pokémon Catcher",
+    "series": "AS4D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "158/182",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004350.jpg"
+  },
+  {
+    "cardId": "4351",
+    "name": "Semprotan Anti Serangga",
+    "series": "AS4D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "159/182",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004351.jpg"
+  },
+  {
+    "cardId": "4361",
+    "name": "Judge",
+    "series": "AS4D",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "169/182",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004361.jpg"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "cardId": "4807",
+    "name": "Tool Scrapper",
+    "series": "S8b",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "138/184",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004807.png"
+  },
+  {
+    "cardId": "4814",
+    "name": "Balon",
+    "series": "S8b",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "145/184",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004814.png"
+  },
+  {
+    "cardId": "4827",
+    "name": "Perintah Bos (Lysandre)",
+    "series": "S8b",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "158/184",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004827.png"
+  }
+]

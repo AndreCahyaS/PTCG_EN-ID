@@ -1,0 +1,56 @@
+[
+  {
+    "cardId": "3475",
+    "name": "Pemulihan Energi",
+    "series": "AS1D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "117/140",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003475.png"
+  },
+  {
+    "cardId": "3477",
+    "name": "Obat Luka",
+    "series": "AS1D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "119/140",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003477.png"
+  },
+  {
+    "cardId": "3479",
+    "name": "Bola Ultra",
+    "series": "AS1D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "121/140",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003479.png"
+  },
+  {
+    "cardId": "3481",
+    "name": "Permen Langka",
+    "series": "AS1D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "123/140",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003481.png"
+  },
+  {
+    "cardId": "3482",
+    "name": "Tukar Pokémon",
+    "series": "AS1D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "124/140",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003482.png"
+  },
+  {
+    "cardId": "3483",
+    "name": "Bola Pokémon",
+    "series": "AS1D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "125/140",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003483.png"
+  }
+]

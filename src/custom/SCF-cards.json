@@ -1,0 +1,155 @@
+[
+  {
+    "cardId": "6524",
+    "name": "Pemulihan Energi ",
+    "series": "SCF",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "142/176",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006524.png"
+  },
+  {
+    "cardId": "6525",
+    "name": "Transfer Energi ",
+    "series": "SCF",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "143/176",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006525.png"
+  },
+  {
+    "cardId": "6527",
+    "name": "Obat Luka ",
+    "series": "SCF",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "145/176",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006527.png"
+  },
+  {
+    "cardId": "6529",
+    "name": "Crush Hammer",
+    "series": "SCF",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "147/176",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006529.png"
+  },
+  {
+    "cardId": "6532",
+    "name": "Bola Ultra",
+    "series": "SCF",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "150/176",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006532.png"
+  },
+  {
+    "cardId": "6533",
+    "name": "Tukar Pokémon",
+    "series": "SCF",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "151/176",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006533.png"
+  },
+  {
+    "cardId": "6534",
+    "name": "Pokémon Catcher",
+    "series": "SCF",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "152/176",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006534.png"
+  },
+  {
+    "cardId": "6545",
+    "name": "Judge",
+    "series": "SCF",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "163/176",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006545.png"
+  },
+  {
+    "cardId": "6554",
+    "name": "Perintah Bos (Cyrus)",
+    "series": "SCF",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "172/176",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006554.png"
+  },
+  {
+    "cardId": "6565",
+    "name": "Energi Dasar Kegelapan",
+    "series": "SCF",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "DAR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006565.png"
+  },
+  {
+    "cardId": "6564",
+    "name": "Energi Dasar Petarung",
+    "series": "SCF",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006564.png"
+  },
+  {
+    "cardId": "6560",
+    "name": "Energi Dasar Api",
+    "series": "SCF",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006560.png"
+  },
+  {
+    "cardId": "6559",
+    "name": "Energi Dasar Daun",
+    "series": "SCF",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006559.png"
+  },
+  {
+    "cardId": "6562",
+    "name": "Energi Dasar Listrik",
+    "series": "SCF",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006562.png"
+  },
+  {
+    "cardId": "6566",
+    "name": "Energi Dasar Logam",
+    "series": "SCF",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "MET",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006566.png"
+  },
+  {
+    "cardId": "6563",
+    "name": "Energi Dasar Psychic",
+    "series": "SCF",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006563.png"
+  },
+  {
+    "cardId": "6561",
+    "name": "Energi Dasar Air",
+    "series": "SCF",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "WAT",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006561.png"
+  }
+]

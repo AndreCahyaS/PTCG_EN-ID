@@ -1,0 +1,47 @@
+[
+  {
+    "cardId": "4537",
+    "name": "Pemulihan Energi",
+    "series": "SCD",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "121/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004537.png"
+  },
+  {
+    "cardId": "4538",
+    "name": "Transfer Energi",
+    "series": "SCD",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "122/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004538.png"
+  },
+  {
+    "cardId": "4545",
+    "name": "Pokégear 3.0",
+    "series": "SCD",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "129/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004545.png"
+  },
+  {
+    "cardId": "4546",
+    "name": "Tukar Pokémon",
+    "series": "SCD",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "130/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004546.png"
+  },
+  {
+    "cardId": "4547",
+    "name": "Pokémon Catcher",
+    "series": "SCD",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "131/159",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004547.png"
+  }
+]

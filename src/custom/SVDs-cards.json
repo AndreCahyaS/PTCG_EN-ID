@@ -1,0 +1,182 @@
+[
+  {
+    "cardId": "9477",
+    "name": "Pemulihan Energi",
+    "series": "SVDs",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "136/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009477.png"
+  },
+  {
+    "cardId": "9479",
+    "name": "Pengalih Energi",
+    "series": "SVDs",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "138/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009479.png"
+  },
+  {
+    "cardId": "9480",
+    "name": "Transfer Energi ",
+    "series": "SVDs",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "139/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009480.png"
+  },
+  {
+    "cardId": "9482",
+    "name": "Obat Luka ",
+    "series": "SVDs",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "141/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009482.png"
+  },
+  {
+    "cardId": "9483",
+    "name": "Crush Hammer ",
+    "series": "SVDs",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "142/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009483.png"
+  },
+  {
+    "cardId": "9487",
+    "name": "Bola Ultra",
+    "series": "SVDs",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "146/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009487.png"
+  },
+  {
+    "cardId": "9488",
+    "name": "Permen Langka",
+    "series": "SVDs",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "147/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009488.png"
+  },
+  {
+    "cardId": "9489",
+    "name": "Tukar Pokémon",
+    "series": "SVDs",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "148/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009489.png"
+  },
+  {
+    "cardId": "9490",
+    "name": "Pokémon Catcher",
+    "series": "SVDs",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "149/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009490.png"
+  },
+  {
+    "cardId": "9491",
+    "name": "Bola Pokémon",
+    "series": "SVDs",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "150/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009491.png"
+  },
+  {
+    "cardId": "9497",
+    "name": "Judge",
+    "series": "SVDs",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "156/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009497.png"
+  },
+  {
+    "cardId": "9502",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SVDs",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "161/163",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009502.png"
+  },
+  {
+    "cardId": "9511",
+    "name": "Energi Dasar Kegelapan",
+    "series": "SVDs",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "DAR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009511.png"
+  },
+  {
+    "cardId": "9510",
+    "name": "Energi Dasar Petarung",
+    "series": "SVDs",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009510.png"
+  },
+  {
+    "cardId": "9506",
+    "name": "Energi Dasar Api",
+    "series": "SVDs",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009506.png"
+  },
+  {
+    "cardId": "9505",
+    "name": "Energi Dasar Daun",
+    "series": "SVDs",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009505.png"
+  },
+  {
+    "cardId": "9508",
+    "name": "Energi Dasar Listrik",
+    "series": "SVDs",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009508.png"
+  },
+  {
+    "cardId": "9512",
+    "name": "Energi Dasar Logam",
+    "series": "SVDs",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "MET",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009512.png"
+  },
+  {
+    "cardId": "9509",
+    "name": "Energi Dasar Psychic",
+    "series": "SVDs",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009509.png"
+  },
+  {
+    "cardId": "9507",
+    "name": "Energi Dasar Air",
+    "series": "SVDs",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "WAT",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009507.png"
+  }
+]

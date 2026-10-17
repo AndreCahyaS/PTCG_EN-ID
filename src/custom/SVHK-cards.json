@@ -1,0 +1,137 @@
+[
+  {
+    "cardId": "10542",
+    "name": "Ponyta",
+    "series": "SVHK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "001/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010542.png"
+  },
+  {
+    "cardId": "10543",
+    "name": "Rapidash",
+    "series": "SVHK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "002/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010543.png"
+  },
+  {
+    "cardId": "10544",
+    "name": "Turtonator",
+    "series": "SVHK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "003/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010544.png"
+  },
+  {
+    "cardId": "10546",
+    "name": "Scream Tail",
+    "series": "SVHK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "005/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010546.png"
+  },
+  {
+    "cardId": "10547",
+    "name": "Rockruff",
+    "series": "SVHK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "006/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010547.png"
+  },
+  {
+    "cardId": "10548",
+    "name": "Lycanroc",
+    "series": "SVHK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "007/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010548.png"
+  },
+  {
+    "cardId": "10549",
+    "name": "Great Tusk",
+    "series": "SVHK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "008/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010549.png"
+  },
+  {
+    "cardId": "10550",
+    "name": "Sandy Shocks",
+    "series": "SVHK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "009/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010550.png"
+  },
+  {
+    "cardId": "10551",
+    "name": "Koraidon ex",
+    "series": "SVHK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "010/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010551.png"
+  },
+  {
+    "cardId": "10554",
+    "name": "Bola Ultra",
+    "series": "SVHK",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "013/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010554.png"
+  },
+  {
+    "cardId": "10555",
+    "name": "Tukar Pokémon",
+    "series": "SVHK",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "014/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010555.png"
+  },
+  {
+    "cardId": "10556",
+    "name": "Bola Master",
+    "series": "SVHK",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "015/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010556.png"
+  },
+  {
+    "cardId": "10563",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SVHK",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "022/022",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010563.png"
+  },
+  {
+    "cardId": "10565",
+    "name": "Energi Dasar Petarung",
+    "series": "SVHK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010565.png"
+  },
+  {
+    "cardId": "10564",
+    "name": "Energi Dasar Api",
+    "series": "SVHK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010564.png"
+  }
+]

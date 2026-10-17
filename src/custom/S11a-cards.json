@@ -1,0 +1,29 @@
+[
+  {
+    "cardId": "6197",
+    "name": "Pengalih Energi",
+    "series": "S11a",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "059/068",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006197.png"
+  },
+  {
+    "cardId": "6199",
+    "name": "Tukar Pokémon",
+    "series": "S11a",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "061/068",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006199.png"
+  },
+  {
+    "cardId": "6201",
+    "name": "Judge",
+    "series": "S11a",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "063/068",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006201.png"
+  }
+]

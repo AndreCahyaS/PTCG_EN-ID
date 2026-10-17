@@ -1,0 +1,56 @@
+[
+  {
+    "cardId": "2804",
+    "name": "Pengalih Energi",
+    "series": "SCA",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "092/135",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00002804.png"
+  },
+  {
+    "cardId": "2811",
+    "name": "Permen Langka",
+    "series": "SCA",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "099/135",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00002811.png"
+  },
+  {
+    "cardId": "2813",
+    "name": "Pokégear 3.0",
+    "series": "SCA",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "101/135",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00002813.png"
+  },
+  {
+    "cardId": "2814",
+    "name": "Tukar Pokémon",
+    "series": "SCA",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "102/135",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00002814.png"
+  },
+  {
+    "cardId": "2815",
+    "name": "Pokémon Catcher",
+    "series": "SCA",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "103/135",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00002815.png"
+  },
+  {
+    "cardId": "2830",
+    "name": "Perintah Bos (Giovanni)",
+    "series": "SCA",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "118/135",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00002830.png"
+  }
+]

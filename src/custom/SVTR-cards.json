@@ -1,0 +1,56 @@
+[
+  {
+    "cardId": "13945",
+    "name": "‌Zeraora",
+    "series": "SVTR",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "006/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013945.png"
+  },
+  {
+    "cardId": "13949",
+    "name": "Pengalih Energi",
+    "series": "SVTR",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "010/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013949.png"
+  },
+  {
+    "cardId": "13953",
+    "name": "Bola Ultra",
+    "series": "SVTR",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "014/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013953.png"
+  },
+  {
+    "cardId": "13955",
+    "name": "Seile",
+    "series": "SVTR",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "016/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013955.png"
+  },
+  {
+    "cardId": "13958",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SVTR",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "019/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013958.png"
+  },
+  {
+    "cardId": "13961",
+    "name": "Energi Dasar {Listrik}",
+    "series": "SVTR",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00013961.png"
+  }
+]

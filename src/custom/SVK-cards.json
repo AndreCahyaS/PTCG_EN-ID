@@ -1,0 +1,218 @@
+[
+  {
+    "cardId": "14625",
+    "name": "Tatsugiri",
+    "series": "SVK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "002/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014625.png"
+  },
+  {
+    "cardId": "14631",
+    "name": "Pengalih Energi",
+    "series": "SVK",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "008/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014631.png"
+  },
+  {
+    "cardId": "14636",
+    "name": "Terastal Orb",
+    "series": "SVK",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "013/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014636.png"
+  },
+  {
+    "cardId": "14638",
+    "name": "Poffin Bersahabat",
+    "series": "SVK",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "015/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014638.png"
+  },
+  {
+    "cardId": "14640",
+    "name": "Perfect Mixer",
+    "series": "SVK",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "017/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014640.png"
+  },
+  {
+    "cardId": "14641",
+    "name": "Bola Ultra",
+    "series": "SVK",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "018/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014641.png"
+  },
+  {
+    "cardId": "14642",
+    "name": "Permen Langka",
+    "series": "SVK",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "019/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014642.png"
+  },
+  {
+    "cardId": "14643",
+    "name": "Troli Berharga",
+    "series": "SVK",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "020/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014643.png"
+  },
+  {
+    "cardId": "14644",
+    "name": "Pokégear 3.0",
+    "series": "SVK",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "021/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014644.png"
+  },
+  {
+    "cardId": "14645",
+    "name": "Tukar Pokémon",
+    "series": "SVK",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "022/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014645.png"
+  },
+  {
+    "cardId": "14646",
+    "name": "Emergency Board",
+    "series": "SVK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "023/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014646.png"
+  },
+  {
+    "cardId": "14650",
+    "name": "Akamatsu‌",
+    "series": "SVK",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "027/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014650.png"
+  },
+  {
+    "cardId": "14651",
+    "name": "Pelayanan Lana",
+    "series": "SVK",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "028/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014651.png"
+  },
+  {
+    "cardId": "14652",
+    "name": "Suguri",
+    "series": "SVK",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "029/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014652.png"
+  },
+  {
+    "cardId": "14653",
+    "name": "Seile",
+    "series": "SVK",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "030/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014653.png"
+  },
+  {
+    "cardId": "14659",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SVK",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "036/042",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014659.png"
+  },
+  {
+    "cardId": "14672",
+    "name": "Energi Dasar Kegelapan",
+    "series": "SVK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "DAR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014672.png"
+  },
+  {
+    "cardId": "14671",
+    "name": "Energi Dasar Petarung",
+    "series": "SVK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014671.png"
+  },
+  {
+    "cardId": "14667",
+    "name": "Energi Dasar Api",
+    "series": "SVK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014667.png"
+  },
+  {
+    "cardId": "14666",
+    "name": "Energi Dasar Daun\t",
+    "series": "SVK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014666.png"
+  },
+  {
+    "cardId": "14669",
+    "name": "Energi Dasar Listrik",
+    "series": "SVK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014669.png"
+  },
+  {
+    "cardId": "14673",
+    "name": "Energi Dasar Logam",
+    "series": "SVK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "MET",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014673.png"
+  },
+  {
+    "cardId": "14670",
+    "name": "Energi Dasar Psychic",
+    "series": "SVK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014670.png"
+  },
+  {
+    "cardId": "14668",
+    "name": "Energi Dasar Air",
+    "series": "SVK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "WAT",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014668.png"
+  }
+]

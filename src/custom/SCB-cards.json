@@ -1,0 +1,47 @@
+[
+  {
+    "cardId": "295",
+    "name": "Permen Langka",
+    "series": "SCB",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "124/156",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000295.png"
+  },
+  {
+    "cardId": "297",
+    "name": "Pokégear 3.0",
+    "series": "SCB",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "126/156",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000297.png"
+  },
+  {
+    "cardId": "298",
+    "name": "Tukar Pokémon",
+    "series": "SCB",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "127/156",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000298.png"
+  },
+  {
+    "cardId": "299",
+    "name": "Pokémon Catcher",
+    "series": "SCB",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "128/156",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000299.png"
+  },
+  {
+    "cardId": "311",
+    "name": "Perintah Bos (Giovanni)",
+    "series": "SCB",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "140/156",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00000311.png"
+  }
+]

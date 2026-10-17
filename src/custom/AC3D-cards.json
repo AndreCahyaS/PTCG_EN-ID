@@ -1,0 +1,155 @@
+[
+  {
+    "cardId": "3533",
+    "name": "Pemulihan Energi",
+    "series": "AC3D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "141/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003533.png"
+  },
+  {
+    "cardId": "3534",
+    "name": "Pengalih Energi",
+    "series": "AC3D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "142/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003534.png"
+  },
+  {
+    "cardId": "3535",
+    "name": "Obat Luka",
+    "series": "AC3D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "143/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003535.png"
+  },
+  {
+    "cardId": "3539",
+    "name": "Bola Ultra",
+    "series": "AC3D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "148/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003539.png"
+  },
+  {
+    "cardId": "3541",
+    "name": "Permen Langka",
+    "series": "AC3D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "150/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003541.png"
+  },
+  {
+    "cardId": "2523",
+    "name": "Pokégear 3.0",
+    "series": "AC3D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "151/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00002523.png"
+  },
+  {
+    "cardId": "3542",
+    "name": "Tukar Pokémon",
+    "series": "AC3D",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "152/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003542.png"
+  },
+  {
+    "cardId": "3543",
+    "name": "Pokémon Catcher",
+    "series": "AC3D",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "153/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003543.png"
+  },
+  {
+    "cardId": "3548",
+    "name": "Judge",
+    "series": "AC3D",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "164/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00003548.png"
+  },
+  {
+    "cardId": "4414",
+    "name": "Energi Dasar Kegelapan",
+    "series": "AC3D",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "DAR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004414.png"
+  },
+  {
+    "cardId": "4413",
+    "name": "Energi Dasar Petarung",
+    "series": "AC3D",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004413.png"
+  },
+  {
+    "cardId": "4409",
+    "name": "Energi Dasar Api",
+    "series": "AC3D",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004409.png"
+  },
+  {
+    "cardId": "4408",
+    "name": "Energi Dasar Daun",
+    "series": "AC3D",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004408.png"
+  },
+  {
+    "cardId": "4411",
+    "name": "Energi Dasar Listrik",
+    "series": "AC3D",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004411.png"
+  },
+  {
+    "cardId": "4415",
+    "name": "Energi Dasar Logam",
+    "series": "AC3D",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "MET",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004415.png"
+  },
+  {
+    "cardId": "4412",
+    "name": "Energi Dasar Psychic",
+    "series": "AC3D",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004412.png"
+  },
+  {
+    "cardId": "4410",
+    "name": "Energi Dasar Air",
+    "series": "AC3D",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "WAT",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004410.png"
+  }
+]

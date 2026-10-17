@@ -1,0 +1,101 @@
+[
+  {
+    "cardId": "14024",
+    "name": "Scyther",
+    "series": "SVTH",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "001/018",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014024.png"
+  },
+  {
+    "cardId": "14025",
+    "name": "Scizor ex",
+    "series": "SVTH",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "002/018",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014025.png"
+  },
+  {
+    "cardId": "14026",
+    "name": "Beldum",
+    "series": "SVTH",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "003/018",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014026.png"
+  },
+  {
+    "cardId": "14027",
+    "name": "Metang",
+    "series": "SVTH",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "004/018",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014027.png"
+  },
+  {
+    "cardId": "14028",
+    "name": "Heatran",
+    "series": "SVTH",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "005/018",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014028.png"
+  },
+  {
+    "cardId": "14032",
+    "name": "Poffin Bersahabat",
+    "series": "SVTH",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "009/018",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014032.png"
+  },
+  {
+    "cardId": "14034",
+    "name": "Bola Ultra",
+    "series": "SVTH",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "011/018",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014034.png"
+  },
+  {
+    "cardId": "14035",
+    "name": "Tukar Pokémon",
+    "series": "SVTH",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "012/018",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014035.png"
+  },
+  {
+    "cardId": "14040",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SVTH",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "017/018",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014040.png"
+  },
+  {
+    "cardId": "14041",
+    "name": "Laboratorium Logam",
+    "series": "SVTH",
+    "type": "stadium",
+    "regulation": "H",
+    "collectionNumber": "018/018",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014041.png"
+  },
+  {
+    "cardId": "14042",
+    "name": "Energi Dasar {Logam}",
+    "series": "SVTH",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "MET",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014042.png"
+  }
+]

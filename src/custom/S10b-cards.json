@@ -1,0 +1,83 @@
+[
+  {
+    "cardId": "5782",
+    "name": "Permen Langka",
+    "series": "S10b",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "066/071",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005782.png"
+  },
+  {
+    "cardId": "5794",
+    "name": "Energi Dasar Kegelapan",
+    "series": "S10b",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "DAR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005794.png"
+  },
+  {
+    "cardId": "5793",
+    "name": "Energi Dasar Petarung",
+    "series": "S10b",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005793.png"
+  },
+  {
+    "cardId": "5789",
+    "name": "Energi Dasar Api",
+    "series": "S10b",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005789.png"
+  },
+  {
+    "cardId": "5788",
+    "name": "Energi Dasar Daun",
+    "series": "S10b",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005788.png"
+  },
+  {
+    "cardId": "5791",
+    "name": "Energi Dasar Listrik",
+    "series": "S10b",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005791.png"
+  },
+  {
+    "cardId": "5795",
+    "name": "Energi Dasar Logam",
+    "series": "S10b",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "MET",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005795.png"
+  },
+  {
+    "cardId": "5792",
+    "name": "Energi Dasar Psychic",
+    "series": "S10b",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "PSY",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005792.png"
+  },
+  {
+    "cardId": "5790",
+    "name": "Energi Dasar Air",
+    "series": "S10b",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "WAT",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005790.png"
+  }
+]

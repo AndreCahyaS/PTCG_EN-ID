@@ -1,0 +1,2441 @@
+[
+  {
+    "cardId": "14973",
+    "name": "Budew",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "001/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014973.png"
+  },
+  {
+    "cardId": "15428",
+    "name": "Budew",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "001/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015428.png"
+  },
+  {
+    "cardId": "14974",
+    "name": "Leafeon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "002/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014974.png"
+  },
+  {
+    "cardId": "15430",
+    "name": "Leafeon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "002/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015430.png"
+  },
+  {
+    "cardId": "14975",
+    "name": "Leafeon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "003/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014975.png"
+  },
+  {
+    "cardId": "14976",
+    "name": "Cottonee",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "004/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014976.png"
+  },
+  {
+    "cardId": "15432",
+    "name": "Cottonee",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "004/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015432.png"
+  },
+  {
+    "cardId": "14977",
+    "name": "Whimsicott",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "005/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014977.png"
+  },
+  {
+    "cardId": "15434",
+    "name": "Whimsicott",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "005/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015434.png"
+  },
+  {
+    "cardId": "14978",
+    "name": "Grookey",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "006/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014978.png"
+  },
+  {
+    "cardId": "15436",
+    "name": "Grookey",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "006/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015436.png"
+  },
+  {
+    "cardId": "14979",
+    "name": "Thwackey",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "007/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014979.png"
+  },
+  {
+    "cardId": "15438",
+    "name": "Thwackey",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "007/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015438.png"
+  },
+  {
+    "cardId": "14980",
+    "name": "Applin",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "008/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014980.png"
+  },
+  {
+    "cardId": "15440",
+    "name": "Applin",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "008/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015440.png"
+  },
+  {
+    "cardId": "14981",
+    "name": "Dipplin",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "009/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014981.png"
+  },
+  {
+    "cardId": "15442",
+    "name": "Dipplin",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "009/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015442.png"
+  },
+  {
+    "cardId": "14982",
+    "name": "Hydrapple ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "010/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014982.png"
+  },
+  {
+    "cardId": "14983",
+    "name": "Bramblin",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "011/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014983.png"
+  },
+  {
+    "cardId": "15444",
+    "name": "Bramblin",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "011/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015444.png"
+  },
+  {
+    "cardId": "14984",
+    "name": "Brambleghast",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "012/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014984.png"
+  },
+  {
+    "cardId": "15446",
+    "name": "Brambleghast",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "012/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015446.png"
+  },
+  {
+    "cardId": "14985",
+    "name": "Rellor",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "013/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014985.png"
+  },
+  {
+    "cardId": "15448",
+    "name": "Rellor",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "013/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015448.png"
+  },
+  {
+    "cardId": "14986",
+    "name": "Rabsca",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "014/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014986.png"
+  },
+  {
+    "cardId": "15450",
+    "name": "Rabsca",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "014/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015450.png"
+  },
+  {
+    "cardId": "14988",
+    "name": "Iron Leaves ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "016/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014988.png"
+  },
+  {
+    "cardId": "14989",
+    "name": "Poltchageist",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "017/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014989.png"
+  },
+  {
+    "cardId": "15454",
+    "name": "Poltchageist",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "017/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015454.png"
+  },
+  {
+    "cardId": "14990",
+    "name": "Sinistcha",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "018/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014990.png"
+  },
+  {
+    "cardId": "15456",
+    "name": "Sinistcha",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "018/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015456.png"
+  },
+  {
+    "cardId": "14991",
+    "name": "Sinistcha ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "019/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014991.png"
+  },
+  {
+    "cardId": "14992",
+    "name": "Ogerpon Topeng Teal ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "020/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014992.png"
+  },
+  {
+    "cardId": "14994",
+    "name": "Flareon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "022/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014994.png"
+  },
+  {
+    "cardId": "14998",
+    "name": "Ogerpon Topeng Tungku ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "026/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014998.png"
+  },
+  {
+    "cardId": "14999",
+    "name": "Gouging Fire ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "027/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014999.png"
+  },
+  {
+    "cardId": "15000",
+    "name": "Goldeen",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "028/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015000.png"
+  },
+  {
+    "cardId": "15466",
+    "name": "Goldeen",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "028/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015466.png"
+  },
+  {
+    "cardId": "15001",
+    "name": "Seaking",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "029/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015001.png"
+  },
+  {
+    "cardId": "15468",
+    "name": "Seaking",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "029/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015468.png"
+  },
+  {
+    "cardId": "15003",
+    "name": "Vaporeon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "031/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015003.png"
+  },
+  {
+    "cardId": "15004",
+    "name": "Totodile",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "032/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015004.png"
+  },
+  {
+    "cardId": "15472",
+    "name": "Totodile",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "032/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015472.png"
+  },
+  {
+    "cardId": "15005",
+    "name": "Croconaw",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "033/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015005.png"
+  },
+  {
+    "cardId": "15474",
+    "name": "Croconaw",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "033/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015474.png"
+  },
+  {
+    "cardId": "15006",
+    "name": "Feraligatr",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "034/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015006.png"
+  },
+  {
+    "cardId": "15476",
+    "name": "Feraligatr",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "034/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015476.png"
+  },
+  {
+    "cardId": "15007",
+    "name": "Feebas",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "035/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015007.png"
+  },
+  {
+    "cardId": "15478",
+    "name": "Feebas",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "035/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015478.png"
+  },
+  {
+    "cardId": "15008",
+    "name": "Milotic",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "036/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015008.png"
+  },
+  {
+    "cardId": "15480",
+    "name": "Milotic",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "036/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015480.png"
+  },
+  {
+    "cardId": "15009",
+    "name": "Snorunt",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "037/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015009.png"
+  },
+  {
+    "cardId": "15482",
+    "name": "Snorunt",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "037/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015482.png"
+  },
+  {
+    "cardId": "15010",
+    "name": "Froslass",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "038/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015010.png"
+  },
+  {
+    "cardId": "15484",
+    "name": "Froslass",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "038/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015484.png"
+  },
+  {
+    "cardId": "15012",
+    "name": "Glaceon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "040/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015012.png"
+  },
+  {
+    "cardId": "15486",
+    "name": "Glaceon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "040/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015486.png"
+  },
+  {
+    "cardId": "15013",
+    "name": "Glaceon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "041/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015013.png"
+  },
+  {
+    "cardId": "15014",
+    "name": "Wiglett",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "042/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015014.png"
+  },
+  {
+    "cardId": "15488",
+    "name": "Wiglett",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "042/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015488.png"
+  },
+  {
+    "cardId": "15016",
+    "name": "Finizen",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "044/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015016.png"
+  },
+  {
+    "cardId": "15492",
+    "name": "Finizen",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "044/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015492.png"
+  },
+  {
+    "cardId": "15017",
+    "name": "Palafin",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "045/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015017.png"
+  },
+  {
+    "cardId": "15494",
+    "name": "Palafin",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "045/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015494.png"
+  },
+  {
+    "cardId": "15018",
+    "name": "Palafin ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "046/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015018.png"
+  },
+  {
+    "cardId": "15021",
+    "name": "Walking Wake ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "049/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015021.png"
+  },
+  {
+    "cardId": "15022",
+    "name": "Ogerpon Topeng Sumur ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "050/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015022.png"
+  },
+  {
+    "cardId": "15024",
+    "name": "Jolteon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "052/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015024.png"
+  },
+  {
+    "cardId": "15025",
+    "name": "Zeraora",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "053/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015025.png"
+  },
+  {
+    "cardId": "15565",
+    "name": "Zeraora",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "053/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015565.png"
+  },
+  {
+    "cardId": "15027",
+    "name": "Iron Thorns",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "055/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015027.png"
+  },
+  {
+    "cardId": "15566",
+    "name": "Iron Thorns",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "055/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015566.png"
+  },
+  {
+    "cardId": "15028",
+    "name": "Iron Thorns ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "056/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015028.png"
+  },
+  {
+    "cardId": "15029",
+    "name": "Abra",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "057/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015029.png"
+  },
+  {
+    "cardId": "15567",
+    "name": "Abra",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "057/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015567.png"
+  },
+  {
+    "cardId": "15030",
+    "name": "Kadabra",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "058/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015030.png"
+  },
+  {
+    "cardId": "15568",
+    "name": "Kadabra",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "058/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015568.png"
+  },
+  {
+    "cardId": "15031",
+    "name": "Alakazam",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "059/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015031.png"
+  },
+  {
+    "cardId": "15569",
+    "name": "Alakazam",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "059/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015569.png"
+  },
+  {
+    "cardId": "15035",
+    "name": "Espeon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "063/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015035.png"
+  },
+  {
+    "cardId": "15036",
+    "name": "Duskull",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "064/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015036.png"
+  },
+  {
+    "cardId": "15573",
+    "name": "Duskull",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "064/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015573.png"
+  },
+  {
+    "cardId": "15037",
+    "name": "Dusclops",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "065/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015037.png"
+  },
+  {
+    "cardId": "15574",
+    "name": "Dusclops",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "065/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015574.png"
+  },
+  {
+    "cardId": "15038",
+    "name": "Dusknoir",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "066/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015038.png"
+  },
+  {
+    "cardId": "15575",
+    "name": "Dusknoir",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "066/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015575.png"
+  },
+  {
+    "cardId": "15039",
+    "name": "Swirlix",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "067/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015039.png"
+  },
+  {
+    "cardId": "15576",
+    "name": "Swirlix",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "067/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015576.png"
+  },
+  {
+    "cardId": "15040",
+    "name": "Sylveon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "068/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015040.png"
+  },
+  {
+    "cardId": "15577",
+    "name": "Sylveon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "068/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015577.png"
+  },
+  {
+    "cardId": "15041",
+    "name": "Sylveon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "069/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015041.png"
+  },
+  {
+    "cardId": "15044",
+    "name": "Flutter Mane",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "072/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015044.png"
+  },
+  {
+    "cardId": "15580",
+    "name": "Flutter Mane",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "072/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015580.png"
+  },
+  {
+    "cardId": "15047",
+    "name": "Munkidori",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "075/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015047.png"
+  },
+  {
+    "cardId": "15582",
+    "name": "Munkidori",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "075/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015582.png"
+  },
+  {
+    "cardId": "15048",
+    "name": "Fezandipiti",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "076/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015048.png"
+  },
+  {
+    "cardId": "15583",
+    "name": "Fezandipiti",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "076/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015583.png"
+  },
+  {
+    "cardId": "15049",
+    "name": "Iron Boulder",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "077/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015049.png"
+  },
+  {
+    "cardId": "15584",
+    "name": "Iron Boulder",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "077/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015584.png"
+  },
+  {
+    "cardId": "15050",
+    "name": "Iron Crown ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "078/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015050.png"
+  },
+  {
+    "cardId": "15051",
+    "name": "Relicanth",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "079/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015051.png"
+  },
+  {
+    "cardId": "15585",
+    "name": "Relicanth",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "079/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015585.png"
+  },
+  {
+    "cardId": "15055",
+    "name": "Drilbur",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "083/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015055.png"
+  },
+  {
+    "cardId": "15589",
+    "name": "Drilbur",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "083/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015589.png"
+  },
+  {
+    "cardId": "15057",
+    "name": "Ursaluna Bulan Merah",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "085/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015057.png"
+  },
+  {
+    "cardId": "15591",
+    "name": "Ursaluna Bulan Merah",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "085/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015591.png"
+  },
+  {
+    "cardId": "15058",
+    "name": "Great Tusk",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "086/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015058.png"
+  },
+  {
+    "cardId": "15592",
+    "name": "Great Tusk",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "086/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015592.png"
+  },
+  {
+    "cardId": "15059",
+    "name": "Slither Wing",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "087/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015059.png"
+  },
+  {
+    "cardId": "15593",
+    "name": "Slither Wing",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "087/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015593.png"
+  },
+  {
+    "cardId": "15062",
+    "name": "Okidogi",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "090/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015062.png"
+  },
+  {
+    "cardId": "15595",
+    "name": "Okidogi",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "090/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015595.png"
+  },
+  {
+    "cardId": "15063",
+    "name": "Ogerpon Topeng Fondasi ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "091/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015063.png"
+  },
+  {
+    "cardId": "15065",
+    "name": "Umbreon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "093/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015065.png"
+  },
+  {
+    "cardId": "15068",
+    "name": "Zorua",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "096/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015068.png"
+  },
+  {
+    "cardId": "15599",
+    "name": "Zorua",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "096/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015599.png"
+  },
+  {
+    "cardId": "15069",
+    "name": "Zoroark",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "097/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015069.png"
+  },
+  {
+    "cardId": "15600",
+    "name": "Zoroark",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "097/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015600.png"
+  },
+  {
+    "cardId": "15072",
+    "name": "Roaring Moon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "100/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015072.png"
+  },
+  {
+    "cardId": "15603",
+    "name": "Roaring Moon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "100/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015603.png"
+  },
+  {
+    "cardId": "15074",
+    "name": "Okidogi ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "102/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015074.png"
+  },
+  {
+    "cardId": "15075",
+    "name": "Munkidori‌ ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "103/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015075.png"
+  },
+  {
+    "cardId": "15076",
+    "name": "Fezandipiti ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "104/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015076.png"
+  },
+  {
+    "cardId": "15077",
+    "name": "Pecharunt ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "105/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015077.png"
+  },
+  {
+    "cardId": "15078",
+    "name": "Beldum",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "106/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015078.png"
+  },
+  {
+    "cardId": "15604",
+    "name": "Beldum",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "106/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015604.png"
+  },
+  {
+    "cardId": "15079",
+    "name": "Metang",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "107/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015079.png"
+  },
+  {
+    "cardId": "15605",
+    "name": "Metang",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "107/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015605.png"
+  },
+  {
+    "cardId": "15084",
+    "name": "Duraludon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "112/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015084.png"
+  },
+  {
+    "cardId": "15610",
+    "name": "Duraludon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "112/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015610.png"
+  },
+  {
+    "cardId": "15085",
+    "name": "Archaludon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "113/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015085.png"
+  },
+  {
+    "cardId": "15611",
+    "name": "Archaludon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "113/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015611.png"
+  },
+  {
+    "cardId": "15086",
+    "name": "Varoom",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "114/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015086.png"
+  },
+  {
+    "cardId": "15612",
+    "name": "Varoom",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "114/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015612.png"
+  },
+  {
+    "cardId": "15088",
+    "name": "Iron Treads",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "116/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015088.png"
+  },
+  {
+    "cardId": "15614",
+    "name": "Iron Treads",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "116/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015614.png"
+  },
+  {
+    "cardId": "15090",
+    "name": "Dreepy",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "118/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015090.png"
+  },
+  {
+    "cardId": "15615",
+    "name": "Dreepy",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "118/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015615.png"
+  },
+  {
+    "cardId": "15091",
+    "name": "Drakloak",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "119/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015091.png"
+  },
+  {
+    "cardId": "15616",
+    "name": "Drakloak",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "119/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015616.png"
+  },
+  {
+    "cardId": "15092",
+    "name": "Dragapult ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "120/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015092.png"
+  },
+  {
+    "cardId": "15093",
+    "name": "Tatsugiri",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "121/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015093.png"
+  },
+  {
+    "cardId": "15617",
+    "name": "Tatsugiri",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "121/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015617.png"
+  },
+  {
+    "cardId": "15094",
+    "name": "Koraidon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "122/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015094.png"
+  },
+  {
+    "cardId": "15618",
+    "name": "Koraidon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "122/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015618.png"
+  },
+  {
+    "cardId": "15095",
+    "name": "Miraidon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "123/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015095.png"
+  },
+  {
+    "cardId": "15619",
+    "name": "Miraidon",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "123/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015619.png"
+  },
+  {
+    "cardId": "15096",
+    "name": "Raging Bolt ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "124/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015096.png"
+  },
+  {
+    "cardId": "15097",
+    "name": "Eevee",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "125/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015097.png"
+  },
+  {
+    "cardId": "15620",
+    "name": "Eevee",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "125/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015620.png"
+  },
+  {
+    "cardId": "15098",
+    "name": "Eevee ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "126/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015098.png"
+  },
+  {
+    "cardId": "15099",
+    "name": "Hoothoot",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "127/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015099.png"
+  },
+  {
+    "cardId": "15621",
+    "name": "Hoothoot",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "127/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015621.png"
+  },
+  {
+    "cardId": "15100",
+    "name": "Noctowl",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "128/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015100.png"
+  },
+  {
+    "cardId": "15622",
+    "name": "Noctowl",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "128/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015622.png"
+  },
+  {
+    "cardId": "15101",
+    "name": "Dunsparce",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "129/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015101.png"
+  },
+  {
+    "cardId": "15623",
+    "name": "Dunsparce",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "129/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015623.png"
+  },
+  {
+    "cardId": "15102",
+    "name": "Dudunsparce",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "130/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015102.png"
+  },
+  {
+    "cardId": "15624",
+    "name": "Dudunsparce",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "130/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015624.png"
+  },
+  {
+    "cardId": "15103",
+    "name": "Rotom Kipas",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "131/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015103.png"
+  },
+  {
+    "cardId": "15625",
+    "name": "Rotom Kipas",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "131/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015625.png"
+  },
+  {
+    "cardId": "15104",
+    "name": "Regigigas",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "132/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015104.png"
+  },
+  {
+    "cardId": "15626",
+    "name": "Regigigas",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "132/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015626.png"
+  },
+  {
+    "cardId": "15105",
+    "name": "Bouffalant",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "133/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015105.png"
+  },
+  {
+    "cardId": "15627",
+    "name": "Bouffalant",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "133/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015627.png"
+  },
+  {
+    "cardId": "15106",
+    "name": "Ursaluna Bulan Merah ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "134/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015106.png"
+  },
+  {
+    "cardId": "15108",
+    "name": "Terapagos ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "136/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015108.png"
+  },
+  {
+    "cardId": "15109",
+    "name": "Topeng Oni",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "137/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015109.png"
+  },
+  {
+    "cardId": "15629",
+    "name": "Topeng Oni",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "137/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015629.png"
+  },
+  {
+    "cardId": "15110",
+    "name": "Palu Luar Biasa",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "138/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015110.png"
+  },
+  {
+    "cardId": "15630",
+    "name": "Palu Luar Biasa",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "138/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015630.png"
+  },
+  {
+    "cardId": "15112",
+    "name": "Terompet Kaca",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "140/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015112.png"
+  },
+  {
+    "cardId": "15632",
+    "name": "Terompet Kaca",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "140/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015632.png"
+  },
+  {
+    "cardId": "15114",
+    "name": "Kail MAX",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "142/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015114.png"
+  },
+  {
+    "cardId": "15117",
+    "name": "Terastal Orb",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "145/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015117.png"
+  },
+  {
+    "cardId": "15636",
+    "name": "Terastal Orb",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "145/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015636.png"
+  },
+  {
+    "cardId": "15118",
+    "name": "Treasure Gadget",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "146/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015118.png"
+  },
+  {
+    "cardId": "15119",
+    "name": "Poffin Bersahabat",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "147/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015119.png"
+  },
+  {
+    "cardId": "15637",
+    "name": "Poffin Bersahabat",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "147/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015637.png"
+  },
+  {
+    "cardId": "15120",
+    "name": "Prime Catcher",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "148/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015120.png"
+  },
+  {
+    "cardId": "15121",
+    "name": "Siklon Pengangkat Pokémon",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "149/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015121.png"
+  },
+  {
+    "cardId": "15122",
+    "name": "Set Penangkap Serangga",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "150/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015122.png"
+  },
+  {
+    "cardId": "15638",
+    "name": "Set Penangkap Serangga",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "150/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015638.png"
+  },
+  {
+    "cardId": "15123",
+    "name": "Tandu Malam‌",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "151/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015123.png"
+  },
+  {
+    "cardId": "15639",
+    "name": "Tandu Malam‌",
+    "series": "SV8a",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "151/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015639.png"
+  },
+  {
+    "cardId": "15124",
+    "name": "Kristal Gemerlap‌",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "152/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015124.png"
+  },
+  {
+    "cardId": "15125",
+    "name": "Emergency Board",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "153/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015125.png"
+  },
+  {
+    "cardId": "15640",
+    "name": "Emergency Board",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "153/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015640.png"
+  },
+  {
+    "cardId": "15126",
+    "name": "Moci Rantai‌",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "154/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015126.png"
+  },
+  {
+    "cardId": "15641",
+    "name": "Moci Rantai‌",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "154/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015641.png"
+  },
+  {
+    "cardId": "15128",
+    "name": "Beri Haban",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "156/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015128.png"
+  },
+  {
+    "cardId": "15643",
+    "name": "Beri Haban",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "156/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015643.png"
+  },
+  {
+    "cardId": "15131",
+    "name": "Sabuk Maksimum",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "159/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015131.png"
+  },
+  {
+    "cardId": "15134",
+    "name": "Kecekatan Dafin",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "162/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015134.png"
+  },
+  {
+    "cardId": "15648",
+    "name": "Kecekatan Dafin",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "162/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015648.png"
+  },
+  {
+    "cardId": "15135",
+    "name": "Akamatsu",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "163/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015135.png"
+  },
+  {
+    "cardId": "15649",
+    "name": "Akamatsu",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "163/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015649.png"
+  },
+  {
+    "cardId": "15136",
+    "name": "Obsesi Colress‌",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "164/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015136.png"
+  },
+  {
+    "cardId": "15650",
+    "name": "Obsesi Colress‌",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "164/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015650.png"
+  },
+  {
+    "cardId": "15137",
+    "name": "Penelaahan Maniak Sandi",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "165/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015137.png"
+  },
+  {
+    "cardId": "15651",
+    "name": "Penelaahan Maniak Sandi",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "165/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015651.png"
+  },
+  {
+    "cardId": "15138",
+    "name": "Teknik Rahasia Janine‌",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "166/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015138.png"
+  },
+  {
+    "cardId": "15652",
+    "name": "Teknik Rahasia Janine‌",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "166/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015652.png"
+  },
+  {
+    "cardId": "15140",
+    "name": "Pelayanan Lana",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "168/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015140.png"
+  },
+  {
+    "cardId": "15654",
+    "name": "Pelayanan Lana",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "168/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015654.png"
+  },
+  {
+    "cardId": "15141",
+    "name": "Suguri",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "169/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015141.png"
+  },
+  {
+    "cardId": "15655",
+    "name": "Suguri",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "169/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015655.png"
+  },
+  {
+    "cardId": "15142",
+    "name": "Seile",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "170/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015142.png"
+  },
+  {
+    "cardId": "15656",
+    "name": "Seile",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "170/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015656.png"
+  },
+  {
+    "cardId": "15143",
+    "name": "Tara",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "171/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015143.png"
+  },
+  {
+    "cardId": "15657",
+    "name": "Tara",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "171/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015657.png"
+  },
+  {
+    "cardId": "15144",
+    "name": "Bimbingan Penjelajah",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "172/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015144.png"
+  },
+  {
+    "cardId": "15658",
+    "name": "Bimbingan Penjelajah",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "172/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015658.png"
+  },
+  {
+    "cardId": "15145",
+    "name": "Nerine",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "173/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015145.png"
+  },
+  {
+    "cardId": "15659",
+    "name": "Nerine",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "173/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015659.png"
+  },
+  {
+    "cardId": "15146",
+    "name": "Teman-teman Paldea",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "174/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015146.png"
+  },
+  {
+    "cardId": "15660",
+    "name": "Teman-teman Paldea",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "174/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015660.png"
+  },
+  {
+    "cardId": "15148",
+    "name": "Briar",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "176/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015148.png"
+  },
+  {
+    "cardId": "15662",
+    "name": "Briar",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "176/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015662.png"
+  },
+  {
+    "cardId": "15149",
+    "name": "Kemurnian Hati Bianca",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "177/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015149.png"
+  },
+  {
+    "cardId": "15663",
+    "name": "Kemurnian Hati Bianca",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "177/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015663.png"
+  },
+  {
+    "cardId": "15150",
+    "name": "Kepastian Morty",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "178/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015150.png"
+  },
+  {
+    "cardId": "15664",
+    "name": "Kepastian Morty",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "178/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015664.png"
+  },
+  {
+    "cardId": "15152",
+    "name": "Lokasi Festival",
+    "series": "SV8a",
+    "type": "stadium",
+    "regulation": "H",
+    "collectionNumber": "180/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015152.png"
+  },
+  {
+    "cardId": "15666",
+    "name": "Lokasi Festival",
+    "series": "SV8a",
+    "type": "stadium",
+    "regulation": "H",
+    "collectionNumber": "180/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015666.png"
+  },
+  {
+    "cardId": "15153",
+    "name": "Menara Pengacak",
+    "series": "SV8a",
+    "type": "stadium",
+    "regulation": "H",
+    "collectionNumber": "181/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015153.png"
+  },
+  {
+    "cardId": "15667",
+    "name": "Menara Pengacak",
+    "series": "SV8a",
+    "type": "stadium",
+    "regulation": "H",
+    "collectionNumber": "181/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015667.png"
+  },
+  {
+    "cardId": "15154",
+    "name": "Gua Besar Zero",
+    "series": "SV8a",
+    "type": "stadium",
+    "regulation": "H",
+    "collectionNumber": "182/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015154.png"
+  },
+  {
+    "cardId": "15668",
+    "name": "Gua Besar Zero",
+    "series": "SV8a",
+    "type": "stadium",
+    "regulation": "H",
+    "collectionNumber": "182/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015668.png"
+  },
+  {
+    "cardId": "15156",
+    "name": "Neutral Center‌",
+    "series": "SV8a",
+    "type": "stadium",
+    "regulation": "H",
+    "collectionNumber": "184/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015156.png"
+  },
+  {
+    "cardId": "15158",
+    "name": "Energi Kabut",
+    "series": "SV8a",
+    "type": "energi spesial",
+    "regulation": "H",
+    "collectionNumber": "186/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015158.png"
+  },
+  {
+    "cardId": "15671",
+    "name": "Energi Kabut",
+    "series": "SV8a",
+    "type": "energi spesial",
+    "regulation": "H",
+    "collectionNumber": "186/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015671.png"
+  },
+  {
+    "cardId": "15159",
+    "name": "Energi Legasi",
+    "series": "SV8a",
+    "type": "energi spesial",
+    "regulation": "H",
+    "collectionNumber": "187/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015159.png"
+  },
+  {
+    "cardId": "15377",
+    "name": "Kecekatan Dafin",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "188/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015377.png"
+  },
+  {
+    "cardId": "15382",
+    "name": "Tima",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "193/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015382.png"
+  },
+  {
+    "cardId": "15383",
+    "name": "Nerine",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "194/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015383.png"
+  },
+  {
+    "cardId": "15384",
+    "name": "Teman-teman Paldea",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "195/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015384.png"
+  },
+  {
+    "cardId": "15386",
+    "name": "Eria",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "197/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015386.png"
+  },
+  {
+    "cardId": "15389",
+    "name": "Leafeon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "200/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015389.png"
+  },
+  {
+    "cardId": "15390",
+    "name": "Ogerpon Topeng Teal ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "201/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015390.png"
+  },
+  {
+    "cardId": "15391",
+    "name": "Flareon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "202/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015391.png"
+  },
+  {
+    "cardId": "15392",
+    "name": "Ceruledge ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "203/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015392.png"
+  },
+  {
+    "cardId": "15393",
+    "name": "Ogerpon Topeng Tungku ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "204/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015393.png"
+  },
+  {
+    "cardId": "15394",
+    "name": "Vaporeon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "205/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015394.png"
+  },
+  {
+    "cardId": "15395",
+    "name": "Glaceon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "206/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015395.png"
+  },
+  {
+    "cardId": "15396",
+    "name": "Palafin ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "207/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015396.png"
+  },
+  {
+    "cardId": "15397",
+    "name": "Ogerpon Topeng Sumur ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "208/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015397.png"
+  },
+  {
+    "cardId": "15398",
+    "name": "Jolteon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "209/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015398.png"
+  },
+  {
+    "cardId": "15400",
+    "name": "Espeon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "211/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015400.png"
+  },
+  {
+    "cardId": "15401",
+    "name": "Sylveon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "212/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015401.png"
+  },
+  {
+    "cardId": "15403",
+    "name": "Iron Crown ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "214/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015403.png"
+  },
+  {
+    "cardId": "15405",
+    "name": "Ogerpon Topeng Fondasi ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "216/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015405.png"
+  },
+  {
+    "cardId": "15406",
+    "name": "Umbreon ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "217/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015406.png"
+  },
+  {
+    "cardId": "15408",
+    "name": "Pecharunt ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "219/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015408.png"
+  },
+  {
+    "cardId": "15410",
+    "name": "Dragapult ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "221/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015410.png"
+  },
+  {
+    "cardId": "15411",
+    "name": "Raging Bolt ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "222/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015411.png"
+  },
+  {
+    "cardId": "15412",
+    "name": "Eevee ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "223/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015412.png"
+  },
+  {
+    "cardId": "15413",
+    "name": "Eevee ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "224/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015413.png"
+  },
+  {
+    "cardId": "15414",
+    "name": "Ursaluna Bulan Merah ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "225/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015414.png"
+  },
+  {
+    "cardId": "15415",
+    "name": "Terapagos ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "226/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015415.png"
+  },
+  {
+    "cardId": "15416",
+    "name": "Akamatsu",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "227/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015416.png"
+  },
+  {
+    "cardId": "15417",
+    "name": "Teknik Rahasia Janine‌",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "228/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015417.png"
+  },
+  {
+    "cardId": "15418",
+    "name": "Levigato",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "229/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015418.png"
+  },
+  {
+    "cardId": "15419",
+    "name": "Suguri",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "230/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015419.png"
+  },
+  {
+    "cardId": "15420",
+    "name": "Tara",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "231/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015420.png"
+  },
+  {
+    "cardId": "15421",
+    "name": "Nerine",
+    "series": "SV8a",
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "232/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015421.png"
+  },
+  {
+    "cardId": "15422",
+    "name": "Iron Leaves ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "233/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015422.png"
+  },
+  {
+    "cardId": "15423",
+    "name": "Ogerpon Topeng Teal ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "234/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015423.png"
+  },
+  {
+    "cardId": "15424",
+    "name": "Walking Wake ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "235/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015424.png"
+  },
+  {
+    "cardId": "15425",
+    "name": "Pikachu ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "236/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015425.png"
+  },
+  {
+    "cardId": "15426",
+    "name": "Terapagos ex",
+    "series": "SV8a",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "237/187",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015426.png"
+  }
+]

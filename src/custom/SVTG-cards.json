@@ -1,0 +1,56 @@
+[
+  {
+    "cardId": "14014",
+    "name": "Poffin Bersahabat",
+    "series": "SVTG",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "011/019",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014014.png"
+  },
+  {
+    "cardId": "14016",
+    "name": "Bola Ultra",
+    "series": "SVTG",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "013/019",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014016.png"
+  },
+  {
+    "cardId": "14017",
+    "name": "Permen Langka",
+    "series": "SVTG",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "014/019",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014017.png"
+  },
+  {
+    "cardId": "14018",
+    "name": "Tukar Pokémon",
+    "series": "SVTG",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "015/019",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014018.png"
+  },
+  {
+    "cardId": "14022",
+    "name": "Perintah Bos (Ghetsis)",
+    "series": "SVTG",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "019/019",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014022.png"
+  },
+  {
+    "cardId": "14023",
+    "name": "Energi Dasar {Petarung}",
+    "series": "SVTG",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014023.png"
+  }
+]

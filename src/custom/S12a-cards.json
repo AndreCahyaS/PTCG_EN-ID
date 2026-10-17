@@ -1,0 +1,20 @@
+[
+  {
+    "cardId": "6832",
+    "name": "Bola Ultra",
+    "series": "S12a",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "138/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006832.png"
+  },
+  {
+    "cardId": "6855",
+    "name": "Perintah Bos (Cyrus) ",
+    "series": "S12a",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "161/172",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006855.png"
+  }
+]
