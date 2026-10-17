@@ -19,6 +19,7 @@ import MA2 from '../custom/MA2-cards.json';
 import MA3 from '../custom/MA3-cards.json';
 import MA4 from '../custom/MA4-cards.json';
 import MA5 from '../custom/MA5-cards.json';
+import MA6 from '../custom/MA6-cards.json';
 import MATL from '../custom/MATL-cards.json';
 import MATS from '../custom/MATS-cards.json';
 import MATH from '../custom/MATH-cards.json';
@@ -39,6 +40,7 @@ export const MA_SERIES_BASE_NAMES: Record<string, string> = {
   MA3:  'Mega Impian',
   MA4:  'Ledakan Peniada',
   MA5:  'Ancaman Bayangan',
+  MA6:  '30th Celebration',
   MATL: 'Deck Taktik Mega Charizard ex',
   MATS: 'Deck Taktik Mega Gardevoir ex',
   MATH: 'Deck Taktik Mega Sharpedo ex',
@@ -52,6 +54,7 @@ export const MA_SET_NAMES: Record<string, string> = {
   MA3:  'Mega Impian (MA3)',
   MA4:  'Ledakan Peniada (MA4)',
   MA5:  'Ancaman Bayangan (MA5)',
+  MA6:  '30th Celebration (MA6)',
   MATL: 'Deck Taktik Mega Charizard ex (MATL)',
   MATS: 'Deck Taktik Mega Gardevoir ex (MATS)',
   MATH: 'Deck Taktik Mega Sharpedo ex (MATH)',
@@ -80,6 +83,7 @@ const ALL_CUSTOM_CARDS: CustomCardEntry[] = [
   ...(MA3  as CustomCardEntry[]),
   ...(MA4  as CustomCardEntry[]),
   ...(MA5  as CustomCardEntry[]),
+  ...(MA6  as CustomCardEntry[]),
   ...(MATL as CustomCardEntry[]),
   ...(MATS as CustomCardEntry[]),
   ...(MATH as CustomCardEntry[]),

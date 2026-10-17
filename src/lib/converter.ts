@@ -2,6 +2,7 @@ import { ParsedCard, MappedCard, IndonesianCardCandidate, MappingStatus, CardCat
 import setMappingData from '../config/setMapping.json';
 import { getCachedItem, setCachedItem, getCachedCandidates, setCachedCandidates } from './cache';
 import { lookupCustomByEnName } from './customCards';
+import { getLatestTrainerImageUrl } from './customTrainers';
 
 interface SetMappingConfig {
   setCodes: Record<string, { tcgdexEn: string; name: string; targetIdSets: string[] }>;
@@ -365,6 +366,22 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
     // Use apostrophe-normalized lookup to handle smart-quote vs straight-quote mismatches
     const idTrainerName = lookupTrainer(card.name);
 
+    // Look up latest picture available from src/custom
+    let trainerImage = getLatestTrainerImageUrl(card.name, idTrainerName);
+
+    // Fallback: If not found in src/custom, search TCGdex by Indonesian name
+    if (!trainerImage) {
+      try {
+        const tcgdexResults = await searchIndonesianCardsByName(idTrainerName);
+        const cardWithImage = tcgdexResults.find(c => c.image);
+        if (cardWithImage) {
+          trainerImage = `${cardWithImage.image}/high.webp`;
+        }
+      } catch {
+        // Ignore fallback errors
+      }
+    }
+
     const trainerCandidate: IndonesianCardCandidate = {
       id: `trainer_${card.id}`,
       localId: '', // Blank by rule!
@@ -372,6 +389,7 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
       setName: '',
       name: idTrainerName,
       category: 'Trainer',
+      image: trainerImage,
       matchScore: 100,
       matchReason: 'Trainer Resmi Turnamen (Tanpa Kode & Nomor)',
     };
