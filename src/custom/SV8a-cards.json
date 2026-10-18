@@ -1668,7 +1668,7 @@
     "cardId": "15124",
     "name": "Kristal Gemerlap‌",
     "series": "SV8a",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "152/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015124.png"
@@ -1677,7 +1677,7 @@
     "cardId": "15125",
     "name": "Emergency Board",
     "series": "SV8a",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "153/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015125.png"
@@ -1686,7 +1686,7 @@
     "cardId": "15640",
     "name": "Emergency Board",
     "series": "SV8a",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "153/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015640.png"
@@ -1695,7 +1695,7 @@
     "cardId": "15126",
     "name": "Moci Rantai‌",
     "series": "SV8a",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "154/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015126.png"
@@ -1704,7 +1704,7 @@
     "cardId": "15641",
     "name": "Moci Rantai‌",
     "series": "SV8a",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "154/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015641.png"
@@ -1713,7 +1713,7 @@
     "cardId": "15128",
     "name": "Beri Haban",
     "series": "SV8a",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "156/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015128.png"
@@ -1722,7 +1722,7 @@
     "cardId": "15643",
     "name": "Beri Haban",
     "series": "SV8a",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "156/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015643.png"
@@ -1731,7 +1731,7 @@
     "cardId": "15131",
     "name": "Sabuk Maksimum",
     "series": "SV8a",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "159/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015131.png"
@@ -2073,7 +2073,7 @@
     "cardId": "15158",
     "name": "Energi Kabut",
     "series": "SV8a",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "H",
     "collectionNumber": "186/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015158.png"
@@ -2082,7 +2082,7 @@
     "cardId": "15671",
     "name": "Energi Kabut",
     "series": "SV8a",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "H",
     "collectionNumber": "186/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015671.png"
@@ -2091,7 +2091,7 @@
     "cardId": "15159",
     "name": "Energi Legasi",
     "series": "SV8a",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "H",
     "collectionNumber": "187/187",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015159.png"

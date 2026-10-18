@@ -1461,7 +1461,7 @@
     "cardId": "19844",
     "name": "Energi Dasar {Kegelapan}",
     "series": "MA6",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "DAR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019844.png"
@@ -1470,7 +1470,7 @@
     "cardId": "19843",
     "name": "Energi Dasar {Petarung}",
     "series": "MA6",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019843.png"
@@ -1479,7 +1479,7 @@
     "cardId": "19839",
     "name": "Energi Dasar {Api}",
     "series": "MA6",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019839.png"
@@ -1488,7 +1488,7 @@
     "cardId": "19838",
     "name": "Energi Dasar {Daun}",
     "series": "MA6",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "GRA",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019838.png"
@@ -1497,7 +1497,7 @@
     "cardId": "19841",
     "name": "Energi Dasar {Listrik}",
     "series": "MA6",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "LIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019841.png"
@@ -1506,7 +1506,7 @@
     "cardId": "19845",
     "name": "Energi Dasar {Logam}",
     "series": "MA6",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "MET",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019845.png"
@@ -1515,7 +1515,7 @@
     "cardId": "19842",
     "name": "Energi Dasar {Psychic}",
     "series": "MA6",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "PSY",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019842.png"
@@ -1524,7 +1524,7 @@
     "cardId": "19840",
     "name": "Energi Dasar {Air}",
     "series": "MA6",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "WAT",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019840.png"

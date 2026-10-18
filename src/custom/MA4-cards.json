@@ -1011,7 +1011,7 @@
     "cardId": "18384",
     "name": "Memori Inti",
     "series": "MA4",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "J",
     "collectionNumber": "113/123",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018384.png"
@@ -1083,7 +1083,7 @@
     "cardId": "18392",
     "name": "Energi {Daun} Tumbuh",
     "series": "MA4",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "J",
     "collectionNumber": "121/123",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018392.png"
@@ -1092,7 +1092,7 @@
     "cardId": "18393",
     "name": "Energi {Psychic} Telepati",
     "series": "MA4",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "J",
     "collectionNumber": "122/123",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018393.png"
@@ -1101,7 +1101,7 @@
     "cardId": "18394",
     "name": "Energi {Petarung} Bebatuan",
     "series": "MA4",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "J",
     "collectionNumber": "123/123",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018394.png"

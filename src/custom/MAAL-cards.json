@@ -1,0 +1,200 @@
+[
+  {
+    "cardId": "17471",
+    "name": "Meditite",
+    "series": "MAAL",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "001/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017471.png"
+  },
+  {
+    "cardId": "17472",
+    "name": "Medicham",
+    "series": "MAAL",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "002/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017472.png"
+  },
+  {
+    "cardId": "17473",
+    "name": "Riolu",
+    "series": "MAAL",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "003/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017473.png"
+  },
+  {
+    "cardId": "17474",
+    "name": "Mega Lucario ex",
+    "series": "MAAL",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "004/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017474.png"
+  },
+  {
+    "cardId": "17475",
+    "name": "Croagunk",
+    "series": "MAAL",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "005/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017475.png"
+  },
+  {
+    "cardId": "17476",
+    "name": "Toxicroak",
+    "series": "MAAL",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "006/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017476.png"
+  },
+  {
+    "cardId": "17477",
+    "name": "Hawlucha",
+    "series": "MAAL",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "007/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017477.png"
+  },
+  {
+    "cardId": "17478",
+    "name": "Tropius",
+    "series": "MAAL",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "008/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017478.png"
+  },
+  {
+    "cardId": "17479",
+    "name": "Stufful",
+    "series": "MAAL",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "009/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017479.png"
+  },
+  {
+    "cardId": "17480",
+    "name": "Bewear",
+    "series": "MAAL",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "010/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017480.png"
+  },
+  {
+    "cardId": "17481",
+    "name": "Bola Ultra",
+    "series": "MAAL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "011/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017481.png"
+  },
+  {
+    "cardId": "17482",
+    "name": "Protein Kekuatan",
+    "series": "MAAL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "012/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017482.png"
+  },
+  {
+    "cardId": "17483",
+    "name": "Fight Gong",
+    "series": "MAAL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "013/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017483.png"
+  },
+  {
+    "cardId": "17484",
+    "name": "PokéPad",
+    "series": "MAAL",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "014/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017484.png"
+  },
+  {
+    "cardId": "17485",
+    "name": "Tukar Pokémon",
+    "series": "MAAL",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "015/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017485.png"
+  },
+  {
+    "cardId": "17486",
+    "name": "Pokémon Catcher",
+    "series": "MAAL",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "016/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017486.png"
+  },
+  {
+    "cardId": "17487",
+    "name": "Bola Pokémon",
+    "series": "MAAL",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "017/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017487.png"
+  },
+  {
+    "cardId": "17488",
+    "name": "Semangat Tarung Iris",
+    "series": "MAAL",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "018/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017488.png"
+  },
+  {
+    "cardId": "17489",
+    "name": "Urbain",
+    "series": "MAAL",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "019/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017489.png"
+  },
+  {
+    "cardId": "17490",
+    "name": "Judge",
+    "series": "MAAL",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "020/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017490.png"
+  },
+  {
+    "cardId": "17491",
+    "name": "Ketetapan Hati Lillie",
+    "series": "MAAL",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "021/021",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017491.png"
+  },
+  {
+    "cardId": "17492",
+    "name": "Energi Dasar {Petarung}",
+    "series": "MAAL",
+    "type": "Energi Dasar",
+    "regulation": "J",
+    "collectionNumber": "FIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017492.png"
+  }
+]

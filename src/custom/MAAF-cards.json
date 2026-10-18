@@ -1,0 +1,218 @@
+[
+  {
+    "cardId": "17493",
+    "name": "Bulbasaur",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "001/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017493.png"
+  },
+  {
+    "cardId": "17494",
+    "name": "Ivysaur",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "002/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017494.png"
+  },
+  {
+    "cardId": "17495",
+    "name": "Mega Venusaur ex",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "003/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017495.png"
+  },
+  {
+    "cardId": "17496",
+    "name": "Chikorita",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "004/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017496.png"
+  },
+  {
+    "cardId": "17497",
+    "name": "Bayleef",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "005/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017497.png"
+  },
+  {
+    "cardId": "17498",
+    "name": "Meganium",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "006/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017498.png"
+  },
+  {
+    "cardId": "17499",
+    "name": "Celebi",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "007/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017499.png"
+  },
+  {
+    "cardId": "17500",
+    "name": "Shroomish",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "008/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017500.png"
+  },
+  {
+    "cardId": "17501",
+    "name": "Breloom",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "009/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017501.png"
+  },
+  {
+    "cardId": "17502",
+    "name": "Tapu Bulu",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "010/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017502.png"
+  },
+  {
+    "cardId": "17503",
+    "name": "Ogerpon Topeng Teal",
+    "series": "MAAF",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "011/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017503.png"
+  },
+  {
+    "cardId": "17504",
+    "name": "Obat Luka",
+    "series": "MAAF",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "012/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017504.png"
+  },
+  {
+    "cardId": "17505",
+    "name": "Bola Ultra",
+    "series": "MAAF",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "013/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017505.png"
+  },
+  {
+    "cardId": "17506",
+    "name": "Permen Langka",
+    "series": "MAAF",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "014/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017506.png"
+  },
+  {
+    "cardId": "17507",
+    "name": "PokéPad",
+    "series": "MAAF",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "015/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017507.png"
+  },
+  {
+    "cardId": "17508",
+    "name": "Tukar Pokémon",
+    "series": "MAAF",
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "016/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017508.png"
+  },
+  {
+    "cardId": "17509",
+    "name": "Pokémon Catcher",
+    "series": "MAAF",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "017/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017509.png"
+  },
+  {
+    "cardId": "17510",
+    "name": "Set Penangkap Serangga",
+    "series": "MAAF",
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "018/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017510.png"
+  },
+  {
+    "cardId": "17511",
+    "name": "Bola Pokémon",
+    "series": "MAAF",
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "019/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017511.png"
+  },
+  {
+    "cardId": "17512",
+    "name": "Semangat Tarung Iris",
+    "series": "MAAF",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "020/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017512.png"
+  },
+  {
+    "cardId": "17513",
+    "name": "Urbain",
+    "series": "MAAF",
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "021/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017513.png"
+  },
+  {
+    "cardId": "17514",
+    "name": "Dawn",
+    "series": "MAAF",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "022/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017514.png"
+  },
+  {
+    "cardId": "17515",
+    "name": "Ketetapan Hati Lillie",
+    "series": "MAAF",
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "023/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017515.png"
+  },
+  {
+    "cardId": "17516",
+    "name": "Energi Dasar {Daun}",
+    "series": "MAAF",
+    "type": "Energi Dasar",
+    "regulation": "J",
+    "collectionNumber": "GRA",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017516.png"
+  }
+]

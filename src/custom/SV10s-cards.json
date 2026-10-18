@@ -1155,7 +1155,7 @@
     "cardId": "15989",
     "name": "Pemberat Kekuatan Cynthia",
     "series": "SV10s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "129/138",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015989.png"
@@ -1236,7 +1236,7 @@
     "cardId": "15998",
     "name": "Energi Tim Roket",
     "series": "SV10s",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "I",
     "collectionNumber": "138/138",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015998.png"

@@ -858,7 +858,7 @@
     "cardId": "16910",
     "name": "Jimat Suci",
     "series": "MA2",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "096/103",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016910.png"
@@ -867,7 +867,7 @@
     "cardId": "16911",
     "name": "Helm Punk",
     "series": "MA2",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "097/103",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016911.png"
@@ -1164,7 +1164,7 @@
     "cardId": "16944",
     "name": "Jimat Suci",
     "series": "MA2",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "130/103",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016944.png"
@@ -1173,7 +1173,7 @@
     "cardId": "16945",
     "name": "Helm Punk",
     "series": "MA2",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "131/103",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016945.png"
@@ -1218,7 +1218,7 @@
     "cardId": "16950",
     "name": "Energi Penyulut",
     "series": "MA2",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "I",
     "collectionNumber": "136/103",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016950.png"

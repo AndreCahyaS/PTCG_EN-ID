@@ -1137,7 +1137,7 @@
     "cardId": "15802",
     "name": "Ikat Kepala Pilihan Hop",
     "series": "SV9s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "127/139",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015802.png"
@@ -1146,7 +1146,7 @@
     "cardId": "15803",
     "name": "Mutiara Lillie",
     "series": "SV9s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "128/139",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015803.png"
@@ -1245,7 +1245,7 @@
     "cardId": "15814",
     "name": "Energi Duri",
     "series": "SV9s",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "I",
     "collectionNumber": "139/139",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015814.png"
@@ -1659,7 +1659,7 @@
     "cardId": "15860",
     "name": "Energi Duri",
     "series": "SV9s",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "I",
     "collectionNumber": "185/139",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015860.png"

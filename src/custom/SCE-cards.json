@@ -48,7 +48,7 @@
     "cardId": "5604",
     "name": "Energi Dasar Kegelapan",
     "series": "SCE",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "DAR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005604.png"
@@ -57,7 +57,7 @@
     "cardId": "5603",
     "name": "Energi Dasar Petarung",
     "series": "SCE",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005603.png"
@@ -66,7 +66,7 @@
     "cardId": "5599",
     "name": "Energi Dasar Api",
     "series": "SCE",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005599.png"
@@ -75,7 +75,7 @@
     "cardId": "5598",
     "name": "Energi Dasar Daun",
     "series": "SCE",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "GRA",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005598.png"
@@ -84,7 +84,7 @@
     "cardId": "5601",
     "name": "Energi Dasar Listrik",
     "series": "SCE",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "LIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005601.png"
@@ -93,7 +93,7 @@
     "cardId": "5605",
     "name": "Energi Dasar Logam",
     "series": "SCE",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "MET",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005605.png"
@@ -102,7 +102,7 @@
     "cardId": "5602",
     "name": "Energi Dasar Psychic",
     "series": "SCE",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "PSY",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005602.png"
@@ -111,7 +111,7 @@
     "cardId": "5600",
     "name": "Energi Dasar Air",
     "series": "SCE",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "WAT",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00005600.png"

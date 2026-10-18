@@ -147,7 +147,7 @@
     "cardId": "19063",
     "name": "Hero Mantle",
     "series": "MATS",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "017/023",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019063.png"
@@ -156,7 +156,7 @@
     "cardId": "19064",
     "name": "Balon",
     "series": "MATS",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "018/023",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019064.png"
@@ -201,7 +201,7 @@
     "cardId": "19069",
     "name": "Energi {Psychic} Telepati",
     "series": "MATS",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "J",
     "collectionNumber": "023/023",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019069.png"
@@ -210,7 +210,7 @@
     "cardId": "19070",
     "name": "Energi Dasar {Psychic}",
     "series": "MATS",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "PSY",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019070.png"

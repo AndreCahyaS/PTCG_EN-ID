@@ -120,7 +120,7 @@
     "cardId": "10565",
     "name": "Energi Dasar Petarung",
     "series": "SVHK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010565.png"
@@ -129,7 +129,7 @@
     "cardId": "10564",
     "name": "Energi Dasar Api",
     "series": "SVHK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010564.png"

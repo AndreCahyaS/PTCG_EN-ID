@@ -18,7 +18,7 @@ const CARD_FALLBACK_REGEX = /^\s*(?:\*\s*)?(\d+)\s+(.+)$/;
 export function parsePTCGLDecklist(rawText: string): ParsedCard[] {
   const lines = rawText.split(/\r?\n/);
   const parsedCards: ParsedCard[] = [];
-  
+
   let currentCategory: CardCategory = 'Pokemon';
   let counter = 0;
 

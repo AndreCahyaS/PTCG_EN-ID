@@ -129,7 +129,7 @@
     "cardId": "19040",
     "name": "Helm Punk",
     "series": "MATH",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "015/020",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019040.png"
@@ -138,7 +138,7 @@
     "cardId": "19041",
     "name": "Balon",
     "series": "MATH",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "016/020",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019041.png"
@@ -183,7 +183,7 @@
     "cardId": "19046",
     "name": "Energi Dasar {Kegelapan}",
     "series": "MATH",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "DAR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019046.png"

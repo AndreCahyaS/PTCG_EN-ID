@@ -147,7 +147,7 @@
     "cardId": "19087",
     "name": "Balon",
     "series": "MATK",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "017/023",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019087.png"
@@ -156,7 +156,7 @@
     "cardId": "19088",
     "name": "Sabuk Maksimum",
     "series": "MATK",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "018/023",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019088.png"
@@ -210,7 +210,7 @@
     "cardId": "19095",
     "name": "Energi Dasar {Listrik}",
     "series": "MATK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "LIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019095.png"
@@ -219,7 +219,7 @@
     "cardId": "19094",
     "name": "Energi Dasar {Air}",
     "series": "MATK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "WAT",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019094.png"

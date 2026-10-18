@@ -93,7 +93,7 @@
     "cardId": "14646",
     "name": "Emergency Board",
     "series": "SVK",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "023/042",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014646.png"
@@ -147,7 +147,7 @@
     "cardId": "14672",
     "name": "Energi Dasar Kegelapan",
     "series": "SVK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "DAR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014672.png"
@@ -156,7 +156,7 @@
     "cardId": "14671",
     "name": "Energi Dasar Petarung",
     "series": "SVK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014671.png"
@@ -165,7 +165,7 @@
     "cardId": "14667",
     "name": "Energi Dasar Api",
     "series": "SVK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014667.png"
@@ -174,7 +174,7 @@
     "cardId": "14666",
     "name": "Energi Dasar Daun\t",
     "series": "SVK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "GRA",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014666.png"
@@ -183,7 +183,7 @@
     "cardId": "14669",
     "name": "Energi Dasar Listrik",
     "series": "SVK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "LIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014669.png"
@@ -192,7 +192,7 @@
     "cardId": "14673",
     "name": "Energi Dasar Logam",
     "series": "SVK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "MET",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014673.png"
@@ -201,7 +201,7 @@
     "cardId": "14670",
     "name": "Energi Dasar Psychic",
     "series": "SVK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "PSY",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014670.png"
@@ -210,7 +210,7 @@
     "cardId": "14668",
     "name": "Energi Dasar Air",
     "series": "SVK",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "WAT",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014668.png"

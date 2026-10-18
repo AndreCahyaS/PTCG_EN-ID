@@ -1137,7 +1137,7 @@
     "cardId": "10410",
     "name": "Emergency Board",
     "series": "SV5s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "127/142",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010410.png"
@@ -1146,7 +1146,7 @@
     "cardId": "10411",
     "name": "Hero Mantle",
     "series": "SV5s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "128/142",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010411.png"
@@ -1155,7 +1155,7 @@
     "cardId": "10414",
     "name": "Baton Berat",
     "series": "SV5s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "131/142",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010414.png"
@@ -1164,7 +1164,7 @@
     "cardId": "10415",
     "name": "Sabuk Maksimum",
     "series": "SV5s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "132/142",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010415.png"
@@ -1245,7 +1245,7 @@
     "cardId": "10424",
     "name": "Energi Teratas Neo",
     "series": "SV5s",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "H",
     "collectionNumber": "141/142",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010424.png"
@@ -1254,7 +1254,7 @@
     "cardId": "10425",
     "name": "Energi Kabut",
     "series": "SV5s",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "H",
     "collectionNumber": "142/142",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010425.png"

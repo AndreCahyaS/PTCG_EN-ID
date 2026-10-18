@@ -84,7 +84,7 @@
     "cardId": "4414",
     "name": "Energi Dasar Kegelapan",
     "series": "AC3D",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "DAR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004414.png"
@@ -93,7 +93,7 @@
     "cardId": "4413",
     "name": "Energi Dasar Petarung",
     "series": "AC3D",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004413.png"
@@ -102,7 +102,7 @@
     "cardId": "4409",
     "name": "Energi Dasar Api",
     "series": "AC3D",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004409.png"
@@ -111,7 +111,7 @@
     "cardId": "4408",
     "name": "Energi Dasar Daun",
     "series": "AC3D",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "GRA",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004408.png"
@@ -120,7 +120,7 @@
     "cardId": "4411",
     "name": "Energi Dasar Listrik",
     "series": "AC3D",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "LIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004411.png"
@@ -129,7 +129,7 @@
     "cardId": "4415",
     "name": "Energi Dasar Logam",
     "series": "AC3D",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "MET",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004415.png"
@@ -138,7 +138,7 @@
     "cardId": "4412",
     "name": "Energi Dasar Psychic",
     "series": "AC3D",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "PSY",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004412.png"
@@ -147,7 +147,7 @@
     "cardId": "4410",
     "name": "Energi Dasar Air",
     "series": "AC3D",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "WAT",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00004410.png"

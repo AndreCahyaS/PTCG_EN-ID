@@ -75,7 +75,7 @@
     "cardId": "7076",
     "name": "Energi Dasar Petarung",
     "series": "SVAM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007076.png"
@@ -84,7 +84,7 @@
     "cardId": "7075",
     "name": "Energi Dasar Daun",
     "series": "SVAM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "GRA",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00007075.png"

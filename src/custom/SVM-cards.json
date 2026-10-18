@@ -1173,7 +1173,7 @@
     "cardId": "15357",
     "name": "Energi Dasar {Kegelapan}",
     "series": "SVM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "DAR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015357.png"
@@ -1182,7 +1182,7 @@
     "cardId": "15356",
     "name": "Energi Dasar {Petarung}",
     "series": "SVM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015356.png"
@@ -1191,7 +1191,7 @@
     "cardId": "15352",
     "name": "Energi Dasar {Api}",
     "series": "SVM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015352.png"
@@ -1200,7 +1200,7 @@
     "cardId": "15351",
     "name": "Energi Dasar {Daun}",
     "series": "SVM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "GRA",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015351.png"
@@ -1209,7 +1209,7 @@
     "cardId": "15354",
     "name": "Energi Dasar {Listrik}",
     "series": "SVM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "LIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015354.png"
@@ -1218,7 +1218,7 @@
     "cardId": "15358",
     "name": "Energi Dasar {Logam}",
     "series": "SVM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "MET",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015358.png"
@@ -1227,7 +1227,7 @@
     "cardId": "15355",
     "name": "Energi Dasar {Psychic}",
     "series": "SVM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "PSY",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015355.png"
@@ -1236,7 +1236,7 @@
     "cardId": "15353",
     "name": "Energi Dasar {Air}",
     "series": "SVM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "WAT",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00015353.png"

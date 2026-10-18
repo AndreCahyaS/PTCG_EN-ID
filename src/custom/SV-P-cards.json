@@ -93,7 +93,7 @@
     "cardId": "10489",
     "name": "Emergency Board",
     "series": "SV-P",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "112/SV-P",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010489.png"
@@ -381,7 +381,7 @@
     "cardId": "14401",
     "name": "Emergency Board",
     "series": "SV-P",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "181/SV-P",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014401.png"
@@ -597,7 +597,7 @@
     "cardId": "14683",
     "name": "Counter Gain",
     "series": "SV-P",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "219/SV-P",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014683.png"
@@ -723,7 +723,7 @@
     "cardId": "16019",
     "name": "Ikat Kepala Pilihan Hop",
     "series": "SV-P",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "244/SV-P",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016019.png"
@@ -732,7 +732,7 @@
     "cardId": "16020",
     "name": "Mutiara Lillie",
     "series": "SV-P",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "245/SV-P",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016020.png"
@@ -840,7 +840,7 @@
     "cardId": "16030",
     "name": "Mesin Hipnotis Tim Roket",
     "series": "SV-P",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "261/SV-P",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016030.png"
@@ -867,7 +867,7 @@
     "cardId": "16034",
     "name": "Energi Tim Roket",
     "series": "SV-P",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "I",
     "collectionNumber": "265/SV-P",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016034.png"

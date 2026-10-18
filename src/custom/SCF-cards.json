@@ -84,7 +84,7 @@
     "cardId": "6565",
     "name": "Energi Dasar Kegelapan",
     "series": "SCF",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "DAR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006565.png"
@@ -93,7 +93,7 @@
     "cardId": "6564",
     "name": "Energi Dasar Petarung",
     "series": "SCF",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006564.png"
@@ -102,7 +102,7 @@
     "cardId": "6560",
     "name": "Energi Dasar Api",
     "series": "SCF",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006560.png"
@@ -111,7 +111,7 @@
     "cardId": "6559",
     "name": "Energi Dasar Daun",
     "series": "SCF",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "GRA",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006559.png"
@@ -120,7 +120,7 @@
     "cardId": "6562",
     "name": "Energi Dasar Listrik",
     "series": "SCF",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "LIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006562.png"
@@ -129,7 +129,7 @@
     "cardId": "6566",
     "name": "Energi Dasar Logam",
     "series": "SCF",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "MET",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006566.png"
@@ -138,7 +138,7 @@
     "cardId": "6563",
     "name": "Energi Dasar Psychic",
     "series": "SCF",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "PSY",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006563.png"
@@ -147,7 +147,7 @@
     "cardId": "6561",
     "name": "Energi Dasar Air",
     "series": "SCF",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "WAT",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00006561.png"

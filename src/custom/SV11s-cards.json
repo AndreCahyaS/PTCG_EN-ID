@@ -1461,7 +1461,7 @@
     "cardId": "16302",
     "name": "Balon",
     "series": "SV11s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "163/172",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016302.png"
@@ -1470,7 +1470,7 @@
     "cardId": "16303",
     "name": "Gelang Keberanian",
     "series": "SV11s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "164/172",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016303.png"
@@ -1524,7 +1524,7 @@
     "cardId": "16310",
     "name": "Energi Penyulut",
     "series": "SV11s",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "I",
     "collectionNumber": "171/172",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016310.png"
@@ -1533,7 +1533,7 @@
     "cardId": "16311",
     "name": "Energi Prisma",
     "series": "SV11s",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "I",
     "collectionNumber": "172/172",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00016311.png"

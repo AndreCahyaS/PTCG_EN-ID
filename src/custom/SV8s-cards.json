@@ -1497,7 +1497,7 @@
     "cardId": "14852",
     "name": "Beri Passho",
     "series": "SV8s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "167/182",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014852.png"
@@ -1506,7 +1506,7 @@
     "cardId": "14853",
     "name": "Counter Gain",
     "series": "SV8s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "168/182",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014853.png"
@@ -1515,7 +1515,7 @@
     "cardId": "14854",
     "name": "Amulet Harapan",
     "series": "SV8s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "169/182",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014854.png"
@@ -1524,7 +1524,7 @@
     "cardId": "14855",
     "name": "Beri Colbur",
     "series": "SV8s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "170/182",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014855.png"
@@ -1533,7 +1533,7 @@
     "cardId": "14856",
     "name": "Beri Babiri",
     "series": "SV8s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "171/182",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014856.png"
@@ -1542,7 +1542,7 @@
     "cardId": "14857",
     "name": "MJ Fluorite",
     "series": "SV8s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "172/182",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014857.png"
@@ -1632,7 +1632,7 @@
     "cardId": "14867",
     "name": "Energi Kaya",
     "series": "SV8s",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "H",
     "collectionNumber": "182/182",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014867.png"
@@ -2172,7 +2172,7 @@
     "cardId": "14927",
     "name": "Counter Gain",
     "series": "SV8s",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "242/182",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00014927.png"

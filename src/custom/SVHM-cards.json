@@ -120,7 +120,7 @@
     "cardId": "10516",
     "name": "Energi Dasar Listrik",
     "series": "SVHM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "LIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010516.png"
@@ -129,7 +129,7 @@
     "cardId": "10517",
     "name": "Energi Dasar Psychic",
     "series": "SVHM",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "PSY",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00010517.png"

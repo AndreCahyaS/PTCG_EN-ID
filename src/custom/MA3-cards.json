@@ -1443,7 +1443,7 @@
     "cardId": "17399",
     "name": "Counter Gain",
     "series": "MA3",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "161/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017399.png"
@@ -1452,7 +1452,7 @@
     "cardId": "17400",
     "name": "Pemberat Kekuatan Cynthia",
     "series": "MA3",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "162/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017400.png"
@@ -1461,7 +1461,7 @@
     "cardId": "17401",
     "name": "Bola Listrik",
     "series": "MA3",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "163/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017401.png"
@@ -1470,7 +1470,7 @@
     "cardId": "17402",
     "name": "Sisik Sangat Tebal",
     "series": "MA3",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "164/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017402.png"
@@ -1479,7 +1479,7 @@
     "cardId": "17403",
     "name": "Balon",
     "series": "MA3",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "165/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017403.png"
@@ -1488,7 +1488,7 @@
     "cardId": "17404",
     "name": "Gelang Keberanian",
     "series": "MA3",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "166/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017404.png"
@@ -1497,7 +1497,7 @@
     "cardId": "17405",
     "name": "Ikat Kepala Pilihan Hop",
     "series": "MA3",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "I",
     "collectionNumber": "167/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017405.png"
@@ -1713,7 +1713,7 @@
     "cardId": "17429",
     "name": "Energi Penyulut",
     "series": "MA3",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "I",
     "collectionNumber": "191/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017429.png"
@@ -1722,7 +1722,7 @@
     "cardId": "17430",
     "name": "Energi Prisma",
     "series": "MA3",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "I",
     "collectionNumber": "192/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017430.png"
@@ -1731,7 +1731,7 @@
     "cardId": "17431",
     "name": "Energi Tim Roket",
     "series": "MA3",
-    "type": "energi spesial",
+    "type": "Energi Spesial",
     "regulation": "I",
     "collectionNumber": "193/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017431.png"
@@ -1956,7 +1956,7 @@
     "cardId": "17541",
     "name": "Counter Gain",
     "series": "MA3",
-    "type": "pokemon",
+    "type": "Pokémon Tool",
     "regulation": "H",
     "collectionNumber": "218/193",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00017541.png"

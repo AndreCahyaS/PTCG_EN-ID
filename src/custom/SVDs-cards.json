@@ -111,7 +111,7 @@
     "cardId": "9511",
     "name": "Energi Dasar Kegelapan",
     "series": "SVDs",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "DAR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009511.png"
@@ -120,7 +120,7 @@
     "cardId": "9510",
     "name": "Energi Dasar Petarung",
     "series": "SVDs",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009510.png"
@@ -129,7 +129,7 @@
     "cardId": "9506",
     "name": "Energi Dasar Api",
     "series": "SVDs",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "FIR",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009506.png"
@@ -138,7 +138,7 @@
     "cardId": "9505",
     "name": "Energi Dasar Daun",
     "series": "SVDs",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "GRA",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009505.png"
@@ -147,7 +147,7 @@
     "cardId": "9508",
     "name": "Energi Dasar Listrik",
     "series": "SVDs",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "LIG",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009508.png"
@@ -156,7 +156,7 @@
     "cardId": "9512",
     "name": "Energi Dasar Logam",
     "series": "SVDs",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "MET",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009512.png"
@@ -165,7 +165,7 @@
     "cardId": "9509",
     "name": "Energi Dasar Psychic",
     "series": "SVDs",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "PSY",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009509.png"
@@ -174,7 +174,7 @@
     "cardId": "9507",
     "name": "Energi Dasar Air",
     "series": "SVDs",
-    "type": "energi dasar",
+    "type": "Energi Dasar",
     "regulation": "J",
     "collectionNumber": "WAT",
     "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00009507.png"
