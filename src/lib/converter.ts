@@ -1,7 +1,7 @@
 import { ParsedCard, MappedCard, IndonesianCardCandidate, MappingStatus, CardCategory } from '../types';
 import setMappingData from '../config/setMapping.json';
 import { getCachedItem, setCachedItem, getCachedCandidates, setCachedCandidates } from './cache';
-import { lookupCustomByEnName, getBasicEnergyImageUrl } from './customCards';
+import { lookupCustomPokemon, searchCustomPokemonDirectly, getBasicEnergyImageUrl } from './customCards';
 import { getLatestTrainerImageUrl } from './customTrainers';
 
 interface SetMappingConfig {
@@ -287,6 +287,12 @@ export async function searchIndonesianCardsByName(searchTerm: string): Promise<a
 export async function searchCardsDirectly(query: string): Promise<IndonesianCardCandidate[]> {
   if (!query || query.trim().length < 2) return [];
 
+  // 1. Search local custom database first (offline, 0ms latency, official images)
+  const localResults = searchCustomPokemonDirectly(query);
+  if (localResults.length > 0) {
+    return localResults;
+  }
+
   const trimmed = query.trim();
   const translated = lookupPokemon(trimmed);
   const searchQueries = [trimmed];
@@ -413,36 +419,44 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
 
   const { primaryQueries, expectedExactNames } = transformSearchNames(card.name, 'Pokemon');
 
-  // 3a. CUSTOM LOOKUP: collect local MA-series candidates (do NOT return early).
-  // These are merged with TCGdex API results below so cards like Munkidori show
-  // all prints: sv7s-103, sv8a-075, AND ma3-081 together.
-  const customCandidates = lookupCustomByEnName(card.name, expectedExactNames);
+  // 3a. LOCAL LOOKUP: Search across all 75 sets in local custom database.
+  // Instantaneous (0ms network), 100% offline, with official Indonesian high-res card images.
+  const localCandidates = lookupCustomPokemon(
+    card.name,
+    expectedExactNames,
+    card.setCode,
+    card.cardNumber
+  );
 
+  if (localCandidates.length > 0) {
+    await setCachedCandidates(cardKey, localCandidates);
+    const status: MappingStatus = localCandidates.length > 1 ? 'ambiguous' : 'mapped';
+    return {
+      parsed: card,
+      status,
+      selectedCandidate: localCandidates[0],
+      selectedCandidates: [{ candidate: localCandidates[0], quantity: card.quantity }],
+      candidates: localCandidates,
+      isConfirmed: false,
+    };
+  }
+
+  // 3b. Cache fallback
   const cached = await getCachedCandidates(cardKey);
   if (cached && cached.length > 0) {
-    // Ensure cached candidates respect H/I/J (or MA custom sets)
     const legalCached = cached.filter(c =>
       LEGAL_H_I_J_SETS.has(c.setId) ||
       c.setId.startsWith('MA') ||
       (c.regulationMark && (LEGAL_REGULATION_MARKS.has(c.regulationMark) || c.regulationMark === 'MA'))
     );
     if (legalCached.length > 0) {
-      // Merge with custom candidates, updating stale cached entries with fresh customCard data
-      const merged = legalCached.map(c => {
-        const fresh = customCandidates.find(cc => cc.id === c.id);
-        return fresh ? { ...c, ...fresh } : c;
-      });
-      for (const cc of customCandidates) {
-        if (!merged.some(c => c.id === cc.id)) merged.push(cc);
-      }
-      setCachedCandidates(cardKey, merged).catch(() => {});
-      merged.sort((a, b) => b.matchScore - a.matchScore);
+      legalCached.sort((a, b) => b.matchScore - a.matchScore);
       return {
         parsed: card,
-        status: merged.length === 1 ? 'mapped' : 'ambiguous',
-        selectedCandidate: merged[0],
-        selectedCandidates: [{ candidate: merged[0], quantity: card.quantity }],
-        candidates: merged,
+        status: legalCached.length > 1 ? 'ambiguous' : 'mapped',
+        selectedCandidate: legalCached[0],
+        selectedCandidates: [{ candidate: legalCached[0], quantity: card.quantity }],
+        candidates: legalCached,
         isConfirmed: false,
       };
     }
@@ -516,8 +530,8 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
     }
   }
 
-  // Merge custom MA candidates into the API results (dedup by id)
-  for (const cc of customCandidates) {
+  // Merge local candidates into the API results if any (dedup by id)
+  for (const cc of localCandidates) {
     if (!candidates.some(c => c.id === cc.id)) {
       candidates.push(cc);
     }

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { MappedCard, IndonesianCardCandidate, SelectedCandidateItem } from '../types';
 import { X, Check, AlertTriangle, Sparkles, Layers, Plus, Minus, RotateCcw, PlusCircle, CheckCircle2 } from 'lucide-react';
 import { formatCollectionNumber } from '../lib/setInfo';
+import { findCustomCard, getCustomSetName } from '../lib/customCards';
 
 interface CandidateDrawerProps {
   card: MappedCard | null;
@@ -131,15 +132,18 @@ export const CandidateDrawer: React.FC<CandidateDrawerProps> = ({
     }
 
     const customId = `${cleanSet}-${cleanNum}`;
+    const customMatch = findCustomCard(cleanSet, cleanNum);
     const newCandidate: IndonesianCardCandidate = {
       id: customId,
       localId: cleanNum,
       setId: cleanSet,
-      setName: `Kustom (${cleanSet})`,
-      name: cleanName,
+      setName: customMatch ? getCustomSetName(cleanSet, customMatch.regulation) : getCustomSetName(cleanSet),
+      name: customMatch?.name || cleanName,
       category: 'Pokemon',
+      image: customMatch?.imageUrl,
+      regulationMark: customMatch?.regulation?.trim() || 'H',
       matchScore: 100,
-      matchReason: 'Kartu Kustom Manual Pengguna',
+      matchReason: customMatch ? `Katalog Resmi: ${cleanSet} #${cleanNum}` : 'Kartu Kustom Manual Pengguna',
     };
 
     // Add to candidates list / stack
