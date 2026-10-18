@@ -1,1668 +1,2144 @@
 [
   {
-    "collectionNumber": "001/164",
+    "cardId": "18665",
     "name": "Weedle",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/a3ab4177-c59d-486e-a279-dcea234fca34.webp"
+    "collectionNumber": "001/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018665.png"
   },
   {
-    "collectionNumber": "002/164",
+    "cardId": "18666",
     "name": "Kakuna",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/6d02c0b7-5137-4235-90a0-8e1e4b09681b.webp"
+    "collectionNumber": "002/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018666.png"
   },
   {
-    "collectionNumber": "003/164",
+    "cardId": "18667",
     "name": "Beedrill ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/ad8277bc-8b92-410a-b4de-bbbeb2b1f0cd.webp"
+    "collectionNumber": "003/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018667.png"
   },
   {
-    "collectionNumber": "004/164",
+    "cardId": "18668",
     "name": "Tropius",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/516d0389-4c65-4551-8586-340b8ac2b30c.webp"
+    "collectionNumber": "004/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018668.png"
   },
   {
-    "collectionNumber": "005/164",
+    "cardId": "18669",
     "name": "Carnivine",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/a59c9afd-604c-4c7c-943e-da869b929baf.webp"
+    "collectionNumber": "005/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018669.png"
   },
   {
-    "collectionNumber": "006/164",
+    "cardId": "18670",
     "name": "Chespin",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/c102d696-74d9-4a85-8353-d950af4ef31c.webp"
+    "collectionNumber": "006/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018670.png"
   },
   {
-    "collectionNumber": "007/164",
+    "cardId": "18671",
     "name": "Quilladin",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/9a0cbebb-c673-4370-b922-9f4c9416b091.webp"
+    "collectionNumber": "007/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018671.png"
   },
   {
-    "collectionNumber": "008/164",
+    "cardId": "18672",
     "name": "Chesnaught",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/9e727306-7e52-4110-867c-fe3dcb8a857e.webp"
+    "collectionNumber": "008/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018672.png"
   },
   {
-    "collectionNumber": "009/164",
+    "cardId": "18673",
     "name": "Grubbin",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/00c2112f-7409-487b-863f-3a544a3be69a.webp"
+    "collectionNumber": "009/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018673.png"
   },
   {
-    "collectionNumber": "010/164",
+    "cardId": "18674",
     "name": "Fomantis",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/e214b437-cef3-4bf3-a67d-aee1558d73e4.webp"
+    "collectionNumber": "010/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018674.png"
   },
   {
-    "collectionNumber": "011/164",
+    "cardId": "18675",
     "name": "Lurantis ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/cffe68eb-5de7-432c-bb77-0216c9202f50.webp"
+    "collectionNumber": "011/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018675.png"
   },
   {
-    "collectionNumber": "012/164",
+    "cardId": "18676",
     "name": "Poltchageist",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/e2ef1d94-cc5c-4b58-9a2a-3ab3015ac1eb.webp"
+    "collectionNumber": "012/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018676.png"
   },
   {
-    "collectionNumber": "013/164",
+    "cardId": "18677",
     "name": "Sinistcha",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/23bc989e-63a5-4ba8-b11a-eca547bd26a3.webp"
+    "collectionNumber": "013/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018677.png"
   },
   {
-    "collectionNumber": "014/164",
+    "cardId": "18678",
     "name": "Vulpix",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/11a5db8e-5f39-4ddd-ab26-176ebfc8cbaf.webp"
+    "collectionNumber": "014/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018678.png"
   },
   {
-    "collectionNumber": "015/164",
+    "cardId": "18679",
     "name": "Ninetales",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/2aaebe41-ffce-4ca9-b973-baaf71f96f65.webp"
+    "collectionNumber": "015/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018679.png"
   },
   {
-    "collectionNumber": "016/164",
+    "cardId": "18680",
     "name": "Ho-Oh",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/17f0347a-2fb3-420a-8fd3-79ddfd487d63.webp"
+    "collectionNumber": "016/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018680.png"
   },
   {
-    "collectionNumber": "017/164",
+    "cardId": "18681",
     "name": "Heatran",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/18c56a87-94b8-4706-a8b0-567eeeb8fc55.webp"
+    "collectionNumber": "017/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018681.png"
   },
   {
-    "collectionNumber": "018/164",
+    "cardId": "18682",
     "name": "Fennekin",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/e4aa490f-2bb4-4bb1-a4b4-5ccf49faa45a.webp"
+    "collectionNumber": "018/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018682.png"
   },
   {
-    "collectionNumber": "019/164",
+    "cardId": "18683",
     "name": "Braixen",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/581b3481-e3e0-4f35-b4b1-d6796c561518.webp"
+    "collectionNumber": "019/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018683.png"
   },
   {
-    "collectionNumber": "020/164",
+    "cardId": "18684",
     "name": "Delphox",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/f56d1165-4745-40e7-9594-a18556988a0e.webp"
+    "collectionNumber": "020/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018684.png"
   },
   {
-    "collectionNumber": "021/164",
+    "cardId": "18685",
     "name": "Litleo",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/7ae0cf4b-5d82-4801-afca-e5ed939d02d3.webp"
+    "collectionNumber": "021/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018685.png"
   },
   {
-    "collectionNumber": "022/164",
+    "cardId": "18686",
     "name": "Mega Pyroar ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/1fab4af2-0ba9-4e7d-aec0-2412d4af6882.webp"
+    "collectionNumber": "022/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018686.png"
   },
   {
-    "collectionNumber": "023/164",
+    "cardId": "18687",
     "name": "Sizzlipede",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/d5569641-71c9-4f49-a019-7f51543be068.webp"
+    "collectionNumber": "023/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018687.png"
   },
   {
-    "collectionNumber": "024/164",
+    "cardId": "18688",
     "name": "Centiskorch",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/e9f0a544-957a-4563-a79e-4e05d26802d5.webp"
+    "collectionNumber": "024/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018688.png"
   },
   {
-    "collectionNumber": "025/164",
+    "cardId": "18689",
     "name": "Charcadet",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/cd2982e6-e0bd-4f98-8cf2-d325ad66f7c9.webp"
+    "collectionNumber": "025/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018689.png"
   },
   {
-    "collectionNumber": "026/164",
+    "cardId": "18690",
     "name": "Armarouge",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/775f8c62-4886-4693-bdc2-a3498041209c.webp"
+    "collectionNumber": "026/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018690.png"
   },
   {
-    "collectionNumber": "027/164",
+    "cardId": "18691",
     "name": "Goldeen",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/f9c69ab4-1fd6-42f0-9f39-2c65ab9915cf.webp"
+    "collectionNumber": "027/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018691.png"
   },
   {
-    "collectionNumber": "028/164",
+    "cardId": "18692",
     "name": "Seaking",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/05bc0696-6906-4f60-96f0-1f5a08bbb1d1.webp"
+    "collectionNumber": "028/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018692.png"
   },
   {
-    "collectionNumber": "029/164",
+    "cardId": "18693",
     "name": "Remoraid",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/8de7e496-6536-4a24-a99a-dc4db1f2261d.webp"
+    "collectionNumber": "029/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018693.png"
   },
   {
-    "collectionNumber": "030/164",
+    "cardId": "18694",
     "name": "Octillery",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/9e8d0508-77e3-475a-a017-7227448641b8.webp"
+    "collectionNumber": "030/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018694.png"
   },
   {
-    "collectionNumber": "031/164",
+    "cardId": "18695",
     "name": "Delibird",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/2bea4557-ebc6-4cbc-8c2b-ffea6b9ba0a4.webp"
+    "collectionNumber": "031/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018695.png"
   },
   {
-    "collectionNumber": "032/164",
+    "cardId": "18696",
     "name": "Wailmer",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/5566e1ab-d558-4998-ab6c-2558a718ae01.webp"
+    "collectionNumber": "032/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018696.png"
   },
   {
-    "collectionNumber": "033/164",
+    "cardId": "18697",
     "name": "Wailord ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/1fce2f6b-7897-4249-aafb-e962735e23a0.webp"
+    "collectionNumber": "033/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018697.png"
   },
   {
-    "collectionNumber": "034/164",
+    "cardId": "18698",
     "name": "Relicanth",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/3694e837-d882-4aeb-9e85-5493d001c0a8.webp"
+    "collectionNumber": "034/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018698.png"
   },
   {
-    "collectionNumber": "035/164",
+    "cardId": "18699",
     "name": "Keldeo",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/c3342f9f-153a-49a7-95bc-f8312a86b9a2.webp"
+    "collectionNumber": "035/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018699.png"
   },
   {
-    "collectionNumber": "036/164",
+    "cardId": "18700",
     "name": "Froakie",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/8b1eec36-e185-4917-bf8b-eaf4bedf5b40.webp"
+    "collectionNumber": "036/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018700.png"
   },
   {
-    "collectionNumber": "037/164",
+    "cardId": "18701",
     "name": "Frogadier",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/45f3f1d0-c817-4d44-8c78-58c1904aae9c.webp"
+    "collectionNumber": "037/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018701.png"
   },
   {
-    "collectionNumber": "038/164",
+    "cardId": "18702",
     "name": "Mega Greninja ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/ebe87cab-4c64-4fd3-ab4c-3ee2882c09f8.webp"
+    "collectionNumber": "038/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018702.png"
   },
   {
-    "collectionNumber": "039/164",
+    "cardId": "18703",
     "name": "Bergmite",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/c75e77db-894f-48d7-a5c8-d5d4f3fa6f62.webp"
+    "collectionNumber": "039/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018703.png"
   },
   {
-    "collectionNumber": "040/164",
+    "cardId": "18704",
     "name": "Avalugg",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/70da682f-b667-4450-9661-65936af7f5d6.webp"
+    "collectionNumber": "040/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018704.png"
   },
   {
-    "collectionNumber": "041/164",
+    "cardId": "18705",
     "name": "Popplio",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/5c0d392c-1d8e-42e1-be04-fca5edf227ec.webp"
+    "collectionNumber": "041/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018705.png"
   },
   {
-    "collectionNumber": "042/164",
+    "cardId": "18706",
     "name": "Brionne",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/5a20e232-f5b0-4f2d-be7a-29809ff61c7b.webp"
+    "collectionNumber": "042/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018706.png"
   },
   {
-    "collectionNumber": "043/164",
+    "cardId": "18707",
     "name": "Primarina",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/86279596-0134-414d-824b-13fa46d5af5a.webp"
+    "collectionNumber": "043/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018707.png"
   },
   {
-    "collectionNumber": "044/164",
+    "cardId": "18708",
     "name": "Wimpod",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/87fd563a-b3a9-438a-8ef3-424d36fd3cf3.webp"
+    "collectionNumber": "044/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018708.png"
   },
   {
-    "collectionNumber": "045/164",
+    "cardId": "18709",
     "name": "Golisopod",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/07eb29c8-eefe-422d-901e-bff34710626e.webp"
+    "collectionNumber": "045/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018709.png"
   },
   {
-    "collectionNumber": "046/164",
+    "cardId": "18710",
     "name": "Finizen",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/1519beaa-bd86-4224-987b-1620689fe486.webp"
+    "collectionNumber": "046/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018710.png"
   },
   {
-    "collectionNumber": "047/164",
+    "cardId": "18711",
     "name": "Palafin",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/44528fa8-95f4-4500-8e52-6c0f5435af65.webp"
+    "collectionNumber": "047/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018711.png"
   },
   {
-    "collectionNumber": "048/164",
+    "cardId": "18712",
     "name": "Mareep",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/bb4603cf-83b9-4190-9bef-a8327788ef8f.webp"
+    "collectionNumber": "048/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018712.png"
   },
   {
-    "collectionNumber": "049/164",
+    "cardId": "18713",
     "name": "Flaaffy",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/e5ec14cf-5662-4ab1-950f-4252a1c02144.webp"
+    "collectionNumber": "049/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018713.png"
   },
   {
-    "collectionNumber": "050/164",
+    "cardId": "18714",
     "name": "Ampharos",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/ffad4027-578b-4695-88ec-a98fdba99264.webp"
+    "collectionNumber": "050/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018714.png"
   },
   {
-    "collectionNumber": "051/164",
+    "cardId": "18715",
     "name": "Electrike",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/b4afaf17-1fcf-4392-bf31-ea7d1aff838d.webp"
+    "collectionNumber": "051/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018715.png"
   },
   {
-    "collectionNumber": "052/164",
+    "cardId": "18716",
     "name": "Manectric",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/bce823d8-64bb-45ff-be6c-f49793b6dd10.webp"
+    "collectionNumber": "052/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018716.png"
   },
   {
-    "collectionNumber": "053/164",
+    "cardId": "18717",
     "name": "Emolga",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/dfbb125f-049c-4e19-a69c-422b7ce64918.webp"
+    "collectionNumber": "053/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018717.png"
   },
   {
-    "collectionNumber": "054/164",
+    "cardId": "18718",
     "name": "Charjabug",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/fd1df5be-23d5-427c-ae08-b4ee73be094d.webp"
+    "collectionNumber": "054/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018718.png"
   },
   {
-    "collectionNumber": "055/164",
+    "cardId": "18719",
     "name": "Vikavolt",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/58e58c7d-cc91-4b03-a1f1-9a14f68d715d.webp"
+    "collectionNumber": "055/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018719.png"
   },
   {
-    "collectionNumber": "056/164",
+    "cardId": "18720",
     "name": "Mega Zeraora ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/ababa339-1fbb-4704-b05d-dd1c12bbbe89.webp"
+    "collectionNumber": "056/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018720.png"
   },
   {
-    "collectionNumber": "057/164",
+    "cardId": "18721",
     "name": "Miraidon",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/d7aa18de-7c6c-4aa1-aec0-e63a21947473.webp"
+    "collectionNumber": "057/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018721.png"
   },
   {
-    "collectionNumber": "058/164",
+    "cardId": "18722",
     "name": "Slowpoke",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/9a2ad094-d794-4f39-b93e-5c855fe2938a.webp"
+    "collectionNumber": "058/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018722.png"
   },
   {
-    "collectionNumber": "059/164",
+    "cardId": "18723",
     "name": "Slowbro",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/dd2dc0c3-47f5-4883-b8f9-2a5beed574cb.webp"
+    "collectionNumber": "059/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018723.png"
   },
   {
-    "collectionNumber": "060/164",
+    "cardId": "18724",
     "name": "Jynx",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/4fda891e-12f0-4aee-b42a-87449c3ef03a.webp"
+    "collectionNumber": "060/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018724.png"
   },
   {
-    "collectionNumber": "061/164",
+    "cardId": "18725",
     "name": "Shuppet",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/30a87b36-535d-4456-9d37-6e80b4c830c9.webp"
+    "collectionNumber": "061/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018725.png"
   },
   {
-    "collectionNumber": "062/164",
+    "cardId": "18726",
     "name": "Banette",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/1e162a8a-a2ab-42c3-ab7b-8fafe15de05a.webp"
+    "collectionNumber": "062/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018726.png"
   },
   {
+    "cardId": "18727",
+    "name": "Deoxys",
+    "series": "MA5",
+    "type": "pokemon",
+    "regulation": "J",
     "collectionNumber": "063/164",
-    "name": "Deoxys",
-    "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/73b6b3b8-063a-4d0c-9917-911f427419ec.webp"
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018727.png"
   },
   {
+    "cardId": "18728",
+    "name": "Deoxys",
+    "series": "MA5",
+    "type": "pokemon",
+    "regulation": "J",
     "collectionNumber": "064/164",
-    "name": "Deoxys",
-    "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/c11eaaec-6470-42a6-b637-c61a084eaa00.webp"
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018728.png"
   },
   {
+    "cardId": "18729",
+    "name": "Deoxys",
+    "series": "MA5",
+    "type": "pokemon",
+    "regulation": "J",
     "collectionNumber": "065/164",
-    "name": "Deoxys",
-    "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/4b55ac7f-84e2-49c4-ab9e-e5263b77d6c6.webp"
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018729.png"
   },
   {
+    "cardId": "18730",
+    "name": "Deoxys",
+    "series": "MA5",
+    "type": "pokemon",
+    "regulation": "J",
     "collectionNumber": "066/164",
-    "name": "Deoxys",
-    "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/9f0cb242-e7f4-45ec-b537-47164c1aa720.webp"
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018730.png"
   },
   {
-    "collectionNumber": "067/164",
+    "cardId": "18731",
     "name": "Spiritomb",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/d3dcba1b-ce4d-4dcb-963c-00fedce14cdb.webp"
+    "collectionNumber": "067/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018731.png"
   },
   {
-    "collectionNumber": "068/164",
+    "cardId": "18732",
     "name": "Litwick",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/680c0af1-2496-4cd6-af78-2b2e9109ce0f.webp"
+    "collectionNumber": "068/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018732.png"
   },
   {
-    "collectionNumber": "069/164",
+    "cardId": "18733",
     "name": "Lampent",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/d660ea99-97c8-438c-b072-f4efea0f4ea1.webp"
+    "collectionNumber": "069/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018733.png"
   },
   {
-    "collectionNumber": "070/164",
+    "cardId": "18734",
     "name": "Mega Chandelure ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/3c076a2f-506c-4805-9a51-ad1c98d8d44c.webp"
+    "collectionNumber": "070/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018734.png"
   },
   {
-    "collectionNumber": "071/164",
+    "cardId": "18735",
     "name": "Mega Floette ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/2fde8422-ed4f-4527-a313-32a07a0ae4bc.webp"
+    "collectionNumber": "071/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018735.png"
   },
   {
-    "collectionNumber": "072/164",
+    "cardId": "18736",
     "name": "Espurr",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/22a8040c-0889-4bcc-9aac-20ba1274cd73.webp"
+    "collectionNumber": "072/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018736.png"
   },
   {
-    "collectionNumber": "073/164",
+    "cardId": "18737",
     "name": "Meowstic",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/738874c3-7702-49f6-8674-74c1840ea41b.webp"
+    "collectionNumber": "073/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018737.png"
   },
   {
-    "collectionNumber": "074/164",
+    "cardId": "18738",
     "name": "Phantump",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/ebb88a96-c885-4de9-8476-b286acfe0436.webp"
+    "collectionNumber": "074/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018738.png"
   },
   {
-    "collectionNumber": "075/164",
+    "cardId": "18739",
     "name": "Trevenant",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/f5ee2318-df39-465f-abd2-a0bff86ac1fe.webp"
+    "collectionNumber": "075/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018739.png"
   },
   {
-    "collectionNumber": "076/164",
+    "cardId": "18740",
     "name": "Pumpkaboo",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/35e3d3c2-cc5b-4f47-84b5-a7917552f717.webp"
+    "collectionNumber": "076/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018740.png"
   },
   {
-    "collectionNumber": "077/164",
+    "cardId": "18741",
     "name": "Gourgeist ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/2e7f00d5-f8c9-406d-a3b5-e2bbe4c69d26.webp"
+    "collectionNumber": "077/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018741.png"
   },
   {
-    "collectionNumber": "078/164",
+    "cardId": "18742",
     "name": "Xerneas",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/81010cdb-54c8-4dc0-a077-0d8d4d8abcd4.webp"
+    "collectionNumber": "078/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018742.png"
   },
   {
-    "collectionNumber": "079/164",
+    "cardId": "18743",
     "name": "Dhelmise",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/7abcb22a-61d2-4cb0-bc8b-e33edba2698e.webp"
+    "collectionNumber": "079/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018743.png"
   },
   {
-    "collectionNumber": "080/164",
+    "cardId": "18744",
     "name": "Marshadow",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/b14029a3-51de-49cf-aca5-b636bf29dd69.webp"
+    "collectionNumber": "080/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018744.png"
   },
   {
-    "collectionNumber": "081/164",
+    "cardId": "18745",
     "name": "Annihilape",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/9a78adbc-fa26-40d9-ba8f-517f1013b004.webp"
+    "collectionNumber": "081/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018745.png"
   },
   {
-    "collectionNumber": "082/164",
+    "cardId": "18746",
     "name": "Mankey",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/88be3180-3f3c-4d4b-a5b3-cef66c35c2fe.webp"
+    "collectionNumber": "082/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018746.png"
   },
   {
-    "collectionNumber": "083/164",
+    "cardId": "18747",
     "name": "Primeape",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/bdd8bcaa-62db-49dd-a087-628fdfc6b9f0.webp"
+    "collectionNumber": "083/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018747.png"
   },
   {
-    "collectionNumber": "084/164",
+    "cardId": "18748",
     "name": "Sudowoodo",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/b2d6ee98-8fa6-486b-8d35-44c3e74f0c43.webp"
+    "collectionNumber": "084/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018748.png"
   },
   {
-    "collectionNumber": "085/164",
+    "cardId": "18749",
     "name": "Phanpy",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/9d685d0c-0acb-4788-b05a-8fcf97ed18ad.webp"
+    "collectionNumber": "085/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018749.png"
   },
   {
-    "collectionNumber": "086/164",
+    "cardId": "18750",
     "name": "Donphan",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/8ae247c9-46b4-4f7b-8914-bfc143296448.webp"
+    "collectionNumber": "086/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018750.png"
   },
   {
-    "collectionNumber": "087/164",
+    "cardId": "18751",
     "name": "Baltoy",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/eaa8455a-aef1-4ed6-8f0b-5f30a5765d2f.webp"
+    "collectionNumber": "087/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018751.png"
   },
   {
-    "collectionNumber": "088/164",
+    "cardId": "18752",
     "name": "Claydol",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/54fbefda-0d57-4541-8952-57707fb27521.webp"
+    "collectionNumber": "088/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018752.png"
   },
   {
-    "collectionNumber": "089/164",
+    "cardId": "18753",
     "name": "Cranidos",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/c3558963-ebd7-4d94-9c5e-f59be1b1314c.webp"
+    "collectionNumber": "089/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018753.png"
   },
   {
-    "collectionNumber": "090/164",
+    "cardId": "18754",
     "name": "Rampardos ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/e6b3eea9-528c-4ca5-b8a1-5b1bf9fca162.webp"
+    "collectionNumber": "090/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018754.png"
   },
   {
-    "collectionNumber": "091/164",
+    "cardId": "18755",
     "name": "Drilbur",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/69fcefbe-3510-4e91-93f5-7aa1233c1f8c.webp"
+    "collectionNumber": "091/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018755.png"
   },
   {
-    "collectionNumber": "092/164",
+    "cardId": "18756",
     "name": "Koraidon",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/64eeeaba-e759-4070-9521-da5992409139.webp"
+    "collectionNumber": "092/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018756.png"
   },
   {
-    "collectionNumber": "093/164",
+    "cardId": "18757",
     "name": "Zubat",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/192802d0-1291-4668-86b1-6590510e1102.webp"
+    "collectionNumber": "093/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018757.png"
   },
   {
-    "collectionNumber": "094/164",
+    "cardId": "18758",
     "name": "Golbat",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/d979a336-2a44-4c8a-8d8c-d82c25dcc571.webp"
+    "collectionNumber": "094/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018758.png"
   },
   {
-    "collectionNumber": "095/164",
+    "cardId": "18759",
     "name": "Crobat",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/628cfade-1190-4e6a-9992-0497c305b2fa.webp"
+    "collectionNumber": "095/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018759.png"
   },
   {
-    "collectionNumber": "096/164",
+    "cardId": "18760",
     "name": "Qwilfish",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/a68380e1-bcca-4bca-be6a-bbc94256163c.webp"
+    "collectionNumber": "096/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018760.png"
   },
   {
-    "collectionNumber": "097/164",
+    "cardId": "18761",
     "name": "Stunky",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/6182f635-d22e-467e-963f-5b49737fd573.webp"
+    "collectionNumber": "097/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018761.png"
   },
   {
-    "collectionNumber": "098/164",
+    "cardId": "18762",
     "name": "Skuntank",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/c34a3023-cea0-4171-b7e2-a925c6ff9e5d.webp"
+    "collectionNumber": "098/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018762.png"
   },
   {
-    "collectionNumber": "099/164",
+    "cardId": "18763",
     "name": "Mega Darkrai ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/79f1eea4-9070-483e-b378-5690abdcb982.webp"
+    "collectionNumber": "099/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018763.png"
   },
   {
-    "collectionNumber": "100/164",
+    "cardId": "18764",
     "name": "Trubbish",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/f0ccbf45-7f18-44ca-8de0-06930d67613f.webp"
+    "collectionNumber": "100/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018764.png"
   },
   {
-    "collectionNumber": "101/164",
+    "cardId": "18765",
     "name": "Garbodor",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/5e237e79-f171-4b94-8472-07f84c70f198.webp"
+    "collectionNumber": "101/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018765.png"
   },
   {
-    "collectionNumber": "102/164",
+    "cardId": "18766",
     "name": "Vullaby",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/751db7b6-eac1-4b92-8d05-0a65d948e2d8.webp"
+    "collectionNumber": "102/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018766.png"
   },
   {
-    "collectionNumber": "103/164",
+    "cardId": "18767",
     "name": "Mandibuzz",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/eec0becf-d87c-4d34-8384-75b5d8aa8e2a.webp"
+    "collectionNumber": "103/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018767.png"
   },
   {
-    "collectionNumber": "104/164",
+    "cardId": "18768",
     "name": "Inkay",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/aea294ad-1439-43b7-827b-1c0c0c5e55ad.webp"
+    "collectionNumber": "104/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018768.png"
   },
   {
-    "collectionNumber": "105/164",
+    "cardId": "18769",
     "name": "Malamar",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/89c49800-146d-415d-83e4-70490e85c9ec.webp"
+    "collectionNumber": "105/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018769.png"
   },
   {
-    "collectionNumber": "106/164",
+    "cardId": "18770",
     "name": "Skrelp",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/651fc840-1bc5-4414-a52d-e83574016afe.webp"
+    "collectionNumber": "106/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018770.png"
   },
   {
-    "collectionNumber": "107/164",
+    "cardId": "18771",
     "name": "Nickit",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/d96fe53d-982b-4e60-a49f-9d57a9771363.webp"
+    "collectionNumber": "107/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018771.png"
   },
   {
-    "collectionNumber": "108/164",
+    "cardId": "18772",
     "name": "Thievul",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/afb39d22-279d-4f52-9082-855cb7ebf38c.webp"
+    "collectionNumber": "108/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018772.png"
   },
   {
-    "collectionNumber": "109/164",
+    "cardId": "18773",
     "name": "Morpeko ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/92929b1b-31b5-4784-8bfe-62a7640abbb7.webp"
+    "collectionNumber": "109/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018773.png"
   },
   {
-    "collectionNumber": "110/164",
+    "cardId": "18774",
     "name": "Zarude",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/118d49e7-afbc-4ee1-bf08-9d217d89b9d1.webp"
+    "collectionNumber": "110/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018774.png"
   },
   {
-    "collectionNumber": "111/164",
+    "cardId": "18775",
     "name": "Maschiff",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/36dc4a0f-124a-4679-99cd-26d4cd46a4ee.webp"
+    "collectionNumber": "111/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018775.png"
   },
   {
-    "collectionNumber": "112/164",
+    "cardId": "18776",
     "name": "Mabosstiff",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/0226493a-9d44-4531-a0f4-a15eff89c722.webp"
+    "collectionNumber": "112/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018776.png"
   },
   {
-    "collectionNumber": "113/164",
+    "cardId": "18777",
     "name": "Chi-Yu",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/43fc79b3-d9a3-4231-9b8c-11f6f5fb29b9.webp"
+    "collectionNumber": "113/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018777.png"
   },
   {
-    "collectionNumber": "114/164",
+    "cardId": "18778",
     "name": "Skarmory",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/5791575f-0460-4341-af47-59f813aa7c5e.webp"
+    "collectionNumber": "114/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018778.png"
   },
   {
-    "collectionNumber": "115/164",
+    "cardId": "18779",
     "name": "Beldum",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/45dac334-7a3b-4331-8502-4c4f59574e54.webp"
+    "collectionNumber": "115/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018779.png"
   },
   {
-    "collectionNumber": "116/164",
+    "cardId": "18780",
     "name": "Metang",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/6d886aee-8d0e-4adb-8f44-fe34a588f290.webp"
+    "collectionNumber": "116/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018780.png"
   },
   {
-    "collectionNumber": "117/164",
+    "cardId": "18781",
     "name": "Metagross",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/63a77a80-76f9-4350-a38c-341ee4f54bc7.webp"
+    "collectionNumber": "117/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018781.png"
   },
   {
-    "collectionNumber": "118/164",
+    "cardId": "18782",
     "name": "Shieldon",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/92f4d9f3-8a3a-490a-bd84-508cc26f255d.webp"
+    "collectionNumber": "118/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018782.png"
   },
   {
-    "collectionNumber": "119/164",
+    "cardId": "18783",
     "name": "Bastiodon",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/c24e2b9d-7c41-4277-852b-c2f577a388c3.webp"
+    "collectionNumber": "119/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018783.png"
   },
   {
-    "collectionNumber": "120/164",
+    "cardId": "18784",
     "name": "Bronzor",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/028bd50e-b5da-42cd-8017-d8cb09bbb6ee.webp"
+    "collectionNumber": "120/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018784.png"
   },
   {
-    "collectionNumber": "121/164",
+    "cardId": "18785",
     "name": "Bronzong",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/f89e8693-3125-46da-8826-eebcdffefbc8.webp"
+    "collectionNumber": "121/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018785.png"
   },
   {
-    "collectionNumber": "122/164",
+    "cardId": "18786",
     "name": "Mega Excadrill ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/09c67edd-a36a-444a-b6d4-3d33afaee3c9.webp"
+    "collectionNumber": "122/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018786.png"
   },
   {
-    "collectionNumber": "123/164",
+    "cardId": "18787",
     "name": "Ferroseed",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/6e526697-f310-46f9-8d0b-c5f25208a609.webp"
+    "collectionNumber": "123/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018787.png"
   },
   {
-    "collectionNumber": "124/164",
+    "cardId": "18788",
     "name": "Ferrothorn",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/1af3b39f-9dc1-48fa-ba99-7d72c730f282.webp"
+    "collectionNumber": "124/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018788.png"
   },
   {
-    "collectionNumber": "125/164",
+    "cardId": "18789",
     "name": "Cobalion ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/e03aa3e8-c7b4-444f-b147-6f4710cce9f4.webp"
+    "collectionNumber": "125/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018789.png"
   },
   {
-    "collectionNumber": "126/164",
+    "cardId": "18790",
     "name": "Mega Dragalge ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/bed226b4-9801-4879-b945-926c43eb5014.webp"
+    "collectionNumber": "126/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018790.png"
   },
   {
-    "collectionNumber": "127/164",
+    "cardId": "18791",
     "name": "Goomy",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/0569e777-943e-441f-98ab-f5e31e531513.webp"
+    "collectionNumber": "127/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018791.png"
   },
   {
-    "collectionNumber": "128/164",
+    "cardId": "18792",
     "name": "Sliggoo",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/8c960353-2fca-4c05-af55-4b850e0117ad.webp"
+    "collectionNumber": "128/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018792.png"
   },
   {
-    "collectionNumber": "129/164",
+    "cardId": "18793",
     "name": "Goodra",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/94f8aea1-2b11-47e5-a29e-96f1d42152a8.webp"
+    "collectionNumber": "129/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018793.png"
   },
   {
-    "collectionNumber": "130/164",
+    "cardId": "18794",
     "name": "Tauros",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/84325a2b-9fc9-47cc-be43-27fe22884c88.webp"
+    "collectionNumber": "130/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018794.png"
   },
   {
-    "collectionNumber": "131/164",
+    "cardId": "18795",
     "name": "Patrat",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/f6f3bdcd-4577-4168-8a5d-ac1066b049be.webp"
+    "collectionNumber": "131/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018795.png"
   },
   {
-    "collectionNumber": "132/164",
+    "cardId": "18796",
     "name": "Watchog",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/92ce64ca-ae7f-4635-9ee0-52efa6d8db3c.webp"
+    "collectionNumber": "132/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018796.png"
   },
   {
-    "collectionNumber": "133/164",
+    "cardId": "18797",
     "name": "Minccino",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/18107c86-4011-40e1-b75a-6698094df87d.webp"
+    "collectionNumber": "133/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018797.png"
   },
   {
-    "collectionNumber": "134/164",
+    "cardId": "18798",
     "name": "Cinccino ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/0cbac9d9-0df0-4903-bae4-35f32659c0ae.webp"
+    "collectionNumber": "134/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018798.png"
   },
   {
-    "collectionNumber": "135/164",
+    "cardId": "18799",
     "name": "Pikipek",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/c7ae11a8-0caa-442b-a120-415153f0aeea.webp"
+    "collectionNumber": "135/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018799.png"
   },
   {
-    "collectionNumber": "136/164",
+    "cardId": "18800",
     "name": "Trumbeak",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/e2108db1-aa89-4790-b51e-efa6b8a422d8.webp"
+    "collectionNumber": "136/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018800.png"
   },
   {
-    "collectionNumber": "137/164",
+    "cardId": "18801",
     "name": "Toucannon",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/bd38ed97-c4df-4866-aaf7-770c75a6bd50.webp"
+    "collectionNumber": "137/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018801.png"
   },
   {
-    "collectionNumber": "138/164",
+    "cardId": "18802",
     "name": "Type: Null",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/13904417-d793-409c-884a-610cdeaf93de.webp"
+    "collectionNumber": "138/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018802.png"
   },
   {
-    "collectionNumber": "139/164",
+    "cardId": "18803",
     "name": "Silvally",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/892fb943-8251-4053-94d2-4abc0179d0d8.webp"
+    "collectionNumber": "139/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018803.png"
   },
   {
-    "collectionNumber": "140/164",
+    "cardId": "18804",
     "name": "Bombirdier",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/cb1d7bc3-8015-4543-a5e0-e9f48b2a1607.webp"
+    "collectionNumber": "140/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018804.png"
   },
   {
-    "collectionNumber": "141/164",
+    "cardId": "18805",
     "name": "Kartu Merah Spesial",
     "series": "MA5",
+    "type": "item",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/a8e279b2-d59e-4d56-ad77-1917d300594a.webp"
+    "collectionNumber": "141/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018805.png"
   },
   {
-    "collectionNumber": "142/164",
+    "cardId": "18806",
     "name": "Bel Kegelapan",
     "series": "MA5",
+    "type": "item",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/c2d7fcd8-32a8-4160-88d0-a038623a49b8.webp"
+    "collectionNumber": "142/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018806.png"
   },
   {
-    "collectionNumber": "143/164",
+    "cardId": "18807",
     "name": "Jaring Panen Ikan",
     "series": "MA5",
+    "type": "item",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/d97a761a-c7e4-43bf-9f94-2b0f84592e9f.webp"
+    "collectionNumber": "143/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018807.png"
   },
   {
-    "collectionNumber": "144/164",
+    "cardId": "18808",
     "name": "Fosil Tengkorak Usang",
     "series": "MA5",
+    "type": "item",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/af08d658-73d3-4b5a-b6f6-d15c1ab57981.webp"
+    "collectionNumber": "144/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018808.png"
   },
   {
-    "collectionNumber": "145/164",
+    "cardId": "18809",
     "name": "Fosil Perisai Usang",
     "series": "MA5",
+    "type": "item",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/6c2725ff-2db3-4c03-ad27-65da9f7d7873.webp"
+    "collectionNumber": "145/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018809.png"
   },
   {
-    "collectionNumber": "146/164",
+    "cardId": "18810",
     "name": "Buku Perubahan Wujud",
     "series": "MA5",
+    "type": "item",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/7c663c67-273b-40a0-b397-8789fdc6307c.webp"
+    "collectionNumber": "146/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018810.png"
   },
   {
-    "collectionNumber": "147/164",
+    "cardId": "18811",
     "name": "Bom Dahsyat",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/987b5d7a-1133-49d0-9bb2-f3110bcb2fc5.webp"
+    "collectionNumber": "147/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018811.png"
   },
   {
-    "collectionNumber": "148/164",
+    "cardId": "18812",
     "name": "Lencana Ulang",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/d09f0e19-c53e-4a6b-97ca-5a8f10ec4e95.webp"
+    "collectionNumber": "148/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018812.png"
   },
   {
-    "collectionNumber": "149/164",
+    "cardId": "18813",
     "name": "Ketenangan AZ",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/2c098e07-23b3-43f3-b328-558c05faf301.webp"
+    "collectionNumber": "149/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018813.png"
   },
   {
-    "collectionNumber": "150/164",
+    "cardId": "18814",
     "name": "Semangat Misty",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/3fc603ba-24d9-49be-b210-0de92d9abc98.webp"
+    "collectionNumber": "150/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018814.png"
   },
   {
-    "collectionNumber": "151/164",
+    "cardId": "18815",
     "name": "Pertarungan Penentuan Gladion",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/01fd1145-c28f-4ebb-b947-ad07b50e51f3.webp"
+    "collectionNumber": "151/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018815.png"
   },
   {
-    "collectionNumber": "152/164",
+    "cardId": "18816",
     "name": "Anak Buah Sindikat Karat",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/735ddd6a-5efe-45bb-b7eb-17b80aef8834.webp"
+    "collectionNumber": "152/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018816.png"
   },
   {
-    "collectionNumber": "153/164",
+    "cardId": "18817",
     "name": "Philippe",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/56e85197-1f92-40ed-bbf8-ff56c4f2bd42.webp"
+    "collectionNumber": "153/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018817.png"
   },
   {
-    "collectionNumber": "154/164",
+    "cardId": "18818",
     "name": "Konser Roxie",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/502d8bf1-b9be-43f3-b745-1ab8ed596347.webp"
+    "collectionNumber": "154/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018818.png"
   },
   {
-    "collectionNumber": "155/164",
+    "cardId": "18819",
     "name": "Emma",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/53d59ebc-b8a5-4934-8a99-b619c9df1272.webp"
+    "collectionNumber": "155/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018819.png"
   },
   {
-    "collectionNumber": "156/164",
+    "cardId": "18820",
     "name": "Suci",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/4be2ddb9-2fa5-41d8-a728-9bc60aab7c03.webp"
+    "collectionNumber": "156/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018820.png"
   },
   {
-    "collectionNumber": "157/164",
+    "cardId": "18821",
     "name": "Ange Floette",
     "series": "MA5",
+    "type": "stadium",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/5e8a529d-70f9-43f0-b282-4d01d72e2030.webp"
+    "collectionNumber": "157/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018821.png"
   },
   {
-    "collectionNumber": "158/164",
+    "cardId": "18822",
     "name": "Situs Penggalian Fosil",
     "series": "MA5",
+    "type": "stadium",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/25434f58-7f50-44fe-a43a-8c5db21496e4.webp"
+    "collectionNumber": "158/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018822.png"
   },
   {
-    "collectionNumber": "159/164",
+    "cardId": "18823",
     "name": "Menara Prisma",
     "series": "MA5",
+    "type": "stadium",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/2fbcfda6-21b7-44b9-ac0d-a0bb5835c325.webp"
+    "collectionNumber": "159/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018823.png"
   },
   {
+    "cardId": "18824",
+    "name": "Energi {Api} Nitro",
+    "series": "MA5",
+    "type": "",
+    "regulation": "J",
     "collectionNumber": "160/164",
-    "name": "Energi Api Nitro",
-    "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/500a58d5-a946-4f88-baa1-0d4b0a3a8a71.webp"
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018824.png"
   },
   {
+    "cardId": "18825",
+    "name": "Energi {Air} Gelembung",
+    "series": "MA5",
+    "type": "",
+    "regulation": "J",
     "collectionNumber": "161/164",
-    "name": "Energi Air Gelembung",
-    "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/3107a10d-e9bd-4b34-aa75-e695540ba730.webp"
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018825.png"
   },
   {
+    "cardId": "18826",
+    "name": "Energi {Listrik} Voltase",
+    "series": "MA5",
+    "type": "",
+    "regulation": "J",
     "collectionNumber": "162/164",
-    "name": "Energi Listrik Voltase",
-    "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/8a3214f8-52e2-439b-b8ca-ba1c874509b7.webp"
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018826.png"
   },
   {
+    "cardId": "18827",
+    "name": "Energi {Kegelapan} Bayangan",
+    "series": "MA5",
+    "type": "",
+    "regulation": "J",
     "collectionNumber": "163/164",
-    "name": "Energi Kegelapan Bayangan",
-    "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/0b45edc6-2fb3-4c6e-854d-6ce3834f426c.webp"
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018827.png"
   },
   {
+    "cardId": "18828",
+    "name": "Energi {Logam} Magnet",
+    "series": "MA5",
+    "type": "",
+    "regulation": "J",
     "collectionNumber": "164/164",
-    "name": "Energi Logam Magnet",
-    "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/252924f3-4c78-4658-8cc0-8b04e0617dfb.webp"
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018828.png"
   },
   {
-    "collectionNumber": "165/164",
+    "cardId": "18829",
     "name": "Chespin",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/690cf51d-adb8-48a6-950e-f03479252c4f.webp"
+    "collectionNumber": "165/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018829.png"
   },
   {
-    "collectionNumber": "166/164",
+    "cardId": "18830",
     "name": "Fomantis",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/41dcf691-c6ce-4178-b125-dc2b4dca5d17.webp"
+    "collectionNumber": "166/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018830.png"
   },
   {
-    "collectionNumber": "167/164",
+    "cardId": "18831",
     "name": "Fennekin",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/9529edf7-a64c-466f-a17a-6637ee409056.webp"
+    "collectionNumber": "167/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018831.png"
   },
   {
-    "collectionNumber": "168/164",
+    "cardId": "18832",
     "name": "Armarouge",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/cfb73f88-0fa9-4718-8e71-08da4c30f0e9.webp"
+    "collectionNumber": "168/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018832.png"
   },
   {
-    "collectionNumber": "169/164",
+    "cardId": "18833",
     "name": "Goldeen",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/447cad8b-6f94-4e5d-9b54-0c5ddf3a7a62.webp"
+    "collectionNumber": "169/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018833.png"
   },
   {
-    "collectionNumber": "170/164",
+    "cardId": "18834",
     "name": "Froakie",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/fc163800-8f91-46af-9410-0bbeb46ce3dd.webp"
+    "collectionNumber": "170/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018834.png"
   },
   {
-    "collectionNumber": "171/164",
+    "cardId": "18835",
     "name": "Frogadier",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/a5e10cc3-1ca4-49aa-9e35-b3dba362153e.webp"
+    "collectionNumber": "171/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018835.png"
   },
   {
-    "collectionNumber": "172/164",
+    "cardId": "18836",
     "name": "Primarina",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/a0269ff8-64b8-4210-bdbd-33caa44c1e81.webp"
+    "collectionNumber": "172/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018836.png"
   },
   {
-    "collectionNumber": "173/164",
+    "cardId": "18837",
     "name": "Ampharos",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/0b052056-191d-4d3f-a5fe-156900411a96.webp"
+    "collectionNumber": "173/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018837.png"
   },
   {
-    "collectionNumber": "174/164",
+    "cardId": "18838",
     "name": "Manectric",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/78b9a8ec-a5d4-4400-b912-f65b6d209b8f.webp"
+    "collectionNumber": "174/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018838.png"
   },
   {
-    "collectionNumber": "175/164",
+    "cardId": "18839",
     "name": "Slowbro",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/1f655750-506e-49dc-b79b-ed128b6e4893.webp"
+    "collectionNumber": "175/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018839.png"
   },
   {
-    "collectionNumber": "176/164",
+    "cardId": "18840",
     "name": "Xerneas",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/4a85fc44-142b-4396-8946-76e540449cf5.webp"
+    "collectionNumber": "176/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018840.png"
   },
   {
-    "collectionNumber": "177/164",
+    "cardId": "18841",
     "name": "Dhelmise",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/1d89b05b-a7a7-4630-84cb-50f23694495b.webp"
+    "collectionNumber": "177/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018841.png"
   },
   {
-    "collectionNumber": "178/164",
+    "cardId": "18842",
     "name": "Claydol",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/e7822749-3cf8-4f16-aceb-aba7baad5316.webp"
+    "collectionNumber": "178/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018842.png"
   },
   {
-    "collectionNumber": "179/164",
+    "cardId": "18843",
     "name": "Crobat",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/c48a1a4c-4bef-4909-9626-d0696030cb79.webp"
+    "collectionNumber": "179/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018843.png"
   },
   {
-    "collectionNumber": "180/164",
+    "cardId": "18844",
     "name": "Thievul",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/47e444ec-903c-483d-85ca-20f97fc3ac4c.webp"
+    "collectionNumber": "180/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018844.png"
   },
   {
-    "collectionNumber": "181/164",
+    "cardId": "18845",
     "name": "Zarude",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/a1888183-2368-44ac-bba1-bf1bb103871a.webp"
+    "collectionNumber": "181/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018845.png"
   },
   {
-    "collectionNumber": "182/164",
+    "cardId": "18846",
     "name": "Metang",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/69b275ae-3877-478f-91d1-f739dc08c92a.webp"
+    "collectionNumber": "182/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018846.png"
   },
   {
-    "collectionNumber": "183/164",
+    "cardId": "18847",
     "name": "Bastiodon",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/ee7af6e1-acd1-4045-a71f-b6caf012c878.webp"
+    "collectionNumber": "183/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018847.png"
   },
   {
-    "collectionNumber": "184/164",
+    "cardId": "18848",
     "name": "Sliggoo",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/cfa03db4-39c1-48ac-8221-d0dae8fb77a4.webp"
+    "collectionNumber": "184/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018848.png"
   },
   {
-    "collectionNumber": "185/164",
+    "cardId": "18849",
     "name": "Tauros",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/fcaf6d5b-b358-4782-9c80-dc832e606b0e.webp"
+    "collectionNumber": "185/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018849.png"
   },
   {
-    "collectionNumber": "186/164",
+    "cardId": "18850",
     "name": "Watchog",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/66ab2da2-89f5-49c8-bfe4-7445495519c9.webp"
+    "collectionNumber": "186/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018850.png"
   },
   {
-    "collectionNumber": "187/164",
+    "cardId": "18851",
     "name": "Toucannon",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/7196f13b-b356-46df-9783-1bb5fced6e8d.webp"
+    "collectionNumber": "187/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018851.png"
   },
   {
-    "collectionNumber": "188/164",
+    "cardId": "18852",
     "name": "Silvally",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/be1540fd-7c0a-44d6-bef2-7c85b743ec02.webp"
+    "collectionNumber": "188/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018852.png"
   },
   {
-    "collectionNumber": "189/164",
+    "cardId": "18853",
     "name": "Beedrill ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/ee9b4234-aef8-4c57-a7e7-8f21a552bb61.webp"
+    "collectionNumber": "189/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018853.png"
   },
   {
-    "collectionNumber": "190/164",
+    "cardId": "18854",
     "name": "Lurantis ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/1200d94d-fa7b-4333-bcac-c1a130e7ecc3.webp"
+    "collectionNumber": "190/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018854.png"
   },
   {
-    "collectionNumber": "191/164",
+    "cardId": "18855",
     "name": "Mega Pyroar ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/862021fe-e5bc-480a-8211-f50d5ac365ee.webp"
+    "collectionNumber": "191/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018855.png"
   },
   {
-    "collectionNumber": "192/164",
+    "cardId": "18856",
     "name": "Wailord ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/098bf412-5262-4eba-b433-0e278a116bf5.webp"
+    "collectionNumber": "192/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018856.png"
   },
   {
-    "collectionNumber": "193/164",
+    "cardId": "18857",
     "name": "Mega Greninja ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/722ca68b-c9df-49de-a31c-132d2bb450c7.webp"
+    "collectionNumber": "193/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018857.png"
   },
   {
-    "collectionNumber": "194/164",
+    "cardId": "18858",
     "name": "Mega Zeraora ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/0a5ec086-d180-45e9-b0d4-0464627b015b.webp"
+    "collectionNumber": "194/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018858.png"
   },
   {
-    "collectionNumber": "195/164",
+    "cardId": "18859",
     "name": "Mega Chandelure ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/f39130a2-048c-4111-8a0d-d5c39218ea81.webp"
+    "collectionNumber": "195/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018859.png"
   },
   {
-    "collectionNumber": "196/164",
+    "cardId": "18860",
     "name": "Mega Floette ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/a46b9fe9-f208-417c-a7f1-6a506e9048bf.webp"
+    "collectionNumber": "196/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018860.png"
   },
   {
-    "collectionNumber": "197/164",
+    "cardId": "18861",
     "name": "Gourgeist ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/9a0a4fe8-751a-4d05-8042-a0e4063e7bed.webp"
+    "collectionNumber": "197/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018861.png"
   },
   {
-    "collectionNumber": "198/164",
+    "cardId": "18862",
     "name": "Rampardos ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/4684f4e5-d20a-4ea5-9a2e-3543e1bb10af.webp"
+    "collectionNumber": "198/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018862.png"
   },
   {
-    "collectionNumber": "199/164",
+    "cardId": "18863",
     "name": "Mega Darkrai ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/2b7c37e4-19f7-4d7c-a998-b8abd3ca1554.webp"
+    "collectionNumber": "199/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018863.png"
   },
   {
-    "collectionNumber": "200/164",
+    "cardId": "18864",
     "name": "Morpeko ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/ee1ef8ec-008c-46de-b62d-06ae796a5072.webp"
+    "collectionNumber": "200/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018864.png"
   },
   {
-    "collectionNumber": "201/164",
+    "cardId": "18865",
     "name": "Mega Excadrill ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/a39f0cb0-3593-40a5-9a40-f3a9d0f2afd6.webp"
+    "collectionNumber": "201/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018865.png"
   },
   {
-    "collectionNumber": "202/164",
+    "cardId": "18866",
     "name": "Cobalion ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/53cfdad8-1117-49e7-8f8e-e3bc280ee244.webp"
+    "collectionNumber": "202/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018866.png"
   },
   {
-    "collectionNumber": "203/164",
+    "cardId": "18867",
     "name": "Mega Dragalge ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/d44726c0-47c1-449c-a337-56792912d579.webp"
+    "collectionNumber": "203/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018867.png"
   },
   {
-    "collectionNumber": "204/164",
+    "cardId": "18868",
     "name": "Cinccino ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/8aaf7596-aed1-4dbb-bf2a-981648e0994e.webp"
+    "collectionNumber": "204/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018868.png"
   },
   {
-    "collectionNumber": "205/164",
+    "cardId": "18869",
     "name": "Iron Defender",
     "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/0b6a5917-a526-483e-a2df-ccbb6cdf3d02.webp"
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "205/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018869.png"
   },
   {
-    "collectionNumber": "206/164",
+    "cardId": "18870",
     "name": "Pemulihan Energi",
     "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/abc817cc-4ec8-447a-8f4c-f53551bcce6a.webp"
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "206/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018870.png"
   },
   {
-    "collectionNumber": "207/164",
+    "cardId": "18871",
     "name": "Pengalih Energi",
     "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/dfd12d49-6840-48ed-afd2-e0edc4e7e1a2.webp"
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "207/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018871.png"
   },
   {
-    "collectionNumber": "208/164",
+    "cardId": "18872",
     "name": "Crush Hammer",
     "series": "MA5",
+    "type": "item",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/0819aea0-41bc-4c82-923e-1158ca2025db.webp"
+    "collectionNumber": "208/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018872.png"
   },
   {
-    "collectionNumber": "209/164",
+    "cardId": "18873",
     "name": "Es Krim Jumbo",
     "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/3d927a12-7bb9-4ce5-a6f4-d30c9cdfcfaf.webp"
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "209/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018873.png"
   },
   {
-    "collectionNumber": "210/164",
+    "cardId": "18874",
     "name": "Kartu Merah Spesial",
     "series": "MA5",
+    "type": "item",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/2f61bcce-b027-4405-8bdb-1c7883363b71.webp"
+    "collectionNumber": "210/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018874.png"
   },
   {
-    "collectionNumber": "211/164",
+    "cardId": "18875",
     "name": "Bel Kegelapan",
     "series": "MA5",
+    "type": "item",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/55cb30f6-fe7f-4a72-9658-42bcc7daf69d.webp"
+    "collectionNumber": "211/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018875.png"
   },
   {
-    "collectionNumber": "212/164",
+    "cardId": "18876",
     "name": "Tool Scrapper",
     "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/619bed93-1494-444d-bca0-2b1940dd24c8.webp"
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "212/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018876.png"
   },
   {
-    "collectionNumber": "213/164",
+    "cardId": "18877",
     "name": "Bom Dahsyat",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/bc526cb8-2ca8-4f0b-89de-ea23dce2b267.webp"
+    "collectionNumber": "213/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018877.png"
   },
   {
-    "collectionNumber": "214/164",
+    "cardId": "18878",
     "name": "Gelang Keberanian",
     "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/520e3e9d-2711-4471-b5b8-f6971fa22e22.webp"
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "214/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018878.png"
   },
   {
-    "collectionNumber": "215/164",
+    "cardId": "18879",
     "name": "Ketenangan AZ",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/adef0454-07da-41ad-960b-ef84bd7ca4ff.webp"
+    "collectionNumber": "215/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018879.png"
   },
   {
-    "collectionNumber": "216/164",
+    "cardId": "18880",
     "name": "Semangat Misty",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/3a2ed05f-d2a7-4f21-aa64-8562a538dcfe.webp"
+    "collectionNumber": "216/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018880.png"
   },
   {
-    "collectionNumber": "217/164",
+    "cardId": "18881",
     "name": "Pertarungan Penentuan Gladion",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/85ebf5e7-54ac-4e13-81da-b2a134b96d50.webp"
+    "collectionNumber": "217/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018881.png"
   },
   {
-    "collectionNumber": "218/164",
+    "cardId": "18882",
     "name": "Anak Buah Sindikat Karat",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/02cb9625-b607-4cec-9878-04c8c31f4ad2.webp"
+    "collectionNumber": "218/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018882.png"
   },
   {
-    "collectionNumber": "219/164",
+    "cardId": "18883",
     "name": "Philippe",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/1e116fe9-abe5-482e-b26f-8a1c7e2e9e7c.webp"
+    "collectionNumber": "219/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018883.png"
   },
   {
-    "collectionNumber": "220/164",
+    "cardId": "18884",
     "name": "Konser Roxie",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/5f2ddfc4-4361-48c0-900f-7835fc3bfa8e.webp"
+    "collectionNumber": "220/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018884.png"
   },
   {
-    "collectionNumber": "221/164",
+    "cardId": "18885",
     "name": "Emma",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/6f2c393e-4097-4baa-938a-c59974d20e74.webp"
+    "collectionNumber": "221/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018885.png"
   },
   {
-    "collectionNumber": "222/164",
+    "cardId": "18886",
     "name": "Suci",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/9c87ebf3-ea7a-4eb8-8a1b-54960cf04367.webp"
+    "collectionNumber": "222/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018886.png"
   },
   {
-    "collectionNumber": "223/164",
+    "cardId": "18887",
     "name": "Pantai Berselancar",
     "series": "MA5",
-    "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/d422fda0-1dbc-4514-9fc8-51be0e70ef73.webp"
+    "type": "stadium",
+    "regulation": "I",
+    "collectionNumber": "223/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018887.png"
   },
   {
-    "collectionNumber": "224/164",
+    "cardId": "18888",
     "name": "Menara Prisma",
     "series": "MA5",
+    "type": "stadium",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/34735691-b448-4bf2-847c-ebe684c65d67.webp"
+    "collectionNumber": "224/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018888.png"
   },
   {
-    "collectionNumber": "225/164",
+    "cardId": "18889",
     "name": "Mega Greninja ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/dddebcb7-770d-48e3-a905-821131748783.webp"
+    "collectionNumber": "225/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018889.png"
   },
   {
-    "collectionNumber": "226/164",
+    "cardId": "18890",
     "name": "Mega Zeraora ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/50c6f23e-48aa-4480-b028-073c00cf0594.webp"
+    "collectionNumber": "226/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018890.png"
   },
   {
-    "collectionNumber": "227/164",
+    "cardId": "18891",
     "name": "Mega Chandelure ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/4fd5a991-6333-4659-9538-c36fcf0642f6.webp"
+    "collectionNumber": "227/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018891.png"
   },
   {
-    "collectionNumber": "228/164",
+    "cardId": "18892",
     "name": "Mega Floette ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/7e6f84af-00b7-42df-8c5d-30518529cdf1.webp"
+    "collectionNumber": "228/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018892.png"
   },
   {
-    "collectionNumber": "229/164",
+    "cardId": "18893",
     "name": "Mega Darkrai ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/2a5c17ec-623a-42c0-9698-5a9d85e0df87.webp"
+    "collectionNumber": "229/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018893.png"
   },
   {
-    "collectionNumber": "230/164",
+    "cardId": "18894",
     "name": "Morpeko ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/af192d84-af59-4ca0-b3ae-670d52f046ed.webp"
+    "collectionNumber": "230/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018894.png"
   },
   {
-    "collectionNumber": "231/164",
+    "cardId": "18895",
     "name": "Mega Dragalge ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/0e87a107-cd4d-4072-be89-6d4b2332d955.webp"
+    "collectionNumber": "231/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018895.png"
   },
   {
-    "collectionNumber": "232/164",
+    "cardId": "18896",
     "name": "Cinccino ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/549dae47-7711-465d-8bd9-edf9dbad4e80.webp"
+    "collectionNumber": "232/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018896.png"
   },
   {
-    "collectionNumber": "233/164",
+    "cardId": "18897",
     "name": "Ketenangan AZ",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/0e8a23e8-a49f-4c28-9f96-2965de42a5d4.webp"
+    "collectionNumber": "233/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018897.png"
   },
   {
-    "collectionNumber": "234/164",
+    "cardId": "18898",
     "name": "Pertarungan Penentuan Gladion",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/e72d240a-2f58-429b-8aa4-b57fba4e605c.webp"
+    "collectionNumber": "234/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018898.png"
   },
   {
-    "collectionNumber": "235/164",
+    "cardId": "18899",
     "name": "Konser Roxie",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/6e54474d-3687-452d-be23-18ca7a81622b.webp"
+    "collectionNumber": "235/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018899.png"
   },
   {
-    "collectionNumber": "236/164",
+    "cardId": "18900",
     "name": "Suci",
     "series": "MA5",
+    "type": "supporter",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/4848a6c5-aa12-49b6-8019-4e4ff15bba4f.webp"
+    "collectionNumber": "236/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018900.png"
   },
   {
-    "collectionNumber": "237/164",
+    "cardId": "18901",
     "name": "Mega Greninja ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/dfd35472-8973-49ab-bf77-4de8eb95a126.webp"
+    "collectionNumber": "237/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018901.png"
   },
   {
-    "collectionNumber": "238/164",
+    "cardId": "18902",
     "name": "Mega Darkrai ex",
     "series": "MA5",
+    "type": "pokemon",
     "regulation": "J",
-    "imageUrl": "https://cdn.daftarkartu.com/cards/id/975a7a86-e7e0-4d7e-8fd0-3c7dc914d496.webp"
+    "collectionNumber": "238/164",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00018902.png"
   }
 ]

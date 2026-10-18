@@ -1,140 +1,218 @@
 [
   {
+    "cardId": "19002",
+    "name": "Charmander",
+    "series": "MATL",
+    "type": "pokemon",
+    "regulation": "I",
     "collectionNumber": "001/023",
-    "name": "Keldeo ex",
-    "series": "MATL",
-    "imageUrl": ""
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019002.png"
   },
   {
+    "cardId": "19003",
+    "name": "Charmeleon",
+    "series": "MATL",
+    "type": "pokemon",
+    "regulation": "I",
     "collectionNumber": "002/023",
-    "name": "Emolga",
-    "series": "MATL",
-    "imageUrl": ""
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019003.png"
   },
   {
+    "cardId": "19004",
+    "name": "Mega Charizard X ex",
+    "series": "MATL",
+    "type": "pokemon",
+    "regulation": "I",
     "collectionNumber": "003/023",
-    "name": "Tynamo",
-    "series": "MATL",
-    "imageUrl": ""
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019004.png"
   },
   {
-    "collectionNumber": "004/023",
+    "cardId": "19005",
     "name": "Victini",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "004/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019005.png"
   },
   {
-    "collectionNumber": "005/023",
-    "name": "Heatmore",
+    "cardId": "19006",
+    "name": "Heatmor",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "005/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019006.png"
   },
   {
-    "collectionNumber": "006/023",
+    "cardId": "19007",
     "name": "Reshiram",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "006/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019007.png"
   },
   {
-    "collectionNumber": "007/023",
+    "cardId": "19008",
     "name": "Oricorio ex",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "007/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019008.png"
   },
   {
-    "collectionNumber": "008/023",
+    "cardId": "19009",
     "name": "Fezandipiti ex",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "008/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019009.png"
   },
   {
-    "collectionNumber": "009/023",
+    "cardId": "19010",
     "name": "Pemulihan Energi",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "009/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019010.png"
   },
   {
-    "collectionNumber": "010/023",
+    "cardId": "19011",
     "name": "Energi Recycle",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "010/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019011.png"
   },
   {
-    "collectionNumber": "011/023",
+    "cardId": "19012",
     "name": "Kartu Merah Spesial",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "011/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019012.png"
   },
   {
-    "collectionNumber": "012/023",
+    "cardId": "19013",
     "name": "Bola Ultra",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "012/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019013.png"
   },
   {
-    "collectionNumber": "013/023",
+    "cardId": "19014",
     "name": "Permen Langka",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "013/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019014.png"
   },
   {
-    "collectionNumber": "014/023",
+    "cardId": "19015",
     "name": "Troli Berharga",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "014/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019015.png"
   },
   {
-    "collectionNumber": "015/023",
+    "cardId": "19016",
     "name": "PokéPad",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "015/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019016.png"
   },
   {
-    "collectionNumber": "016/023",
+    "cardId": "19017",
     "name": "Tukar Pokémon",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "016/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019017.png"
   },
   {
-    "collectionNumber": "017/023",
-    "name": "Tandu Malam",
+    "cardId": "19018",
+    "name": "Tandu Malam‌",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "017/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019018.png"
   },
   {
-    "collectionNumber": "018/023",
+    "cardId": "19019",
     "name": "Balon",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "018/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019019.png"
   },
   {
-    "collectionNumber": "019/023",
+    "cardId": "19020",
     "name": "Semangat Tarung Iris",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "019/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019020.png"
   },
   {
-    "collectionNumber": "020/023",
+    "cardId": "19021",
     "name": "Dawn",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "020/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019021.png"
   },
   {
-    "collectionNumber": "021/023",
+    "cardId": "19022",
     "name": "Lelaki Peniup Api",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "021/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019022.png"
   },
   {
-    "collectionNumber": "022/023",
-    "name": "Perintah Bos",
+    "cardId": "19023",
+    "name": "Perintah Bos (Corvin)",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "022/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019023.png"
   },
   {
-    "collectionNumber": "023/023",
+    "cardId": "19024",
     "name": "Ketetapan Hati Lillie",
     "series": "MATL",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "023/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019024.png"
+  },
+  {
+    "cardId": "19025",
+    "name": "Energi Dasar {Api}",
+    "series": "MATL",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "FIR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019025.png"
   }
 ]

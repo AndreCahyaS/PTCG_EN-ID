@@ -1,122 +1,191 @@
 [
   {
-    "collectionNumber": "001/020",
+    "cardId": "19026",
     "name": "Munkidori",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "001/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019026.png"
   },
   {
-    "collectionNumber": "002/020",
+    "cardId": "19027",
     "name": "Carvanha",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "002/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019027.png"
   },
   {
-    "collectionNumber": "003/020",
+    "cardId": "19028",
     "name": "Mega Sharpedo ex",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "003/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019028.png"
   },
   {
-    "collectionNumber": "004/020",
+    "cardId": "19029",
     "name": "Seviper",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "004/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019029.png"
   },
   {
-    "collectionNumber": "005/020",
+    "cardId": "19030",
     "name": "Toxel",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "005/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019030.png"
   },
   {
-    "collectionNumber": "006/020",
+    "cardId": "19031",
     "name": "Toxtricity",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "006/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019031.png"
   },
   {
-    "collectionNumber": "007/020",
+    "cardId": "19032",
     "name": "Fezandipiti ex",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "007/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019032.png"
   },
   {
-    "collectionNumber": "008/020",
+    "cardId": "19033",
     "name": "Pecharunt ex",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "008/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019033.png"
   },
   {
-    "collectionNumber": "009/020",
+    "cardId": "19034",
     "name": "Kartu Merah Spesial",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "009/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019034.png"
   },
   {
-    "collectionNumber": "010/020",
+    "cardId": "19035",
     "name": "Poffin Bersahabat",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "010/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019035.png"
   },
   {
-    "collectionNumber": "011/020",
+    "cardId": "19036",
     "name": "Bola Ultra",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "011/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019036.png"
   },
   {
-    "collectionNumber": "012/020",
+    "cardId": "19037",
     "name": "Prime Catcher",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "012/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019037.png"
   },
   {
-    "collectionNumber": "013/020",
+    "cardId": "19038",
     "name": "PokéPad",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "013/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019038.png"
   },
   {
-    "collectionNumber": "014/020",
-    "name": "Tandu Malam",
+    "cardId": "19039",
+    "name": "Tandu Malam‌",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "014/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019039.png"
   },
   {
-    "collectionNumber": "015/020",
+    "cardId": "19040",
     "name": "Helm Punk",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "015/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019040.png"
   },
   {
-    "collectionNumber": "016/020",
+    "cardId": "19041",
     "name": "Balon",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "016/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019041.png"
   },
   {
-    "collectionNumber": "017/020",
+    "cardId": "19042",
     "name": "Semangat Tarung Iris",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "017/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019042.png"
   },
   {
-    "collectionNumber": "018/020",
+    "cardId": "19043",
     "name": "Hilda",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "018/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019043.png"
   },
   {
-    "collectionNumber": "019/020",
-    "name": "Perintah Bos",
+    "cardId": "19044",
+    "name": "Perintah Bos (Corvin)",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "019/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019044.png"
   },
   {
-    "collectionNumber": "020/020",
+    "cardId": "19045",
     "name": "Ketetapan Hati Lillie",
     "series": "MATH",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "020/020",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019045.png"
+  },
+  {
+    "cardId": "19046",
+    "name": "Energi Dasar {Kegelapan}",
+    "series": "MATH",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "DAR",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019046.png"
   }
 ]

@@ -1,140 +1,227 @@
 [
   {
-    "collectionNumber": "001/023",
+    "cardId": "19071",
     "name": "Keldeo ex",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "001/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019071.png"
   },
   {
-    "collectionNumber": "002/023",
+    "cardId": "19072",
     "name": "Emolga",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "J",
+    "collectionNumber": "002/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019072.png"
   },
   {
-    "collectionNumber": "003/023",
+    "cardId": "19073",
     "name": "Tynamo",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "003/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019073.png"
   },
   {
-    "collectionNumber": "004/023",
+    "cardId": "19074",
     "name": "Eelektrik",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "004/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019074.png"
   },
   {
-    "collectionNumber": "005/023",
+    "cardId": "19075",
     "name": "Zeraora",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "005/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019075.png"
   },
   {
-    "collectionNumber": "006/023",
+    "cardId": "19076",
     "name": "Dratini",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "006/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019076.png"
   },
   {
-    "collectionNumber": "007/023",
+    "cardId": "19077",
     "name": "Dragonair",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "007/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019077.png"
   },
   {
-    "collectionNumber": "008/023",
-    "name": "Dragonite ex",
-    "series": "MATK",
-    "imageUrl": ""
-  },
-  {
-    "collectionNumber": "009/023",
-    "name": "Tatsugiri",
-    "series": "MATK",
-    "imageUrl": ""
-  },
-  {
-    "collectionNumber": "010/023",
-    "name": "Meowth ex",
-    "series": "MATK",
-    "imageUrl": ""
-  },
-  {
-    "collectionNumber": "011/023",
+    "cardId": "19078",
     "name": "Mega Dragonite ex",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "008/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019078.png"
   },
   {
-    "collectionNumber": "012/023",
+    "cardId": "19079",
+    "name": "Tatsugiri",
+    "series": "MATK",
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "009/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019079.png"
+  },
+  {
+    "cardId": "19080",
+    "name": "Meowth ex",
+    "series": "MATK",
+    "type": "pokemon",
+    "regulation": "J",
+    "collectionNumber": "010/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019080.png"
+  },
+  {
+    "cardId": "19081",
+    "name": "Mega Kangaskhan ex",
+    "series": "MATK",
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "011/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019081.png"
+  },
+  {
+    "cardId": "19082",
     "name": "Kartu Merah Spesial",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "012/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019082.png"
   },
   {
-    "collectionNumber": "013/023",
+    "cardId": "19083",
     "name": "Poffin Bersahabat",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "H",
+    "collectionNumber": "013/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019083.png"
   },
   {
-    "collectionNumber": "014/023",
+    "cardId": "19084",
     "name": "Bola Ultra",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "014/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019084.png"
   },
   {
-    "collectionNumber": "015/023",
+    "cardId": "19085",
     "name": "Permen Langka",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "I",
+    "collectionNumber": "015/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019085.png"
   },
   {
-    "collectionNumber": "016/023",
+    "cardId": "19086",
     "name": "PokéPad",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "item",
+    "regulation": "J",
+    "collectionNumber": "016/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019086.png"
   },
   {
-    "collectionNumber": "017/023",
+    "cardId": "19087",
     "name": "Balon",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "I",
+    "collectionNumber": "017/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019087.png"
   },
   {
-    "collectionNumber": "018/023",
+    "cardId": "19088",
     "name": "Sabuk Maksimum",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "pokemon",
+    "regulation": "H",
+    "collectionNumber": "018/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019088.png"
   },
   {
-    "collectionNumber": "019/023",
+    "cardId": "19089",
     "name": "Semangat Tarung Iris",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "019/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019089.png"
   },
   {
-    "collectionNumber": "020/023",
+    "cardId": "19090",
     "name": "Gemblengan Ahli Karate",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "H",
+    "collectionNumber": "020/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019090.png"
   },
   {
-    "collectionNumber": "021/023",
+    "cardId": "19091",
     "name": "Murneau",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "J",
+    "collectionNumber": "021/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019091.png"
   },
   {
-    "collectionNumber": "022/023",
-    "name": "Perintah Bos",
+    "cardId": "19092",
+    "name": "Perintah Bos (Corvin)",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "022/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019092.png"
   },
   {
-    "collectionNumber": "023/023",
+    "cardId": "19093",
     "name": "Ketetapan Hati Lillie",
     "series": "MATK",
-    "imageUrl": ""
+    "type": "supporter",
+    "regulation": "I",
+    "collectionNumber": "023/023",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019093.png"
+  },
+  {
+    "cardId": "19095",
+    "name": "Energi Dasar {Listrik}",
+    "series": "MATK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "LIG",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019095.png"
+  },
+  {
+    "cardId": "19094",
+    "name": "Energi Dasar {Air}",
+    "series": "MATK",
+    "type": "energi dasar",
+    "regulation": "J",
+    "collectionNumber": "WAT",
+    "imageUrl": "https://asia.pokemon-card.com/id/card-img/id00019094.png"
   }
 ]
