@@ -8,6 +8,7 @@
 
 import { IndonesianCardCandidate } from '../types';
 import setMappingData from '../config/setMapping.json';
+import { buildProxyImageUrl } from './imageProxy';
 
 export interface CustomCardRaw {
   cardId?: string;
@@ -351,7 +352,7 @@ export function lookupCustomPokemon(
       setName,
       name: e.name,
       category: 'Pokemon',
-      image: e.imageUrl,
+      image: buildProxyImageUrl(e.imageUrl),
       regulationMark: e.regulation?.trim() || 'H',
       matchScore: Math.min(score, 100),
       matchReason: `${setName} #${e.collectionNumber || e.localId}`,
@@ -399,7 +400,7 @@ export function searchCustomPokemonDirectly(query: string): IndonesianCardCandid
           setName,
           name: card.name,
           category: 'Pokemon',
-          image: card.imageUrl,
+          image: buildProxyImageUrl(card.imageUrl),
           regulationMark: card.regulation?.trim() || 'H',
           matchScore: card.normName === normQuery ? 100 : (card.normName.startsWith(normQuery) ? 95 : 90),
           matchReason: `Pencarian Lokal: "${query}"`,

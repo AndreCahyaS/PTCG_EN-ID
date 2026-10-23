@@ -3,40 +3,26 @@ import setMappingData from '../config/setMapping.json';
 import { getCachedItem, setCachedItem, getCachedCandidates, setCachedCandidates } from './cache';
 import { lookupCustomPokemon, searchCustomPokemonDirectly, getBasicEnergyImageUrl } from './customCards';
 import { getLatestTrainerImageUrl } from './customTrainers';
+import { buildProxyImageUrl } from './imageProxy';
 
 /**
- * Builds a card image URL.
- * - On production (Vercel): routes through /api/card-image so the image is
- *   fetched from TCGdex once and then served from Vercel Blob Storage forever.
- * - On local dev: falls back to the direct TCGdex CDN URL.
+ * Resolves the full TCGdex CDN URL for a card and passes it through the
+ * Vercel Blob proxy (buildProxyImageUrl). On localhost returns the CDN URL
+ * directly so local dev works without BLOB_READ_WRITE_TOKEN.
  *
- * @param setId       e.g. "SV5s"
- * @param localId     e.g. "103"
- * @param tcgdexBaseUrl  Optional raw image URL from the TCGdex API response
- *                       (format: "https://assets.tcgdex.net/id/SV/<setId>/<localId>").
- *                       When provided, setId/localId are extracted from it so the
- *                       proxy key stays consistent.
+ * @param setId         e.g. "SV5s"
+ * @param localId       e.g. "103"
+ * @param tcgdexBaseUrl Optional base URL from the TCGdex API response.
+ *                      Format: "https://assets.tcgdex.net/id/SV/<setId>/<localId>"
+ *                      When provided, setId/localId are extracted from it.
  */
 function buildCardImageUrl(setId: string, localId: string, tcgdexBaseUrl?: string | null): string {
-  // If TCGdex gave us a full base URL, extract the set/localId from it for the proxy key.
-  // URL pattern: .../id/SV/<setId>/<localId>
   if (tcgdexBaseUrl) {
-    const match = tcgdexBaseUrl.match(/\/id\/SV\/([^/]+)\/([^/]+)$/);
-    if (match) {
-      setId   = match[1];
-      localId = match[2];
-    }
+    const m = tcgdexBaseUrl.match(/\/id\/SV\/([^/]+)\/([^/]+)$/);
+    if (m) { setId = m[1]; localId = m[2]; }
   }
-
-  // In local dev (localhost) bypass the proxy – no BLOB_READ_WRITE_TOKEN needed.
-  const isLocalDev =
-    typeof window !== 'undefined' &&
-    (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
-
-  if (isLocalDev) {
-    return `https://assets.tcgdex.net/id/SV/${setId}/${localId}/high.webp`;
-  }
-  return `/api/card-image?key=${encodeURIComponent(`${setId}/${localId}`)}`;
+  const fullUrl = `https://assets.tcgdex.net/id/SV/${setId}/${localId}/high.webp`;
+  return buildProxyImageUrl(fullUrl);
 }
 
 interface SetMappingConfig {
@@ -389,7 +375,7 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
       setName: '',
       name: energyName,
       category: 'Energy',
-      image: energyImage,
+      image: energyImage ? buildProxyImageUrl(energyImage) : undefined,
       matchScore: 100,
       matchReason: 'Energi Resmi Turnamen (Tanpa Kode & Nomor)',
     };
@@ -409,8 +395,9 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
     // Use apostrophe-normalized lookup to handle smart-quote vs straight-quote mismatches
     const idTrainerName = lookupTrainer(card.name);
 
-    // Look up latest picture available from src/custom
-    let trainerImage = getLatestTrainerImageUrl(card.name, idTrainerName);
+    // Look up latest picture available from src/custom, route through Blob proxy
+    const rawTrainerImage = getLatestTrainerImageUrl(card.name, idTrainerName);
+    let trainerImage = rawTrainerImage ? buildProxyImageUrl(rawTrainerImage) : undefined;
 
     // Fallback: If not found in src/custom, search TCGdex by Indonesian name
     if (!trainerImage) {
@@ -418,7 +405,7 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
         const tcgdexResults = await searchIndonesianCardsByName(idTrainerName);
         const cardWithImage = tcgdexResults.find(c => c.image);
         if (cardWithImage) {
-          trainerImage = `${cardWithImage.image}/high.webp`;
+          trainerImage = buildProxyImageUrl(`${cardWithImage.image}/high.webp`);
         }
       } catch {
         // Ignore fallback errors
