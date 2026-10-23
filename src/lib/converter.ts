@@ -4,6 +4,41 @@ import { getCachedItem, setCachedItem, getCachedCandidates, setCachedCandidates 
 import { lookupCustomPokemon, searchCustomPokemonDirectly, getBasicEnergyImageUrl } from './customCards';
 import { getLatestTrainerImageUrl } from './customTrainers';
 
+/**
+ * Builds a card image URL.
+ * - On production (Vercel): routes through /api/card-image so the image is
+ *   fetched from TCGdex once and then served from Vercel Blob Storage forever.
+ * - On local dev: falls back to the direct TCGdex CDN URL.
+ *
+ * @param setId       e.g. "SV5s"
+ * @param localId     e.g. "103"
+ * @param tcgdexBaseUrl  Optional raw image URL from the TCGdex API response
+ *                       (format: "https://assets.tcgdex.net/id/SV/<setId>/<localId>").
+ *                       When provided, setId/localId are extracted from it so the
+ *                       proxy key stays consistent.
+ */
+function buildCardImageUrl(setId: string, localId: string, tcgdexBaseUrl?: string | null): string {
+  // If TCGdex gave us a full base URL, extract the set/localId from it for the proxy key.
+  // URL pattern: .../id/SV/<setId>/<localId>
+  if (tcgdexBaseUrl) {
+    const match = tcgdexBaseUrl.match(/\/id\/SV\/([^/]+)\/([^/]+)$/);
+    if (match) {
+      setId   = match[1];
+      localId = match[2];
+    }
+  }
+
+  // In local dev (localhost) bypass the proxy – no BLOB_READ_WRITE_TOKEN needed.
+  const isLocalDev =
+    typeof window !== 'undefined' &&
+    (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
+
+  if (isLocalDev) {
+    return `https://assets.tcgdex.net/id/SV/${setId}/${localId}/high.webp`;
+  }
+  return `/api/card-image?key=${encodeURIComponent(`${setId}/${localId}`)}`;
+}
+
 interface SetMappingConfig {
   setCodes: Record<string, { tcgdexEn: string; name: string; targetIdSets: string[] }>;
   pokemonTranslations?: Record<string, string>;
@@ -327,7 +362,7 @@ export async function searchCardsDirectly(query: string): Promise<IndonesianCard
       setName,
       name: card.name,
       category: 'Pokemon',
-      image: card.image ? `${card.image}/high.webp` : `https://assets.tcgdex.net/id/SV/${rawSetId}/${rawLocalId}/high.webp`,
+      image: buildCardImageUrl(rawSetId, rawLocalId, card.image),
       matchScore: 90,
       matchReason: `Pencarian Langsung: "${query}"`,
     });
@@ -510,10 +545,9 @@ export async function convertCard(card: ParsedCard): Promise<MappedCard> {
         score += 2;
       }
 
-      // Build image URL: TCGdex uses /id/SV/<setId>/<localId>/high.webp
-      const imageUrl = match.image
-        ? `${match.image}/high.webp`
-        : `https://assets.tcgdex.net/id/SV/${setId}/${localId}/high.webp`;
+      // Build image URL: route through Vercel Blob proxy in production
+      const imageUrl = buildCardImageUrl(setId, localId, match.image);
+
 
       candidates.push({
         id: match.id,
